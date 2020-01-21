@@ -1,9 +1,0 @@
-{{ define "main" -}}
-{{ .Content }}
-<ul>
-    {{ range .Pages }}
-    <li><a href="{{ .URL | relURL }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-</ul>
-{{- end }}
