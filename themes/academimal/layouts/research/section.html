@@ -12,16 +12,17 @@
 
         <em> {{ .book }}, {{ .date }} <em>
 
+        {{ with .links }}
+        {{ range . }}
+        <p style="margin:0 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
+        {{ end }}
 
 
         {{ with .remarks }}
 
         - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
-
-        {{ with .context.links }}
-        {{ range . }}
-        <p style="margin:0 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
         {{ end }}
+
 
     </p>
     {{ end }}
