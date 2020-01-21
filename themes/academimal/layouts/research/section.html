@@ -1,19 +1,6 @@
 {{ define "main" -}}
 {{ .Content }}
     {{ range .Site.Data.research }}
-    {{ with .conference }}
-    <h3>This is a test!!!</h3>
-    {{ range . }}
-    <p>
-        <strong>{{ .title }}</strong><br>
-        {{ delimit ( apply .authors "replace" "." "Lei Yang" "<em>Lei Yang</em>" ) ", " }}<br>
-        {{ .book }}, {{ .date }}
-        {{ with .remarks }}
-        - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
-        {{ end }}
-    </p>
-    {{ end }}
-    {{ end }}
     {{ with .journal }}
     <h3>Journal Articles</h3>
     {{ range . }}
@@ -23,6 +10,7 @@
         {{ .book }}, {{ .date }}
         {{ with .remarks }}
         - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
+        {{ with .context.abstract }}<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $pid }})">Abstract<span id="pubabslink_{{ $pid }}"> (click to expand)</span></a><span id="pubabs_{{ $pid }}" style="display:none;">: {{ . }}</span></p>{{ end }}
         {{ end }}
     </p>
     {{ end }}
