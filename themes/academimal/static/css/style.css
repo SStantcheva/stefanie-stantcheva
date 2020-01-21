@@ -297,7 +297,7 @@ a:hover small {
   color: #777; }
 
 .wrapper {
-  width: 860px;
+  width: 1060px;
   margin: 0 auto; }
 
 blockquote {
@@ -413,7 +413,7 @@ footer {
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased; }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1160px) {
   div.wrapper {
     width: auto;
     margin: 0; }
