@@ -5,6 +5,7 @@ journal:
   book: "Journal of Public Economics"
   coauthors: "Emmanuel Saez"
   date: "2018"
+  note: "note?"
   links:
     - url: "https://www.google.fr/"
       text: "Google"
