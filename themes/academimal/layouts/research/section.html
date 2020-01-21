@@ -2,23 +2,21 @@
 {{ .Content }}
     {{ range .Site.Data.research }}
     {{ with .journal }}
-    <h2>Journal Articles</h2>
+    <h3>Journal Articles</h3>
     {{ range . }}
     <p>
-        <h3 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h3>
+        <h4 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
         {{ with .coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
 
+
+
         <em> {{ .book }}, {{ .date }} </em>
-
-        {{ with .remarks }}
-
 
         {{ with .links }}
         {{ range . }}
         <p style="margin:0 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
         {{ end }}
         {{ end }}
-
 
         - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
         {{ end }}
