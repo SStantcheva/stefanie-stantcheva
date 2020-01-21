@@ -21,3 +21,16 @@ I am a professor of Economics at Harvard University. My research focuses on how 
 Since May 2018, I have been a member of the French Council of Economic Advisers (Conseil d'Analyse Economique).  Starting January 2020, I will be co-editor at the Quarterly Journal of Economics.
 
 I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the Harvard Society of Fellows 2014-2016 before joining the Harvard Department of Economics in July 2016.
+
+## Contact
+
+**Email:** [sstantcheva@fas.harvard.edu](sstantcheva@fas.harvard.edu)
+**Adress:** 
+Department of Economics  
+Littauer Center 232  
+Harvard University  
+Cambridge, MA  02138  
+
+**Staff Support:** Michael O'Neil
+**Email:** michael_oneil@fas.harvard.edu
+**Tel.:** 617-496-2606
