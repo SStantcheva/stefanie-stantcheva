@@ -1,0 +1,13 @@
+courses:
+- title: Compiler Technology
+  id: "04830150"
+  institute: Peking University
+  term: Spring '18
+  instructor: Prof. Yun Liang
+
+- title: Computer Networks (Honor Track)
+  id: "04832250"
+  institute: Peking University
+  term: Fall '17
+  instructor: Prof. Chenren Xu
+  role: Mentored two student groups in a research-based course project.

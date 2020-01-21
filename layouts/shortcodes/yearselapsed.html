@@ -1,0 +1,4 @@
+{{ $currentYear := int (now.Format "2006") }}
+{{ $fromYear := int (.Get "from") }}
+{{ $elapsed := sub $currentYear $fromYear }}
+{{- $elapsed -}}

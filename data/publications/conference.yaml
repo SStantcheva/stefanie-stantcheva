@@ -1,0 +1,23 @@
+conference:
+- title: "BackCam: Wireless Computer Vision Using Commodity Devices"
+  link: "https://dl.acm.org/citation.cfm?doid=3302506.3310403"
+  authors:
+    - Colleen Josephson
+    - Lei Yang
+    - Pengyu Zhang
+    - Sachin Katti
+  book: "IPSN 2019"
+  date: "April 2019"
+
+- title: "High Throughput Cryptocurrency Routing in Payment Channel Networks"
+  authors:
+    - Vibhaalakshmi Sivaraman
+    - Shaileshh Bojja Venkatakrishnan
+    - Kathleen Ruan
+    - Parimarjan Negi
+    - Lei Yang
+    - Radhika Mittal
+    - Giulia Fanti
+    - Mohammad Alizadeh
+  book: "NSDI 2020"
+  date: "February 2020"

@@ -1,0 +1,12 @@
+<p>
+<div class="mapkitjs" id="{{ .Get "elementID" }}" style="height:{{ .Get "height" }};"></div>
+</p>
+
+<script>
+
+var {{ .Get "elementID" | safeJS }} = new mapkit.Map("{{ .Get "elementID" | safeJS }}");
+
+{{ .Inner | safeJS }}
+
+</script>
+

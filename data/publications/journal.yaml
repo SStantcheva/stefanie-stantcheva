@@ -1,0 +1,41 @@
+journal:
+- title: "Student Cluster Competition 2017, Team Peking University: Reproducing vectorization of the Tersoff multi-body potential on the Intel Broadwell architecture"
+  link: "https://www.sciencedirect.com/science/article/pii/S0167819118300693"
+  authors: 
+    - Zhenxin Fu
+    - Lei Yang
+    - Wenbin Hou
+    - Zhuohan Li
+    - Yifan Wu
+    - Yihua Cheng
+    - Xiaolin Wang
+    - Yun Liang
+  book: "Parallel Computing"
+  date: "October 2018"
+
+- title: "Practical Backscatter Communication Systems for Battery-Free Internet of Things: A Tutorial and Survey of Recent Research"
+  link: "https://ieeexplore.ieee.org/abstract/document/8454398/"
+  authors:
+    - Chenren Xu
+    - Lei Yang
+    - Pengyu Zhang
+  book: "IEEE Signal Processing Magazine"
+  remarks: 
+    text: "Featured article"
+    link: "https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine/practical-backscatter-communication-systems"
+  date: "September 2018"
+
+- title: "ParConnect reproducibility report"
+  link: "https://www.sciencedirect.com/science/article/pii/S0167819117300935"
+  authors:
+    - Lei Yang
+    - Yilong Li
+    - Zhenxin Fu
+    - Zhuohan Li
+    - Wenbin Hou
+    - Haoze Wu
+    - Xiaolin Wang
+    - Yun Liang
+  book: "Parallel Computing"
+  date: "December 2017"
+

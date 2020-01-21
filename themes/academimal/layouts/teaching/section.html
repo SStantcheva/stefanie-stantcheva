@@ -1,0 +1,17 @@
+{{ define "main" -}}
+{{ .Content }}
+    {{ range .Site.Data.teaching }}
+    {{ with .courses }}
+    {{ range . }}
+    <p>
+        <strong>{{ .id }}: {{ .title }}</strong><br>
+        {{ .term }}, {{ .institute }}<br>
+        Instructor: {{ .instructor }}
+        {{ with .role }}
+        <br>Role: {{ . }}
+        {{ end }}
+    </p>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+{{- end }}

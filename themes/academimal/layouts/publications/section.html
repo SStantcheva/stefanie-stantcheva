@@ -1,0 +1,31 @@
+{{ define "main" -}}
+{{ .Content }}
+    {{ range .Site.Data.publications }}
+    {{ with .conference }}
+    <h3>Conference Proceedings</h3>
+    {{ range . }}
+    <p>
+        <strong>{{ .title }}</strong><br>
+        {{ delimit ( apply .authors "replace" "." "Lei Yang" "<em>Lei Yang</em>" ) ", " }}<br>
+        {{ .book }}, {{ .date }}
+        {{ with .remarks }}
+        - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
+        {{ end }}
+    </p>
+    {{ end }}
+    {{ end }}
+    {{ with .journal }}
+    <h3>Journal Articles</h3>
+    {{ range . }}
+    <p>
+        <strong>{{ .title }}</strong><br>
+        {{ delimit ( apply .authors "replace" "." "Lei Yang" "<em>Lei Yang</em>" ) ", " }}<br>
+        {{ .book }}, {{ .date }}
+        {{ with .remarks }}
+        - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
+        {{ end }}
+    </p>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+{{- end }}
