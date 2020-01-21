@@ -1,4 +1,8 @@
-<script>
+{{ define "main" -}}
+{{ .Content }}
+    {{ range .Site.Data.research }}
+    {{ with .journal }}
+    <script>
         function toggle(pid) {
             objid = "pubabs_" + pid.toString();
             linkid = "pubabslink_" + pid.toString();
@@ -13,12 +17,8 @@
                 linkobj.style.display = "inline";
             }
         }
-</script>
+    </script>
 
-{{ define "main" -}}
-{{ .Content }}
-    {{ range .Site.Data.research }}
-    {{ with .journal }}
     <h3>Journal Articles</h3>
     {{ range . }}
     <p>
