@@ -9,15 +9,7 @@
         {{ delimit ( apply .authors "replace" "." "Lei Yang" "<em>Lei Yang</em>" ) ", " }}<br>
         {{ .book }}, {{ .date }}
         {{ with .remarks }}
-        {{ with .coauthors }}
-        {{ .coauthors }}
         - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
-
-        {{ with .coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
-
-        {{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
-        {{ with .book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
-
         {{ end }}
     </p>
     {{ end }}
