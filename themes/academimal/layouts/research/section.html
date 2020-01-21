@@ -11,9 +11,9 @@
         {{ with .remarks }}
         - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
 
-        {{ with .coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
-        {{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
-        {{ with .book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
+        {{ .coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
+        {{ .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
+        {{ .book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
 
         {{ end }}
     </p>
