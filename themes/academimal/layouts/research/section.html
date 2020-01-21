@@ -8,9 +8,9 @@
         <h4 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
         {{ with .coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
 
+        <em> {{ .book }}, {{ .date }} </em>
 
-
-        <em> {{ .book }}, {{ .date }} <em>
+        {{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
 
         {{ with .links }}
         {{ range . }}
