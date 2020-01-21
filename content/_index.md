@@ -24,13 +24,13 @@ I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the
 
 ## Contact
 
-**Email:** [sstantcheva@fas.harvard.edu](sstantcheva@fas.harvard.edu)
+**Email:** [sstantcheva@fas.harvard.edu](sstantcheva@fas.harvard.edu)  
 **Adress:** 
 Department of Economics  
 Littauer Center 232  
 Harvard University  
 Cambridge, MA  02138  
 
-**Staff Support:** Michael O'Neil
-**Email:** michael_oneil@fas.harvard.edu
-**Tel.:** 617-496-2606
+**Staff Support:** Michael O'Neil  
+**Email:** [michael_oneil@fas.harvard.edu](michael_oneil@fas.harvard.edu)  
+**Tel.:** 617-496-2606  
