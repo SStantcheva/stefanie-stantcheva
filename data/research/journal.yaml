@@ -1,8 +1,12 @@
 journal:
 
 - title: "The Importance of Being Marginal: Gender Differences in Generosity"
-  link: "https://www.dropbox.com/s/t6rf4nkghmleheq/SaezStantcheva_capital.pdf?dl=0"
+  pdflink: "https://www.dropbox.com/s/t6rf4nkghmleheq/SaezStantcheva_capital.pdf?dl=0"
   book: "Journal of Public Economics"
   coauthors: "Emmanuel Saez"
   date: "2018"
-
+  links:
+    - url: "https://www.google.fr/"
+      text: "Google"
+  abstract: >
+    Do men and women have different social preferences? Previous findings are contradictory. We provide a potential explanation using evidence from a field experiment. In a door-to-door solicitation, men and women are equally generous, but women become less generous when it becomes easy to avoid the solicitor. Our structural estimates of the social preference parameters suggest an explanation: women are more likely to be on the margin of giving, partly because of a less dispersed distribution of altruism. We find similar results for the willingness to complete an unpaid survey: women are more likely to be on the margin of participation.
