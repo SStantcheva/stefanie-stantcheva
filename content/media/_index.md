@@ -8,21 +8,21 @@ weight = 0
 
 **2020:**
 
-Bloomberg Opinion: Why Hostility to Immigration Runs So Deep'' Article
+Bloomberg Opinion: Why Hostility to Immigration Runs So Deep'' : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/bloomberg.pdf)
 
-ASSA The Deaton Review Session by Richard Blundell Slides
+ASSA The Deaton Review Session by Richard Blundell : [[Slides]](Slides)
 
-[French:] "Entendez-vous l'eco?" sur France Culture: Replay (Audio)
+"Entendez-vous l'eco?" sur France Culture: [[Replay, in French]](https://www.franceculture.fr/emissions/entendez-vous-leco/profession-economiste-33-a-la-recherche-du-juste-impot-avec-stefanie-stantcheva)
 
  
 
 **2019:**
 
-[French:] Tribune dans Le Monde Article
+*[French:]* Tribune dans Le Monde Article
 
 Peterson Institute Conference on "Combating Inequality", Session on Taxing Capital: Video
 
-[Dutch:] De Standaard on the Gaston Eyskens chair 2019 Article 
+**[Dutch:]** De Standaard on the Gaston Eyskens chair 2019 Article 
 
 
 [Dutch:] De Tijd Article
