@@ -2,15 +2,16 @@
 {{ .Content }}
     {{ range .Site.Data.research }}
     {{ with .journal }}
-    <h3>Journal Articles</h3>
+    <h2>Journal Articles</h2>
     {{ range . }}
     <p>
-        <h4 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
+        <h3 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h3>
         {{ with .coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
 
+        <em> {{ .book }}, {{ .date }} </em>
 
+        {{ with .remarks }}
 
-        <em> {{ .book }}, {{ .date }} <em>
 
         {{ with .links }}
         {{ range . }}
@@ -18,7 +19,6 @@
         {{ end }}
         {{ end }}
 
-        {{ with .remarks }}
 
         - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
         {{ end }}
