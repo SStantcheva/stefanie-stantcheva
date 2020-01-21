@@ -15,8 +15,6 @@
         {{ with .links }}
         {{ range . }}
         <p style="margin:0 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
-        {{ end }}
-
 
         {{ with .remarks }}
 
