@@ -6,7 +6,8 @@
     {{ range . }}
     <p>
         <strong>{{ .title }}</strong><br>
-        {{ delimit ( apply .authors "replace" "." "Lei Yang" "<em>Lei Yang</em>" ) ", " }}<br>
+        {{ .book }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
+        {{ .date }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
         {{ .book }}, {{ .date }}
         {{ with .remarks }}
         - <strong>{{ with .link }}<a href="{{ . }}" target="blank">{{ end }}{{ .text }}{{ with .link }}</a>{{ end }}</strong>
