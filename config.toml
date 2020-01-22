@@ -1,8 +1,10 @@
+relativeURLs = true
 title = "Stefanie Stantcheva"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
-relativeURLs = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 
 [author]
 name = "Stefanie Stantcheva"
