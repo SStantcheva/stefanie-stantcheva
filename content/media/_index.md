@@ -18,7 +18,7 @@ ASSA The Deaton Review Session by Richard Blundell : [[Slides]](https://scholar.
 
 **2019:**
 
-Le Monde "Donner à chacun les moyens de mieux raisonner par soi-même" : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/finale.pdf)
+Le Monde *"Donner à chacun les moyens de mieux raisonner par soi-même"* : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/finale.pdf)
 
 Peterson Institute Conference on *"Combating Inequality"*, Session on *Taxing Capital* : [[Video]](https://www.youtube.com/watch?v=AbRSNO3-0Ik&feature=youtu.be&t=24535)
 
