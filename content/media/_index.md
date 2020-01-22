@@ -10,7 +10,7 @@ weight = 0
 
 Bloomberg Opinion *"Why Hostility to Immigration Runs So Deep"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/bloomberg.pdf)
 
-ASSA The Deaton Review Session by Richard Blundell : [[Slides]](Slides)
+ASSA The Deaton Review Session by Richard Blundell : [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_3.pdf)
 
 *"Entendez-vous l'éco?"* sur France Culture : [[Replay, in French]](https://www.franceculture.fr/emissions/entendez-vous-leco/profession-economiste-33-a-la-recherche-du-juste-impot-avec-stefanie-stantcheva)
 

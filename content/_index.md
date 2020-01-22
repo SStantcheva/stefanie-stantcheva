@@ -14,7 +14,7 @@ I am an economist studying the **taxation** of firms and individuals. I focus on
 
 ## A Brief Biography
 
-Here is my [Research Statement](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_research_statement_v1.pdf) and a short summary of my agenda on ["Taxation and Innovation"](https://www.nber.org/reporter/2018number3/stantcheva.html). Here is my [full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_nov2019.pdf).
+Here is my [Research Statement](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_research_statement_v1.pdf) and a short summary of my agenda on [Taxation and Innovation](https://www.nber.org/reporter/2018number3/stantcheva.html). Here is my [full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_nov2019.pdf).
 
 I am a professor of Economics at Harvard University. My research focuses on how to improve the tax and transfer system for firms and individuals. I combine theory and empirics to study the effects of taxes and transfers on economic outcomes and how to incorporate these effects into our tax models.
 
