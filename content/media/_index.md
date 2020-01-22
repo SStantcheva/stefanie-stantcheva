@@ -4,7 +4,7 @@ weight = 0
 +++
 
 
-## Media (own writing and public speaking)
+## Media (appearances, opinions and public speaking)
 
 **2020:**
 
@@ -12,22 +12,21 @@ Bloomberg Opinion *"Why Hostility to Immigration Runs So Deep"* : [[Article]](ht
 
 ASSA The Deaton Review Session by Richard Blundell : [[Slides]](Slides)
 
-*"Entendez-vous l'éco?"* sur France Culture: [[Replay, in French]](https://www.franceculture.fr/emissions/entendez-vous-leco/profession-economiste-33-a-la-recherche-du-juste-impot-avec-stefanie-stantcheva)
+*"Entendez-vous l'éco?"* sur France Culture : [[Replay, in French]](https://www.franceculture.fr/emissions/entendez-vous-leco/profession-economiste-33-a-la-recherche-du-juste-impot-avec-stefanie-stantcheva)
 
  
 
 **2019:**
 
-Le Monde "Donner à chacun les moyens de mieux raisonner par soi-même": [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/finale.pdf)
+Le Monde "Donner à chacun les moyens de mieux raisonner par soi-même" : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/finale.pdf)
 
-Peterson Institute Conference on *"Combating Inequality"*, Session on *Taxing Capital*: [[Video]](https://www.youtube.com/watch?v=AbRSNO3-0Ik&feature=youtu.be&t=24535)
+Peterson Institute Conference on *"Combating Inequality"*, Session on *Taxing Capital* : [[Video]](https://www.youtube.com/watch?v=AbRSNO3-0Ik&feature=youtu.be&t=24535)
 
-De Standaard on the *Gaston Eyskens Chair 2019* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/ds_2019-10-26_stantcheva_gaston_eyskens_2019.jpg?m=1574690182) 
-
+De Standaard on the *Gaston Eyskens Chair 2019* : [[Article, in Dutch]](https://scholar.harvard.edu/files/stantcheva/files/ds_2019-10-26_stantcheva_gaston_eyskens_2019.jpg?m=1574690182) 
 
 De Tijd *"Groene belasting werkt maar als je auto kan ruilen voor bus"* : [[Article, in Dutch]](https://scholar.harvard.edu/files/stantcheva/files/groene_belasting_werkt_maar_als_je_auto_kan_ruilen_voor_bus_de_tijd.pdf)
 
-Vanity Fair *"The 50 most Influential French People in the World in 2019"*: [[Article, in French]](https://www.vanityfair.fr/culture/people/story/les-50-francais-les-plus-influents-du-monde-en-2019/10676)
+Vanity Fair *"The 50 most Influential French People in the World in 2019"* : [[Article, in French]](https://www.vanityfair.fr/culture/people/story/les-50-francais-les-plus-influents-du-monde-en-2019/10676)
 
 Pour l'Eco : [[Video, in French]](https://youtu.be/eg6KCsazf3A)
 
@@ -45,7 +44,7 @@ Brussels Econ Forum Talk : [[Video]](https://www.youtube.com/watch?v=G4mNHrRpIMc
 
 Op-ed on new French data and studies in Le Monde : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/pages_from_20190701_le_monde.pdf)
 
-Interview in le Monde : [[Article, in French](https://www.lemonde.fr/economie/article/2019/05/13/stefanie-stantcheva-l-objectif-de-mes-recherches-est-d-ameliorer-la-conception-des-politiques-fiscales_5461445_3234.html)
+Interview in le Monde : [[Article, in French]](https://www.lemonde.fr/economie/article/2019/05/13/stefanie-stantcheva-l-objectif-de-mes-recherches-est-d-ameliorer-la-conception-des-politiques-fiscales_5461445_3234.html)
 
 Interview on TF1 : [[Video, in French]](https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/invitee-stefanie-stantcheva-elue-meilleure-jeune-economiste-de-l-annee.html)
 
@@ -70,7 +69,7 @@ Project Syndicate *"The Fog of Immigration"* : [[Article]](https://scholar.harva
 
 Nominee for the *Prix du meilleur jeune economiste francais 2018* by Le Monde : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/stefanie_stantcheva_les_politiques_fiscales_sont_dangereuses_si_elles_sont_mal_concues_.pdf?m=1527693866)
 
-Project Syndicate *"Prisoners of the American Dream."* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/prisoners_of_the_american_dream_by_stefanie_stantcheva_-_project_syndicate_0.pdf) [[Video]](https://www.youtube.com/watch?v=YEPlphpFkFk#action=share)
+Project Syndicate *"Prisoners of the American Dream"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/prisoners_of_the_american_dream_by_stefanie_stantcheva_-_project_syndicate_0.pdf) [[Video]](https://www.youtube.com/watch?v=YEPlphpFkFk#action=share)
 
 **2017:**
 

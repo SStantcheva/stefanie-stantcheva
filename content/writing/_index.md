@@ -7,9 +7,9 @@ weight = 0
 ## Broader Audience Writing
 
 
-*"Why do we not Support more Redistribution? New Explanations from Economics Research"* (2019) in "Combating Inequality: Rethinking Policies to Reduce Inequality in Advanced Economies" (eds. Dani Rodrik and Olivier Blanchard, MIT University Press, 2019) : ] [[Article]](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf)
+*"Why do we not Support more Redistribution? New Explanations from Economics Research"* (2019) in "Combating Inequality: Rethinking Policies to Reduce Inequality in Advanced Economies" (eds. Dani Rodrik and Olivier Blanchard, MIT University Press, 2019) : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf)
 
-City Journal *"Mobility: Real and Perceived"* (Autumn 2019)  : [[Article](https://scholar.harvard.edu/files/stantcheva/files/city_journal_alesina_stantcheva.pdf)
+City Journal *"Mobility: Real and Perceived"* (Autumn 2019)  : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/city_journal_alesina_stantcheva.pdf)
 
 NBER Reporter Research Summary on *"Taxation and Innovation"* (2018) : [[Article]](https://www.nber.org/reporter/2018number3/stantcheva.html) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/2018number3.pdf)
 
