@@ -1,21 +1,15 @@
-relativeURLs = true
-googleAnalytics = "UA-24864834-8"
 title = "Stefanie Stantcheva"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
+relativeURLs = true
 
 [author]
-name = "Lei Yang"
+name = "Stefanie Stantcheva"
 homepage = "http://leiy.me/"
 
 [params]
-PGPFingerprint = "2D3EB894C40AE453"
-PGPPubkeyLink = "https://keybase.io/yangl1996/pgp_keys.asc?fingerprint=233a3c408f6e5d3fcc13802f2d3eb894c40ae453"
-ORCID = "0000-0003-3256-4700"
 title = "Professor of Economics,"
 institution = "Harvard University"
-officeAddress = "32-G918"
-officeMapLink = "https://www.csail.mit.edu/sites/default/files/resources/maps/9G/G918.gif"
 logo = "stefanie-stantcheva.jpg" 
 
