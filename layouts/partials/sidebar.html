@@ -1,0 +1,37 @@
+<h1>{{ .Site.Title }}</h1>
+<h1 style="font-size:18px; font-style:italic;">{{ .Site.Params.title }} <br/>
+{{ .Site.Params.institution }}</h1>
+<hr/>
+<p class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">Home</a></p>
+
+{{ $.Scratch.Set "currentPageTitle" .Title }}
+
+{{ range .Site.Menus.main }}
+<p class="sidebar"><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
+
+	{{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
+	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorksInProgress" | relURL }}">Works in Progress</a></p>
+	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorkingPapers" | relURL }}">Working Papers</a></p>
+	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#Publications" | relURL }}">Publications</a></p>
+	{{end}}
+
+{{ end }}
+
+<p class="sidebar"><a class="sidebar" href="https://scholar.harvard.edu/stantcheva/classes">Teaching</a></p>
+<p class="sidebar"><a class="sidebar" href="https://scholar.harvard.edu/stantcheva/classes/ec2906-macro-public-reading-group">Macro Public Reading Group</a></p>
+<p class="sidebar"><a class="sidebar" href="https://scholar.harvard.edu/stantcheva">Harvard Page and Contact</a></p>
+<p class="sidebar"><a class="sidebar" href="{{ "media/#hello" | relURL }}">hello</a></p>
+
+<p class="sidebar">
+<img src="{{ "/icons/email-white-small.png" | relURL }}" class="octicons">
+<a class="sidebar" href="mailto:{{ .Site.Params.Email }}" target="_blank">
+{{ .Site.Params.Email }}
+</a></p>
+<p class="sidebar">
+	<img src="{{ "/icons/twitter-white.png" | relURL }}" class="octicons">
+<a class="sidebar" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
+@{{ .Site.Params.Twitter }}
+</a></p>
+{{ with .Site.Params.logo }}
+<img src="{{ . | relURL }}" alt="Logo" />
+{{ end }}

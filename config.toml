@@ -1,0 +1,19 @@
+relativeURLs = true
+title = "Stefanie Stantcheva"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+
+[author]
+name = "Stefanie Stantcheva"
+homepage = "http://leiy.me/"
+
+[params]
+title = "Professor of Economics,"
+institution = "Harvard University"
+logo = "stefanie-stantcheva.jpg"
+Twitter = "S_Stantcheva"
+Email = "sstantcheva@fas.harvard.edu"
+
