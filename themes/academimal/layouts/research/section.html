@@ -27,27 +27,27 @@
     {{$index:= $.Scratch.Get "count" }}
     
     <p>
-        <h4 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
-        {{ with .coauthors }}<p style="margin:5 0 5px;">(with {{ . }})</p>{{ end }}
+        <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
+        
+        {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
         <em> {{ .book }}, {{ .date }} </em>
 
-        {{ with .note }}<p style="margin:5 0 5px;">{{ . }}</p>{{ end }}
+        {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 
-        {{ with .abstract }}<p style="margin:5 0 5px;"><a href="javascript:toggle({{ $index }})">Abstract<span id="pubabslink_{{ $index }}"> (click to expand)</span></a><span id="pubabs_{{ $index }}" style="display:none;">: {{ . }}</span></p>{{ end }}
+        {{ with .abstract }}<p style="margin:5px 0px 5px 0px;"><a href="javascript:toggle({{ $index }})">Abstract<span id="pubabslink_{{ $index }}"> (click to expand)</span></a><span id="pubabs_{{ $index }}" style="display:none;">: {{ . }}</span></p>{{ end }}
 
         {{ with .links }}
         {{ range . }}
-        <p style="margin:5 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
+        <p style="margin:5px 0px 5px 0px;"><a href="{{ .url }}" target="blank">• {{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
         {{ end }}
         {{ end }}
 
         {{ with .presscoverage }}
-        <p style="margin:5 0 5px;"> Press coverage:
-        {{ range $i, $e := . }}{{ if $i }} ,  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+        <p style="margin:5px 0px 5px 0px;"> Press coverage:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
         {{ end }}
         {{ end }}
-
     </p>
 
     {{ end }}
@@ -62,27 +62,27 @@
     {{$index:= $.Scratch.Get "count" }}
 
     <p>
-        <h4 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
-        {{ with .coauthors }}<p style="margin:5 0 5px;">(with {{ . }})</p>{{ end }}
+        <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
+        
+        {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
         <em> {{ .book }}, {{ .date }} </em>
 
-        {{ with .note }}<p style="margin:5 0 5px;">{{ . }}</p>{{ end }}
+        {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 
-        {{ with .abstract }}<p style="margin:5 0 5px;"><a href="javascript:toggle({{ $index }})">Abstract<span id="pubabslink_{{ $index }}"> (click to expand)</span></a><span id="pubabs_{{ $index }}" style="display:none;">: {{ . }}</span></p>{{ end }}
+        {{ with .abstract }}<p style="margin:5px 0px 5px 0px;"><a href="javascript:toggle({{ $index }})">Abstract<span id="pubabslink_{{ $index }}"> (click to expand)</span></a><span id="pubabs_{{ $index }}" style="display:none;">: {{ . }}</span></p>{{ end }}
 
         {{ with .links }}
         {{ range . }}
-        <p style="margin:5 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
+        <p style="margin:5px 0px 5px 0px;"><a href="{{ .url }}" target="blank">• {{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
         {{ end }}
         {{ end }}
 
         {{ with .presscoverage }}
-        <p style="margin:5 0 5px;"> Press coverage:
-        {{ range $i, $e := . }}{{ if $i }} ,  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+        <p style="margin:5px 0px 5px 0px;"> Press coverage:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
         {{ end }}
         {{ end }}
-
     </p>
 
     {{ end }}
@@ -99,27 +99,27 @@
     {{ if ne .date ($.Scratch.Get "curyear") }}<br><h3>{{ .date }}</h3>{{ $.Scratch.Set "curyear" .date}}{{ end }}
 
     <p>
-        <h4 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
-        {{ with .coauthors }}<p style="margin:5 0 5px;">(with {{ . }})</p>{{ end }}
+        <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
+        
+        {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
         <em> {{ .book }}, {{ .date }} </em>
 
-        {{ with .note }}<p style="margin:5 0 5px;">{{ . }}</p>{{ end }}
+        {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 
-        {{ with .abstract }}<p style="margin:5 0 5px;"><a href="javascript:toggle({{ $index }})">Abstract<span id="pubabslink_{{ $index }}"> (click to expand)</span></a><span id="pubabs_{{ $index }}" style="display:none;">: {{ . }}</span></p>{{ end }}
+        {{ with .abstract }}<p style="margin:5px 0px 5px 0px;"><a href="javascript:toggle({{ $index }})">Abstract<span id="pubabslink_{{ $index }}"> (click to expand)</span></a><span id="pubabs_{{ $index }}" style="display:none;">: {{ . }}</span></p>{{ end }}
 
         {{ with .links }}
         {{ range . }}
-        <p style="margin:5 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
+        <p style="margin:5px 0px 5px 0px;"><a href="{{ .url }}" target="blank">• {{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
         {{ end }}
         {{ end }}
 
         {{ with .presscoverage }}
-        <p style="margin:5 0 5px;"> Press coverage:
-        {{ range $i, $e := . }}{{ if $i }} ,  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+        <p style="margin:5px 0px 5px 0px;"> Press coverage:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
         {{ end }}
         {{ end }}
-
     </p>
 
     {{ end }}
