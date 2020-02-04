@@ -31,7 +31,7 @@
         
         {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
-        <em> {{ .book }}, {{ .date }} </em>
+        <em> {{ .book }}, {{ .year }} </em>
 
         {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 
@@ -66,7 +66,7 @@
         
         {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
-        <em> {{ .book }}, {{ .date }} </em>
+        <em> {{ .book }}, {{ .year }} </em>
 
         {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 
@@ -96,14 +96,14 @@
     {{ $.Scratch.Add "count" 1 }} 
     {{$index:= $.Scratch.Get "count" }}
 
-    {{ if ne .date ($.Scratch.Get "curyear") }}<br><h3>{{ .date }}</h3>{{ $.Scratch.Set "curyear" .date}}{{ end }}
+    {{ if ne .year ($.Scratch.Get "curyear") }}<br><h3>{{ .year }}</h3>{{ $.Scratch.Set "curyear" .year}}{{ end }}
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
         
         {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
-        <em> {{ .book }}, {{ .date }} </em>
+        <em> {{ .book }}, {{ .year }} </em>
 
         {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 

@@ -2,7 +2,7 @@ worksinprogress:
 
 - title: "Understanding Economic Policies: What do people know and learn?"
   book: "In preparation"
-  date: "2020"
+  year: "2020"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_understanding_econ_20191218.pdf"
       text: "Newest slides!"
@@ -16,7 +16,7 @@ workingpapers:
   pdflink: "https://www.dropbox.com/s/z4msv87wf7r27ze/AkcigitHanleyStantcheva_RD_Policies.pdf?dl=0"
   book: "NBER Working Paper 22908 [Revise and Resubmit at Econometrica]"
   coauthors: "Ufuk Akcigit and Douglas Hanley"
-  date: "2019"
+  year: "2019"
   abstract: >
     We study the optimal design of corporate taxation and R&D policies as a dynamic mechanism design problem with spillovers. Firms are heterogeneous in their research productivity, i.e., in the efficiency with which they convert a given set of R&D inputs into successful innovations and that research productivity is private information. There are non-internalized technological spillovers across firms, but the asymmetric information prevents correcting them in the first best way. We highlight that key parameters for the optimal policies are i) the relative complementarities between observable R&D investments, unobservable R&D inputs, and firm research productivity, ii) the dispersion and persistence of firms' research productivities, and iii) the magnitude of technological spillovers across firms. We estimate our model using firm-level data matched to patent data and quantify the optimal policies. In the data, high research productivity firms get disproportionately higher returns to R&D investments than lower productivity firms. Very simple innovation policies, such as linear corporate taxes combined with a nonlinear R&D subsidy -- that provides lower marginal subsidies at higher R&D levels -- can do almost as well as the full unrestricted optimal policies. Our formulas and theoretical and numerical methods are more broadly applicable to the provision of firm incentives in dynamic settings with asymmetric information and spillovers and to firm taxation more generally.
 
@@ -24,7 +24,7 @@ workingpapers:
   pdflink: "https://www.dropbox.com/s/yurdm4qgwf46w2k/AGNS_Taxation_Innovation.pdf?dl=1"
   book: "NBER Working Paper 24982 [Revise and Resubmit at the Quarterly Journal of Economics]"
   coauthors: "Ufuk Akcigit, John R. Grigsby and Tom Nicholas"
-  date: "2018"
+  year: "2018"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/agns_oct_2018_nber_business_v2.pdf"
       text: "Slides"
@@ -38,7 +38,7 @@ workingpapers:
   pdflink: "https://www.dropbox.com/s/o4m1ntn9ff8lcgo/Alesina_Miano_Stantcheva_Immigration.pdf?dl=0"
   book: "NBER Working Paper 24733 [Revise and Resubmit at The Review of Economic Studies]"
   coauthors: "Alberto Alesina and Armando Miano"
-  date: "2018"
+  year: "2018"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_immigration_june2019_am.pdf"
       text: "Slides"
@@ -60,21 +60,21 @@ workingpapers:
   pdflink: "https://www.dropbox.com/s/b1fx86ivdwvlrn6/Tax_Reforms.pdf?dl=0"
   book: "Working Paper"
   coauthors: "Philippe Aghion, Vlad Ciornohuz and Maxime Gravoueille"
-  date: "2019"
+  year: "2019"
   abstract: >
 
 - title: "Anatomy of Inequality in France"
   pdflink: "https://www.dropbox.com/s/atkdc9f3vqixisy/Anatomy_Inequality_2019.pdf?dl=0"
   book: "Working Paper"
   coauthors: "Philippe Aghion, Vlad Ciornohuz and Maxime Gravoueille"
-  date: "2019"
+  year: "2019"
   abstract: >
 
 - title: "Dancing with the Stars: Innovation through Interactions"
   pdflink: "https://www.dropbox.com/s/khxnw544zm2rg3s/Dancing_with_the_Stars.pdf?dl=0"
   book: "NBER Working Paper 24466 [Revise and Resubmit at Econometrica]"
   coauthors: "Ufuk Akcigit, Santiago Caicedo Soler, Ernest Miguelez and Valerio Sterzi"
-  date: "2018"
+  year: "2018"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/acmss_dec2018.pdf"
       text: "Slides"
@@ -85,7 +85,7 @@ workingpapers:
   pdflink: "https://www.dropbox.com/s/frkj1jrvm1dee8r/Tax_Simplicity.pdf?dl=0"
   book: "NBER Working Paper 24049"
   coauthors: "Ufuk Akcigit, Philippe Aghion and Mathieu Lequien"
-  date: "2017"
+  year: "2017"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_princeton_v3.pdf"
       text: "Slides"
@@ -100,14 +100,14 @@ workingpapers:
 - title: "Learning and (or) Doing: Human Capital Investments and Optimal Taxation"
   pdflink: "https://www.dropbox.com/s/a8maioib60xh05a/SStantcheva_Training.pdf?dl=0"
   book: "NBER Working Paper 21381"
-  date: "2015"
+  year: "2015"
   abstract: >
     This paper considers a dynamic taxation problem when agents can allocate their time between working and investing in their human capital. Time investment in human capital, or ``training,'' increases the wage and can interact with an agent's intrinsic, exogenous, and stochastic earnings ability. It also interacts with both current and future labor supply and there can be either ``learning-and-doing'' (when labor and training are complements) or ``learning-or-doing'' (when labor and training are substitutes). Agents' abilities and labor supply are private information to them, which leads to a dynamic mechanism design problem with incentive compatibility constraints. At the optimum, the subsidy on training time is set so as to balance the total labor supply effect of the subsidy and its distributional consequences. In a one-period version of the model, particularly simple relations arise at the optimum between the labor wedge and the training wedge that can also be used to test for the Pareto efficiency of existing tax and subsidy systems. In the limit case of learning-by-doing (when training is a direct by-product of labor) or in the case in which agents who are more able at work are also more able at training, there are important modifications to the labor wedge.
 
 - title: "Optimal Income, Education and Bequest Taxes in an Intergenerational Model"
   pdflink: "https://www.dropbox.com/s/yelf9ft82wg9s5g/Education_Intergen.pdf?dl=0"
   book: "NBER Working Paper 21177"
-  date: "2015"
+  year: "2015"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/intergenerational_v2.pdf"
       text: "Slides"
@@ -124,7 +124,7 @@ publications:
 - title: "Dynamic Taxation"
   pdflink: "https://www.dropbox.com/s/xca67zq04v03zqr/Stantcheva_Dynamic_Taxation_Final.pdf?dl=0"
   book: "Annual Review of Economics"
-  date: "2019"
+  year: "2019"
   abstract: >
     This paper reviews recent advances in the study of dynamic taxation, considering three main approaches: the dynamic Mirrlees, the parametric Ramsey, and the sufficient statistics approaches. In the first approach, agents' heterogeneous abilities to earn income are private information and evolve stochastically over time. Dynamic taxes are not ex ante restricted and are set for redistribution and insurance considerations. Capital is taxed only in order to improve incentives to work. Human capital is optimally subsidized if it reduces post-tax inequality and risk on balance. The Ramsey approach specifies ex ante restricted tax instruments and adopts quantitative methods, which allows it to consider more complex and realistic economies. Capital taxes are optimal when age-dependent labor income taxes are not possible. The newer and tractable sufficient statistics approach derives robust tax formulas that depend on estimable elasticities and features of the income distributions. It simplifies the transitional dynamics thanks to a newly defined criterion, the ``utility-based steady state approach" that prevents the government from exploiting sluggish responses in the short-run. Capital taxes are here based on the standard equity-efficiency trade-off. 
 
@@ -132,7 +132,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/txp23rpnu1byi5r/Polarization_Reality.pdf"
   book: "American Economic Review Papers and Proceedings [NBER Working Paper 26675]"
   coauthors: "Alberto Alesina and Armando Miano"
-  date: "2019"
+  year: "2019"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_aea_v2.pdf"
       text: "Slides"
@@ -143,7 +143,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/h06i3hze5oisnii/Alesina_Stantcheva_Redistribution.pdf?dl=0"
   book: "American Economic Review: Papers and Proceedings [NBER Working Paper 26620]"
   coauthors: "Alberto Alesina and Armando Miano"
-  date: "2019"
+  year: "2019"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_template.pdf"
       text: "Slides"
@@ -154,7 +154,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/fhvymlfyj2s64re/JEP_Mobility.pdf?dl=0"
   book: "Journal of Economic Perspectives Spring 2020 [Also: NBER Working Paper 25740]"
   coauthors: "Henrik Kleven, Camille Landais and Mathilde Munoz"
-  date: "2019"
+  year: "2019"
   abstract: >
     In this article, we review a growing empirical literature on the effects of personal taxation on the geographic mobility of people and discuss its policy implications. We start by laying out the empirical challenges that prevented progress in this area until recently, and then discuss how recent work have made use of new data sources and quasi-experimental approaches to credibly estimate migration responses. This body of work has shown that certain segments of the labor market, especially high-income workers and professions with little location-specific human capital, may be quite responsive to taxes in their location decisions. When considering the implications for tax policy design, we distinguish between uncoordinated and coordinated tax policy. We highlight the importance of recognizing that mobility elasticities are not exogenous, structural parameters. They can vary greatly depending on the population being analyzed, the size of the tax jurisdiction, the extent of tax policy coordination, and a range of non-tax policies. While migration responses add to the efficiency costs of redistributing income, we caution against over-using the recent evidence of (sizeable) mobility responses to taxes as an argument for less redistribution in a globalized world.
 
@@ -162,7 +162,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/t6rf4nkghmleheq/SaezStantcheva_capital.pdf?dl=0"
   book: "Journal of Public Economics 162: 120-142 [also: NBER Working Paper 22664]"
   coauthors: "Emmanuel Saez"
-  date: "2018"
+  year: "2018"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/capitaltax_slidesv11_cornell.pdf"
       text: "Slides"
@@ -173,7 +173,7 @@ publications:
   pdflink: "https://scholar.harvard.edu/stantcheva/publications/intergenerational-mobility-and-support-redistribution"
   book: "American Economic Review 108 (2): 521-554 [also NBER Working Paper 23027]"
   coauthors: "Alberto Alesina and Edoardo Teso"
-  date: "2018"
+  year: "2018"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/online_appendix.pdf"
       text: "Online Appendix"
@@ -210,7 +210,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/jbtujtqbfonwlrh/S_Stantcheva_HumanCapital.pdf?dl=0"
   book: "[Lead article] Journal of Political Economy 125 (6)"
   coauthors: 
-  date: "2018"
+  year: "2018"
   links:
     - url: "https://scholar.harvard.edu/files/S_Stantcheva_HumanCapital_OnlineAppendix.pdf"
       text: "Online Appendix"
@@ -221,7 +221,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/jyf4l7lorevfvf8/Akcigit_Baslandze_Stantcheva_Taxation_Superstars.pdf?dl=0"
   book: "American Economic Review 106 (10): 2930–2981"
   coauthors: "Ufuk Akcigit and Salome Baslandze"
-  date: "2016"
+  year: "2016"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/2015-0237_online_appendix.pdf"
       text: "Online Appendix"
@@ -244,7 +244,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/wxpq16cwcqq58h3/Saez_Stantcheva_GSWW.pdf?dl=0"
   book: "American Economic Review 106 (1): 24-45"
   coauthors: "Emmanuel Saez"
-  date: "2016"
+  year: "2016"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/sww_presentation_lse_may2015.pdf"
       text: "Slides"
@@ -258,7 +258,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/q01khis47tedxbh/InequalitySurvey.pdf?dl=0"
   book: "American Economic Review 105 (4): 1478-1508"
   coauthors: "Ilyana Kuziemko, Michael Norton and Emmanuel Saez"
-  date: "2015"
+  year: "2015"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/inequalitysurvey_slides.pdf"
       text: "Slides"
@@ -271,7 +271,7 @@ publications:
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/adverse_selection_online_appendix.pdf"
   book: "Review of Economic Studies 81: 1296-1329"
   coauthors: 
-  date: "2014"
+  year: "2014"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/adverse_selection_online_appendix.pdf"
       text: "Online Appendix"
@@ -282,7 +282,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/hxpmahsib5qogig/piketty-saez-stantchevaAEJ14.pdf?dl=0"
   book: "American Economic Journal: Economic Policy 6 (1): 230-271"
   coauthors: "Thomas Piketty and Emmanuel Saez"
-  date: "2014"
+  year: "2014"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/files_nberwp.zip"
       text: "Data"
@@ -295,7 +295,7 @@ publications:
 - title: "Optimal Taxation and Human Capital Policies over the Life Cycle"
   pdflink: "https://www.dropbox.com/s/73zm4yb2qdrfwhj/S_Stantcheva_JMP.pdf?dl=0"
   book: "Job Market Paper"
-  date: "2013"
+  year: "2013"
   note: "This is a long and comprehensive job market paper version and has now been replaced by two papers: ''Learning and (or) doing: Human Capital Investments and Optimal Taxation'' and ''Optimal Taxation and Human Capital Policies over the Life Cycle.''"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/s_stantcheva_jmp_slides.pdf"
