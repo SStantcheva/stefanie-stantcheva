@@ -18,4 +18,4 @@ If you only want to change the content on the webpage, all you have to change is
 
 - *To change the appearance of the whole site:* some options, notably fronts, colours and sizes can be edited in the `themes/academimal/static/css/style.css`; more complex edits will require you to change the `.html` of individual pages or of the sidebar, which is a far more convoluted process, notably because the code is spread across many different snippets. Tip: use "inspect element" in your browser and the "search" function in your computer generously.
 
-If you have any questions, feel free to write to `c.schesch@gmail.com`.
+**If you have any questions,** feel free to write to c.schesch@gmail.com.
