@@ -12,4 +12,10 @@ If you only want to change the content on the webpage, all you have to change is
 
 - *In general:* You will need to clone this repository to your local device, make the changes you want to implement, test wether they render properly locally and online, and then [make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Stephanie Stantcheva will need to approve it.
 
-- *To change the content of the `Home`, `Broader Audience Writing` and `Media Pages`:* the content of these pages are respectively in `content/_index.md`, `content/writing/_index.md` and `content/media/_index.md`
+- *To change the content of the `Home`, `Broader Audience Writing` and `Media` pages:* the content of these pages are respectively in `content/_index.md`, `content/writing/_index.md` and `content/media/_index.md`. You simply need to edit the file, which is written in [GitHub markdown](https://guides.github.com/features/mastering-markdown/).
+
+- *To change the content of the `Research` page:* only the introduction to this page is in `content/research/_index.md`, while the articles are listed in the  `data/research/research.yaml` file. To add a new article, copy-paste one of the existing ones and change its attributes. Empty attributes sometimes lead to faulty appearance, so delete the one's you don't need. Articles are automatically put in the category of the list in which you entered them. To change an existing article, simply edit its current entry. Note: the order of the articles is the order in which they will show up, so keep it chronological; furthermore, do not put anything else than a year in YYYY under the "date" entry, otherwise the year-subtitles for publications will break.
+
+- *To change the appearance of the whole site:* some options, notably fronts, colours and sizes can be edited in the `themes/academimal/static/css/style.css`; more complex edits will require you to change the `.html` of individual pages or of the sidebar, which is a far more convoluted process, notably because the code is spread across many different snippets. Tip: use "inspect element" in your browser and the "search" function in your computer generously.
+
+If you have any questions, feel free to write to `c.schesch@gmail.com`.
