@@ -10,9 +10,9 @@
 <p class="sidebar"><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
 
 	{{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
-	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorksInProgress" | relURL }}">Works in Progress</a></p>
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorkingPapers" | relURL }}">Working Papers</a></p>
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#Publications" | relURL }}">Publications</a></p>
+	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorksInProgress" | relURL }}">Works in Progress</a></p>
 	{{end}}
 
 {{ end }}
