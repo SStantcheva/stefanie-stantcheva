@@ -36,4 +36,4 @@ Cambridge, MA  02138
 **Tel.:** 617-496-2606  
 
 
-**Website:** This website was built using the Academimal theme for Hugo designed by Lei Yang and elements from Gautam Rao's website. Feel free to use and repurpose its code, which you can find on [GitHub](https://github.com/cschesch/stefanie-stantcheva).
+**Website:** This website was built using Hugo. Feel free to repurpose its code, which you can find on [GitHub](https://github.com/cschesch/stefanie-stantcheva).

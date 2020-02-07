@@ -1,6 +1,6 @@
 ### Stefanie Stantcheva's Website - Documentation
 
-This website was built using Hugo, the Academimal theme for Hugo and elements from Lei Yang's and Gautam Rao's website.
+This website was built using Hugo, the Academimal theme for Hugo and elements from Lei Yang's and Gautam Rao's website. Thanks a lot to both!
 
 **If you want to build your own website:** The simplest avenue is to [install Hugo](https://gohugo.io/getting-started/quick-start/), clone this GitHub repository to your computer, modify the parts you want to change and render it locally. You can then host it online using [Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/), [Render](https://gohugo.io/hosting-and-deployment/hosting-on-render/), [GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/) or one of the many other services.
 
@@ -18,6 +18,6 @@ If you only want to change the content on the webpage, all you have to change is
 
 - *To change the appearance of the whole site:* some options, notably fronts, colours and sizes can be edited in the `themes/academimal/static/css/style.css`; more complex edits will require you to change the `.html` of individual pages or of the sidebar, which is a far more convoluted process, notably because the code is spread across many different snippets. Tip: use "inspect element" in your browser and the "search" function in your computer generously.
 
-- Something on how the site is hosted.
+- Something on how the site is hosted, TBD.
 
-**If you have any questions,** feel free to write to c.schesch@gmail.com.
+**If you have any questions,** feel free to write to c.schesch@gmail.com or sstantcheva@fas.harvard.edu.
