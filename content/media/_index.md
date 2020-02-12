@@ -4,8 +4,7 @@ weight = 0
 +++
 
 
-## Media (appearances, opinions and public speaking)
-
+## Media
 
 ### 2020
 
