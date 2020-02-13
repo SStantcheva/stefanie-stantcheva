@@ -6,7 +6,6 @@ weight = 0
 
 ## Media
 
-### Hello, this is a test.
 
 ### 2020
 
