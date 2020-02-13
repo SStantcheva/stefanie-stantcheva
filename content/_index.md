@@ -18,7 +18,7 @@ Here is my [Research Statement](https://scholar.harvard.edu/files/stantcheva/fil
 
 I am a professor of Economics at Harvard University. My research focuses on how to improve the tax and transfer system for firms and individuals. I combine theory and empirics to study the effects of taxes and transfers on economic outcomes and how to incorporate these effects into our tax models.
 
-Since May 2018, I have been a member of the French Council of Economic Advisers (Conseil d'Analyse Economique).  Starting January 2020, I will be co-editor at the Quarterly Journal of Economics.
+Since May 2018, I have been a member of the French Council of Economic Advisers (Conseil d'Analyse Economique).  Since January 2020, I am a co-editor at the Quarterly Journal of Economics.
 
 I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the Harvard Society of Fellows 2014-2016 before joining the Harvard Department of Economics in July 2016.
 
