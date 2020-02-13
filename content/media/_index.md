@@ -9,7 +9,7 @@ weight = 0
 
 ### 2020
 
-NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]] (https://www.npr.org/transcripts/802417653)
+NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]](https://www.npr.org/transcripts/802417653)
 
 Vox *"Can populist economics coexist with pro-immigrant policies?"*: [[Article]](https://www.vox.com/future-perfect/2020/1/15/21065368/immigration-misperceptions-taxes-spending-nativism-study-alesina-stantcheva)
 
