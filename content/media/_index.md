@@ -8,6 +8,8 @@ weight = 0
 
 This is a test : [[Test]](/test.pdf)
 
+This is a test too : [[Test2]](/media/test2.pdf)
+
 
 ### 2020
 
