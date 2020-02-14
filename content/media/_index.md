@@ -6,6 +6,8 @@ weight = 0
 
 ## Media
 
+This is a test : [[Test]](/test.pdf)
+
 
 ### 2020
 
