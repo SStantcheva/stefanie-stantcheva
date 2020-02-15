@@ -9,6 +9,8 @@ weight = 0
 
 ### 2020
 
+New York Times *"Trump is Waiting and He is Ready"*: [[Article]](/media/Polarization_nytimes.pdf)
+ 
 NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]](https://www.npr.org/transcripts/802417653)
 
 Vox *"Can populist economics coexist with pro-immigrant policies?"*: [[Article]](https://www.vox.com/future-perfect/2020/1/15/21065368/immigration-misperceptions-taxes-spending-nativism-study-alesina-stantcheva)
