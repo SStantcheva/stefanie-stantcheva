@@ -5,7 +5,6 @@ sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
-
 [author]
 name = "Stefanie Stantcheva"
 
@@ -16,6 +15,4 @@ logo = "stefanie-stantcheva.jpg"
 Twitter = "S_Stantcheva"
 Email = "sstantcheva@fas.harvard.edu"
 
-[blackfriday]
-  plainIDAnchors = true
-  hrefTargetBlank = true
+
