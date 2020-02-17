@@ -8,7 +8,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [author]
 name = "Stefanie Stantcheva"
-homepage = "http://leiy.me/"
 
 [params]
 title = "Professor of Economics,"
@@ -17,3 +16,6 @@ logo = "stefanie-stantcheva.jpg"
 Twitter = "S_Stantcheva"
 Email = "sstantcheva@fas.harvard.edu"
 
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
