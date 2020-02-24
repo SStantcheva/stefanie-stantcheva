@@ -6,6 +6,7 @@ weight = 0
 
 ## Media
 
+
 ### 2020
 
 New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://stefanie-stantcheva.onrender.com/media/Polarization_nytimes.pdf)
