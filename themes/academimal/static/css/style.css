@@ -477,7 +477,10 @@ footer {
     width: 99%; }
 
   header li, header ul li + li + li {
-    width: 33%; } }
+    width: 33%; }
+
+  img.nothomepage {
+  display: none; }}
 
 @media print {
   body {

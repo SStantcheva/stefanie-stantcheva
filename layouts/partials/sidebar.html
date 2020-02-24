@@ -31,6 +31,11 @@
 <a class="sidebar" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
 @{{ .Site.Params.Twitter }}
 </a></p>
+
 {{ with .Site.Params.logo }}
+{{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
 <img src="{{ . | relURL }}" alt="Logo" />
+{{ else }}
+<img class="nothomepage" src="{{ . | relURL }}" alt="Logo" />
+{{ end }}
 {{ end }}
