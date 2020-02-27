@@ -8,7 +8,7 @@ I am an economist studying the **taxation** of firms and individuals using model
 
 I explore the **long-run effects** of taxes on **innovation**, education & training, and wealth. How can we design the tax system to foster innovation?
 
-I also run large-scale "Social Economics Surveys and experiments" to explore the determinants of our **social preferences, attitudes, and perceptions**.
+I also run large-scale **"Social Economics Surveys and experiments"** to explore the determinants of our **social preferences, attitudes, and perceptions**.
 
 
 I am a professor of Economics at Harvard University. 
