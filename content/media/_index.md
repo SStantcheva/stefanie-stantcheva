@@ -14,8 +14,7 @@ New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://stefani
  
 NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]](https://www.npr.org/transcripts/802417653)
 
-The Week *"The Lie of the Immigrant Welfare Queen"*: [[Article]]
-(https://theweek.com/articles/889620/lie-immigrant-welfare-queen)
+The Week *"The Lie of the Immigrant Welfare Queen"*: [[Article]](https://theweek.com/articles/889620/lie-immigrant-welfare-queen)
 
 Vox *"Can populist economics coexist with pro-immigrant policies?"*: [[Article]](https://www.vox.com/future-perfect/2020/1/15/21065368/immigration-misperceptions-taxes-spending-nativism-study-alesina-stantcheva)
 
