@@ -6,7 +6,11 @@ worksinprogress:
   year: "2020"
   abstract: >
     I study how well people understand, reason, and learn about four economic policies: i) Personal income taxation, ii) Estate taxation, iii) Health insurance, and iv) Trade. To that end, I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about policies and the underlying economic phenomena, but also their understanding of the mechanisms of each policy and their reasoning. The detailed survey questions are designed to address the three main factors that can shape support for or opposition to various policies: efficiency effects, distributional implications, and fairness considerations. To extract people's first-order considerations that come to mind when they are prompted to think about a given policy, its shortcomings, and goals without priming them, open-ended questions are used and then evaluated with text analysis methods. There are partisan divergences of varying magnitudes and significance, not just in the final policy views, but also in reasonings about the underlying mechanisms. Respondents are in many cases likely to think of themselves as responding differently and facing different consequences from other people. Women in particular tend to consider themselves and other women as less responsive to income and estate taxes. Health insurance considerations are also intertwined with gender considerations and views on female health concerns and services are starkly divided. I experimentally show people instructional videos that explain the workings and consequences of each policy from three different perspectives. The ``Distributional'' perspective focuses on the distributional consequences of each policy; the ``Efficiency'' perspective focuses on the efficiency costs; the ``Economist'' perspectives focuses on the trade-off, combining both the distributional and efficiency perspectives together. Respondents do change some of their views about the mechanisms and the desirable design of some policies after seeing the instructional videos. The possibility to influence at least the perceived mechanisms suggests that perhaps explanations (rather than the provision of simple facts) can be useful as a first step in elevating the policy debate. 
-  
+  links:
+    - url: "https://www.dropbox.com/s/2evbqrrnodbkzet/Survey_Questionnaires.pdf?dl=0"
+      text: "Survey Questionnaires"
+    - url: "https://www.dropbox.com/s/64pjs0xm49c71oc/online_appendix_v1.pdf?dl=0"
+      text: "Online Appendix"
 
 workingpapers:
 
