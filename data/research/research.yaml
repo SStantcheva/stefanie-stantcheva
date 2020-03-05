@@ -1,11 +1,12 @@
 worksinprogress:
 
-- title: "Understanding Economic Policies: What do people know and learn?"
-  book: "In preparation"
+- title: [NEW!] "Understanding Economic Policies: What do people know and learn?"
+  pdflink: "https://www.dropbox.com/s/zlvzvj8pnqvb1iy/Stantcheva_Understanding_Economics.pdf?dl=0"
+  book: Harvard University Working Paper
   year: "2020"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_understanding_econ_20191218.pdf"
-      text: "Newest slides!"
+  #links:
+   # - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_understanding_econ_20191218.pdf"
+    #  text: "Newest slides!"
 
 
 
