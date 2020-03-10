@@ -52,13 +52,13 @@ Brussels Econ Forum Talk : [[Video]](https://www.youtube.com/watch?v=G4mNHrRpIMc
 
 Op-ed on new French data and studies in Le Monde : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/pages_from_20190701_le_monde.pdf)
 
-Interview in le Monde : [[Article, in French]](https://www.lemonde.fr/economie/article/2019/05/13/stefanie-stantcheva-l-objectif-de-mes-recherches-est-d-ameliorer-la-conception-des-politiques-fiscales_5461445_3234.html)
+Interview in Le Monde : [[Article, in French]](https://www.lemonde.fr/economie/article/2019/05/13/stefanie-stantcheva-l-objectif-de-mes-recherches-est-d-ameliorer-la-conception-des-politiques-fiscales_5461445_3234.html)
 
 Interview on TF1 : [[Video, in French]](https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/invitee-stefanie-stantcheva-elue-meilleure-jeune-economiste-de-l-annee.html)
 
 Short Presentation on Surveys, April 2019 : [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/nyt_april2019.pdf)
 
-Interview in le Monde : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/le_monde_stefanie_stantcheva.pdf)
+Interview in Le Monde : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/le_monde_stefanie_stantcheva.pdf)
 
 Alberto Alesina describes our research for Le Monde : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/le_monde_alberto_alesina_.pdf)
 
