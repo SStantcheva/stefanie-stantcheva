@@ -10,7 +10,7 @@ Here is some selected media coverage of my research.
 
 ### 2020
 
-New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://stefanie-stantcheva.onrender.com/media/Polarization_nytimes.pdf)
+New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://stefanie-stantcheva.com/media/Polarization_nytimes.pdf)
  
 NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]](https://www.npr.org/transcripts/802417653)
 
