@@ -20,6 +20,6 @@ If you only want to change the content on the webpage, all you have to change is
 
 - *To change the appearance of the whole site:* Some options, notably fronts, colours and sizes can be edited in the `themes/academimal/static/css/style.css` file. More complex edits will require you to change the `.html` of individual pages or of the sidebar, which is a far more convoluted process, notably because the code is spread across many different snippets. For example, if you want to change the URL to which a link in the sidebar refers, you need to open `layouts/partials/sidebar.html` and change the `href` value next to the link text you want to edit. In `.html` files, parts in accollades (e.g. `{{ .Site.Title }}`) are in Go language and should be edited with even more caution. *Tip:* use "inspect element" in your browser and the "search" function in your computer generously to find the `.html` file that governs the page element you want to alter.
 
-- Something on how the site is hosted, TBD.
+- The site's content is on GitHub, but its content is hosted on *Netlify*. Furthermore, the domain is purchased annually through *Domain.com*. More information to manage this can be found in the "Websites – Accounts and Information" document (ask Stefanie or another RA!).
 
 **If you have any questions,** feel free to write to c.schesch@gmail.com or sstantcheva@fas.harvard.edu.
