@@ -1,7 +1,8 @@
-<h1>{{ .Site.Title }}</h1>
+<h1 class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
 <h1 style="font-size:18px; font-style:italic;">{{ .Site.Params.title }} <br/>
 {{ .Site.Params.institution }}</h1>
 <hr/>
+
 <p class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">Home</a></p>
 
 {{ $.Scratch.Set "currentPageTitle" .Title }}
@@ -19,6 +20,8 @@
 
 <p class="sidebar"><a class="sidebar" href="https://scholar.harvard.edu/stantcheva/classes">Teaching</a></p>
 <p class="sidebar"><a class="sidebar" href="https://scholar.harvard.edu/stantcheva/classes/ec2907-public-reading-group">Reading Group</a></p>
+<p class="sidebar"><a class="sidebar" href="http://socialeconomicslab.org/">Social Economics Lab</a></p>
+<p class="sidebar"><a class="sidebar" href="http://understandingeconomics.org/">Understanding Economics</a></p>
 <p class="sidebar"><a class="sidebar" href="https://scholar.harvard.edu/stantcheva">Contact and Harvard Page</a></p>
 
 <p class="sidebar">
