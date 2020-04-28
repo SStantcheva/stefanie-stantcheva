@@ -3,8 +3,6 @@
 {{ .Site.Params.institution }}</h1>
 <hr/>
 
-<p class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">Home</a></p>
-
 {{ $.Scratch.Set "currentPageTitle" .Title }}
 
 {{ range .Site.Menus.main }}
