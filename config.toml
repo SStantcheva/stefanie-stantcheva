@@ -1,4 +1,4 @@
-relativeURLs = true
+baseurl = "https://www.stefanie-stantcheva.com/"
 googleAnalytics = "UA-159072578-1"
 title = "Stefanie Stantcheva"
 theme = "academimal"
