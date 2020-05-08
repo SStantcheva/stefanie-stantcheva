@@ -2,7 +2,7 @@
 title = "Homepage"
 +++
 
-## Hello!
+## Hi!
 
 I am an economist studying the **taxation** of firms and individuals using models and data.
 
