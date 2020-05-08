@@ -119,14 +119,14 @@ publications:
 - title: "Dynamic Taxation"
   pdflink: "https://www.dropbox.com/s/xca67zq04v03zqr/Stantcheva_Dynamic_Taxation_Final.pdf?dl=0"
   book: "Annual Review of Economics"
-  year: "2019"
+  year: "2020"
   abstract: >
     This paper reviews recent advances in the study of dynamic taxation, considering three main approaches: the dynamic Mirrlees, the parametric Ramsey, and the sufficient statistics approaches. In the first approach, agents' heterogeneous abilities to earn income are private information and evolve stochastically over time. Dynamic taxes are not ex ante restricted and are set for redistribution and insurance considerations. Capital is taxed only in order to improve incentives to work. Human capital is optimally subsidized if it reduces post-tax inequality and risk on balance. The Ramsey approach specifies ex ante restricted tax instruments and adopts quantitative methods, which allows it to consider more complex and realistic economies. Capital taxes are optimal when age-dependent labor income taxes are not possible. The newer and tractable sufficient statistics approach derives robust tax formulas that depend on estimable elasticities and features of the income distributions. It simplifies the transitional dynamics thanks to a newly defined criterion, the "utility-based steady state approach" that prevents the government from exploiting sluggish responses in the short-run. Capital taxes are here based on the standard equity-efficiency trade-off. 
 - title: "The Polarization of Reality"
   pdflink: "https://www.dropbox.com/s/txp23rpnu1byi5r/Polarization_Reality.pdf"
   book: "American Economic Review Papers and Proceedings [also NBER Working Paper 26675]"
   coauthors: "Alberto Alesina and Armando Miano"
-  year: "2019"
+  year: "2020"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_aea_v2.pdf"
       text: "Slides"
@@ -136,7 +136,7 @@ publications:
   pdflink: "https://www.dropbox.com/s/h06i3hze5oisnii/Alesina_Stantcheva_Redistribution.pdf?dl=0"
   book: "American Economic Review: Papers and Proceedings [also NBER Working Paper 26620]"
   coauthors: "Alberto Alesina and Armando Miano"
-  year: "2019"
+  year: "2020"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_template.pdf"
       text: "Slides"
@@ -144,9 +144,9 @@ publications:
     This paper provides a simple conceptual framework that captures how different perceptions, attitudes, and biases about immigrants or minorities can shape preferences for redistribution and reviews the empirical evidence on the effects of increasing racial diversity and immigration on support for redistribution.
 - title: "Taxation and Migration: Evidence and Policy Implications"
   pdflink: "https://www.dropbox.com/s/fhvymlfyj2s64re/JEP_Mobility.pdf?dl=0"
-  book: "Journal of Economic Perspectives Spring 2020 [also NBER Working Paper 25740]"
+  book: "Journal of Economic Perspectives Spring 2020 34(2): 119-142 [also NBER Working Paper 25740]"
   coauthors: "Henrik Kleven, Camille Landais and Mathilde Munoz"
-  year: "2019"
+  year: "2020"
   abstract: >
     In this article, we review a growing empirical literature on the effects of personal taxation on the geographic mobility of people and discuss its policy implications. We start by laying out the empirical challenges that prevented progress in this area until recently, and then discuss how recent work have made use of new data sources and quasi-experimental approaches to credibly estimate migration responses. This body of work has shown that certain segments of the labor market, especially high-income workers and professions with little location-specific human capital, may be quite responsive to taxes in their location decisions. When considering the implications for tax policy design, we distinguish between uncoordinated and coordinated tax policy. We highlight the importance of recognizing that mobility elasticities are not exogenous, structural parameters. They can vary greatly depending on the population being analyzed, the size of the tax jurisdiction, the extent of tax policy coordination, and a range of non-tax policies. While migration responses add to the efficiency costs of redistributing income, we caution against over-using the recent evidence of (sizeable) mobility responses to taxes as an argument for less redistribution in a globalized world.
 - title: "A Simpler Theory of Optimal Capital Taxation"
