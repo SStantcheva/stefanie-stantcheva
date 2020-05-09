@@ -116,6 +116,13 @@ workingpapers:
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
 
+- title: "Taxation and Innovation: What Do We Know?"
+  pdflink: "https://www.dropbox.com/s/gnaqc5o96zutj8l/w27109.pdf?dl=0"
+  book: "NBER Tax Policy and the Economy [also NBER Working Paper 27109"
+  year: "2020"
+  abstract: >
+    Tax policies are a wide array of tools, commonly used by governments to influence the economy. In this paper, we review the many margins through which tax policies can affect innovation, the main driver of economic growth in the long-run. These margins include the impact of tax policy on i) the quantity and quality of innovation; ii) the geographic mobility of innovation and inventors across U.S. states and countries; iii) the declining business dynamism in the U.S., firm entry, and productivity; iv) the quality composition of firms, inventors, and teams; and v) the direction of research effort, e.g., toward applied versus basic research, or toward dirty versus clean technologies. We give ideas drawn from research on how the  design of policy can allow policy makers to foster the most productive firms without wasting public funds on less productive ones.
+  
 - title: "Dynamic Taxation"
   pdflink: "https://www.dropbox.com/s/xca67zq04v03zqr/Stantcheva_Dynamic_Taxation_Final.pdf?dl=0"
   book: "Annual Review of Economics"
