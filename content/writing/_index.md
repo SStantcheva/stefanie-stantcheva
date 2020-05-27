@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2020:**
 
+*"Alberto Alesina: A Free-Spirited Economist"* Tribute to Alberto Alesina on VOXEU [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/alberto_alesina._a_free-spirited_economist_vox_cepr_policy_portal.pdf) [[Link]](https://voxeu.org/article/alberto-alesina-free-spirited-economist)
+
 [French] *"Economie Sociale du COVID19"* (2020) avec Clement Herman et Constantin Schesch [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/note.pdf)
 
 
