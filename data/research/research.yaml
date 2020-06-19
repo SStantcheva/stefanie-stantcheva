@@ -123,41 +123,7 @@ publications:
   book: "JAMA Network Open"
   year: "2020"
   abstract: >
-    IMPORTANCE Data from the coronavirus disease 2019 (COVID-19) pandemic in the US show large
-differences in hospitalizations and mortality across race and geography. However, there are limited
-data on health information, beliefs, and behaviors that might indicate different exposure to risk.
-OBJECTIVE To determine the association of sociodemographic characteristics with reported
-incidence, knowledge, and behavior regarding COVID-19 among US adults.
-DESIGN, SETTING, AND PARTICIPANTS A US national survey study was conducted from March 29
-to April 13, 2020, to measure differences in knowledge, beliefs, and behavior about COVID-19. The
-survey oversampled COVID-19 hotspot areas. The survey was conducted electronically. The criteria
-for inclusion were age 18 years or older and residence in the US. Data analysis was performed in
-April 2020.
-MAIN OUTCOMES AND MEASURES The main outcomes were incidence, knowledge, and
-behaviors related to COVID-19 as measured by survey response.
-RESULTS The survey included 5198 individuals (mean [SD] age, 48 [18] years; 2336 men [45%];
-3759 white [72%], 830 [16%] African American, and 609 [12%] Hispanic). The largest differences in
-COVID-19–related knowledge and behaviors were associated with race/ethnicity, sex, and age, with
-African American participants, men, and people younger than 55 years showing less knowledge than
-other groups. African American respondents were 3.5 percentage points (95%CI, 1.5 to 5.5
-percentage points; P = .001) more likely than white respondents to report being infected with
-COVID-19, aswere men compared withwomen (3.2 percentage points; 95%CI, 2.0 to 4.4 percentage
-points; P < .001). Knowing someone who tested positive for COVID-19 was more common among
-African American respondents (7.2 percentage points; 95%CI, 3.4 to 10.9 percentage points;
-P < .001), people younger than 30 years (11.6 percentage points; 95%CI, 7.5 to 15.7 percentage
-points; P < .001), and people with higher incomes (coefficient on earning$100 000, 12.3
-percentage points; 95%CI, 8.7 to 15.8 percentage points; P < .001). Knowledge of potential fomite
-spread was lower among African American respondents (−9.4 percentage points; 95%CI, −13.1 to
-−5.7 percentage points; P < .001), Hispanic respondents (−4.8 percentage points; 95%CI, −8.9 to
-−0.77 percentage points; P = .02), and people younger than 30 years (−10.3 percentage points; 95%
-CI, −14.1 to −6.5 percentage points; P < .001). Similar gaps were found with respect to knowledge of
-COVID-19 symptoms and preventive behaviors.
-CONCLUSIONS AND RELEVANCE In this survey study of US adults, there were gaps in reported
-incidence of COVID-19 and knowledge regarding its spread and symptoms and social distancing
-behavior. More effort is needed to increase accurate information and encourage appropriate
-behaviors among minority communities, men, and younger people.
-
-
+    A US national survey study was conducted from March 29 to April 13, 2020, to measure differences in knowledge, beliefs, and behavior about COVID-19. The survey oversampled COVID-19 hotspot areas. The main outcomes were incidence, knowledge, and behaviors related to COVID-19 as measured by survey response. The survey included 5198 individuals (mean [SD] age, 48 [18] years; 2336 men [45%]; 3759 white [72%], 830 [16%] African American, and 609 [12%] Hispanic). The largest differences in COVID-19–related knowledge and behaviors were associated with race/ethnicity, sex, and age, with African American participants, men, and people younger than 55 years showing less knowledge than other groups. African American respondents were 3.5 percentage points (95%CI, 1.5 to 5.5 percentage points; P = .001) more likely than white respondents to report being infected with COVID-19, aswere men compared withwomen (3.2 percentage points; 95%CI, 2.0 to 4.4 percentage points; P < .001). Knowing someone who tested positive for COVID-19 was more common among African American respondents (7.2 percentage points; 95%CI, 3.4 to 10.9 percentage points; P < .001), people younger than 30 years (11.6 percentage points; 95%CI, 7.5 to 15.7 percentage points; P < .001), and people with higher incomes (coefficient on earning$100 000, 12.3 percentage points; 95%CI, 8.7 to 15.8 percentage points; P < .001). Knowledge of potential fomite spread was lower among African American respondents (−9.4 percentage points; 95%CI, −13.1 to −5.7 percentage points; P < .001), Hispanic respondents (−4.8 percentage points; 95%CI, −8.9 to −0.77 percentage points; P = .02), and people younger than 30 years (−10.3 percentage points; 95% CI, −14.1 to −6.5 percentage points; P < .001). Similar gaps were found with respect to knowledge of COVID-19 symptoms and preventive behaviors.
 
 - title: "Taxation and Innovation: What Do We Know?"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27109.pdf"
