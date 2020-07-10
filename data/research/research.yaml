@@ -132,13 +132,13 @@ publications:
   
 - title: "Dynamic Taxation"
   pdflink: "https://www.dropbox.com/s/xca67zq04v03zqr/Stantcheva_Dynamic_Taxation_Final.pdf?dl=0"
-  book: "Annual Review of Economics"
+  book: "Annual Review of Economics Volume 12"
   year: "2020"
   abstract: >
     This paper reviews recent advances in the study of dynamic taxation, considering three main approaches: the dynamic Mirrlees, the parametric Ramsey, and the sufficient statistics approaches. In the first approach, agents' heterogeneous abilities to earn income are private information and evolve stochastically over time. Dynamic taxes are not ex ante restricted and are set for redistribution and insurance considerations. Capital is taxed only in order to improve incentives to work. Human capital is optimally subsidized if it reduces post-tax inequality and risk on balance. The Ramsey approach specifies ex ante restricted tax instruments and adopts quantitative methods, which allows it to consider more complex and realistic economies. Capital taxes are optimal when age-dependent labor income taxes are not possible. The newer and tractable sufficient statistics approach derives robust tax formulas that depend on estimable elasticities and features of the income distributions. It simplifies the transitional dynamics thanks to a newly defined criterion, the "utility-based steady state approach" that prevents the government from exploiting sluggish responses in the short-run. Capital taxes are here based on the standard equity-efficiency trade-off. 
 - title: "The Polarization of Reality"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/polarization_reality.pdf"
-  book: "American Economic Review Papers and Proceedings [also NBER Working Paper 26675]"
+  book: "American Economic Review Papers and Proceedings 110: 324-328 [also NBER Working Paper 26675]"
   coauthors: "Alberto Alesina and Armando Miano"
   year: "2020"
   links:
@@ -148,7 +148,7 @@ publications:
     Americans are polarized not only in their views on policy issues and attitudes towards government and society, but also in their perceptions of the same, factual reality. In this paper we conceptualize how to think about the "polarization of reality’’ and review recent papers that show that Republicans and Democrats (as well as Trump and non-Trump voters since 2016) view the same reality through a very different lens. Perhaps as a result, they hold different views about policies and what should be done to address different economic and social issues. We also show that providing information leads to different reassessments of reality and different responses along the policy support margin, depending on one's political leanings. This is not about having different attitudes about economic or social phenomena or policies that could justifiably be viewed differently from different angles. What is striking is to have different perceptions of realities that can be factually checked.
 - title: "Diversity, Immigration, and Redistribution"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_stantcheva_diversity.pdf"
-  book: "American Economic Review: Papers and Proceedings [also NBER Working Paper 26620]"
+  book: "American Economic Review: Papers and Proceedings 110: 329-334 [also NBER Working Paper 26620]"
   coauthors: "Alberto Alesina and Armando Miano"
   year: "2020"
   links:
