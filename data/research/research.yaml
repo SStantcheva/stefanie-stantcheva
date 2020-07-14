@@ -1,5 +1,22 @@
 worksinprogress:
 
+
+
+- title: "Understanding Tax Policy: How do people Reason?"
+  pdflink: "https://www.dropbox.com/s/3gn09acj07hgrd3/Understanding_Economics_Taxes_v4.pdf?dl=0"
+  book: "Harvard University Working Paper"
+  year: "2020"
+  links:
+    - url: "https://www.dropbox.com/s/2evbqrrnodbkzet/Survey_Questionnaires.pdf?dl=0"
+      text: "Survey Questionnaires"
+    - url: "https://www.dropbox.com/s/wmr1rk6f59xb35o/Understanding_Economics_Online_Appendix.pdf?dl=0"
+      text: "Online Appendix"
+    - url: "https://understandingeconomics.org/#/"
+      text: "Understanding Economics Website"
+  abstract: >
+    I study how well people understand, reason, and learn about tax policy, in particular income and estate taxation. The goal is to uncover the mental models that people use to think about tax policy. To that end, I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. The detailed survey questions are designed to address the three main factors emphasized in our core tax model that can shape support for or opposition to taxes: efficiency effects, distributional implications, and fairness considerations. But they also elicit broader concerns that could influence policy views such as misperceptions, views of government, perceived spillovers from taxes, and views on how tax revenues are or should be spent. To extract people's first-order considerations that come to mind when they are prompted to think about tax policy, its shortcomings, and goals without priming them, open-ended questions are used and then evaluated with text analysis methods. There are partisan divergences of varying magnitudes and significance, not just in the final policy views, but also in reasonings about the underlying mechanisms. Respondents are in many cases likely to think of themselves as responding somewhat differently to taxes and facing different consequences from other people. Women in particular tend to consider themselves and other women as less responsive to income and estate taxes. Regardless of their own income, Republicans perceive their own costs and benefits from tax changes to be more closely aligned to those of higher-income agents. This is consistent with the finding that they perceive themselves to be of higher economic class than Democrats do, even conditional on income. I decompose policy views into the various underlying factors and find that support for tax policy is most strongly correlated with views on fairness and the government, and more weakly correlated with misperception, efficiency or distributional concerns. I experimentally show people instructional videos that explain the workings and consequences of each policy from three different perspectives. The ``Distributional'' perspective focuses on the distributional consequences of each policy; the ``Efficiency'' perspective focuses on the efficiency costs; the ``Economist'' perspectives focuses on the trade-off, combining both the distributional and efficiency perspectives together. The Redistribution treatment and Economist treatments significantly increase support for more progressive taxes. 
+ 
+
 - title: "Understanding Economic Policies: What do people know and learn?"
   pdflink: "https://www.dropbox.com/s/zlvzvj8pnqvb1iy/Stantcheva_Understanding_Economics.pdf?dl=0"
   book: "Harvard University Working Paper"
@@ -9,6 +26,8 @@ worksinprogress:
       text: "Survey Questionnaires"
     - url: "https://www.dropbox.com/s/wmr1rk6f59xb35o/Understanding_Economics_Online_Appendix.pdf?dl=0"
       text: "Online Appendix"
+    - url: "https://understandingeconomics.org/#/"
+      text: "Understanding Economics Website"
   abstract: >
     I study how well people understand, reason, and learn about four economic policies: i) Personal income taxation, ii) Estate taxation, iii) Health insurance, and iv) Trade. To that end, I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about policies and the underlying economic phenomena, but also their understanding of the mechanisms of each policy and their reasoning. The detailed survey questions are designed to address the three main factors that can shape support for or opposition to various policies: efficiency effects, distributional implications, and fairness considerations. To extract people's first-order considerations that come to mind when they are prompted to think about a given policy, its shortcomings, and goals without priming them, open-ended questions are used and then evaluated with text analysis methods. There are partisan divergences of varying magnitudes and significance, not just in the final policy views, but also in reasonings about the underlying mechanisms. Respondents are in many cases likely to think of themselves as responding differently and facing different consequences from other people. Women in particular tend to consider themselves and other women as less responsive to income and estate taxes. Health insurance considerations are also intertwined with gender considerations and views on female health concerns and services are starkly divided. I experimentally show people instructional videos that explain the workings and consequences of each policy from three different perspectives. The "Distributional" perspective focuses on the distributional consequences of each policy; the "Efficiency" perspective focuses on the efficiency costs; the "Economist" perspectives focuses on the trade-off, combining both the distributional and efficiency perspectives together. Respondents do change some of their views about the mechanisms and the desirable design of some policies after seeing the instructional videos. The possibility to influence at least the perceived mechanisms of and sometimes even support for given policies suggests that perhaps explanations (rather than the provision of simple facts) can be useful as a first step in elevating the policy debate. 
     
