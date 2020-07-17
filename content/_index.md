@@ -15,7 +15,7 @@ I am a professor of Economics at Harvard University. Since May 2018, I have been
 
 I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the Harvard Society of Fellows 2014-2016 before joining the Harvard Department of Economics in July 2016.
 
-Here is my [Full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_nov2019.pdf). Also: my [Research Statement](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_research_statement_v1.pdf) and a short summary of my agenda on [Taxation and Innovation](https://www.nber.org/reporter/2018number3/stantcheva.html). 
+Here is my [Full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_jul2020.pdf). Also: my [Research Statement](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_research_statement_v1.pdf) and a short summary of my agenda on [Taxation and Innovation](https://www.nber.org/reporter/2018number3/stantcheva.html). 
 
 
 ## Contact
