@@ -1,21 +1,5 @@
 worksinprogress:
 
-
-
-- title: "Understanding Tax Policy: How do people Reason?"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27699_1.pdf"
-  book: "NBER Working Paper 27699"
-  year: "2020"
-  links:
-    - url: "https://www.dropbox.com/s/2evbqrrnodbkzet/Survey_Questionnaires.pdf?dl=0"
-      text: "Survey Questionnaires"
-    - url: "https://www.dropbox.com/s/t8fj3fi82hfsjrc/Stantcheva_Understanding_Taxes_OA.pdf?dl=0"
-      text: "Online Appendix"
-    - url: "https://understandingeconomics.org/#/"
-      text: "Understanding Economics Website"
-  abstract: >
-    I study how people understand, reason, and learn about tax policy. The goal is to uncover the mental models that people use to think about income and estate taxes. To that end, I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. The detailed survey questions are designed to address the three main factors emphasized in our core tax model that can shape support for or opposition to taxes: efficiency effects, distributional implications, and fairness considerations. But they also elicit broader concerns that could influence policy views such as misperceptions, views of government, perceived spillovers from taxes, and views on how tax revenues are or should be spent. To extract people's first-order considerations that come to mind when they are prompted to think about tax policy, its shortcomings, and goals without priming them, open-ended questions are used and then evaluated with text analysis methods. There are partisan divergences not just in the final policy views, but also in reasonings about the underlying mechanisms and most starkly on the fairness considerations. I decompose policy views into the various underlying factors and find that support for tax policy is most strongly correlated with views on the benefits of redistribution and fairness, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the ``Redistribution'' and the ``Efficiency'' treatments) or that bring the two together and focus on the trade-off (the ``Economist'' treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive taxes. 
-
 - title: "Understanding Economic Policies: What do people know and learn?"
   pdflink: "https://www.dropbox.com/s/zlvzvj8pnqvb1iy/Stantcheva_Understanding_Economics.pdf?dl=0"
   book: "Harvard University Working Paper"
@@ -38,6 +22,30 @@ worksinprogress:
     For centuries, public health was often used as a marker of good governance and provided legitimacy to the state. Yet, threats to public health have occasionally been used as a pretext for eroding civil and political rights that underpin democratic society and vibrant markets. How do citizens view the fundamental trade-offs between health, liberty and economic well-being? What are citizens willing to sacrifice and what are they steadfast in supporting no matter what the circumstance? How does this vary across countries and geographies within countries? In this paper, we collect cross-country survey data covering four European, two Asian countries and the United States. We use these data to 1) describe citizens preferences over these fundamental trade-offs 2) exploit geographic variation in Covid-19 infection rates combined with individual medical conditions to analyze how personal health risk influences attitudes; and 3) experimentally manipulate the salience of the benefits of public health measures (Health treatment) or the potential costs to civil liberties (Civil Liberties treatment) in order to study how attitudes respond to information.
 
 workingpapers:
+
+- title: "Understanding Tax Policy: How do people Reason?"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27699_1.pdf"
+  book: "NBER Working Paper 27699"
+  year: "2020"
+  links:
+    - url: "https://www.dropbox.com/s/2evbqrrnodbkzet/Survey_Questionnaires.pdf?dl=0"
+      text: "Survey Questionnaires"
+    - url: "https://www.dropbox.com/s/t8fj3fi82hfsjrc/Stantcheva_Understanding_Taxes_OA.pdf?dl=0"
+      text: "Online Appendix"
+    - url: "https://understandingeconomics.org/#/"
+      text: "Understanding Economics Website"
+  abstract: >
+    I study how people understand, reason, and learn about tax policy. The goal is to uncover the mental models that people use to think about income and estate taxes. To that end, I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. The detailed survey questions are designed to address the three main factors emphasized in our core tax model that can shape support for or opposition to taxes: efficiency effects, distributional implications, and fairness considerations. But they also elicit broader concerns that could influence policy views such as misperceptions, views of government, perceived spillovers from taxes, and views on how tax revenues are or should be spent. To extract people's first-order considerations that come to mind when they are prompted to think about tax policy, its shortcomings, and goals without priming them, open-ended questions are used and then evaluated with text analysis methods. There are partisan divergences not just in the final policy views, but also in reasonings about the underlying mechanisms and most starkly on the fairness considerations. I decompose policy views into the various underlying factors and find that support for tax policy is most strongly correlated with views on the benefits of redistribution and fairness, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the ``Redistribution'' and the ``Efficiency'' treatments) or that bring the two together and focus on the trade-off (the ``Economist'' treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive taxes. 
+
+- title: "Clearing the Bar: Improving Tax Compliance for Small Firms through Target Setting"
+  pdflink: "https://www.dropbox.com/s/5y1n268juj5ytcf/Al-Karablieh_Koumanakos_Stantcheva_Greece.pdf?dl=0"
+  book: "NBER Working Paper [Prepared for the Journal of International Economics, NBER 2020 ISOM]"
+  year: "2020"
+  links:
+    - url: "https://www.dropbox.com/s/tvdmo9wyro06ety/ISoM_paper_slides.pdf?dl=0"
+      text: "Slides"
+  abstract: >
+    We use a new dataset consisting of the universe of Greek corporate tax returns matched to financial statements to study a voluntary tax compliance program for small firms. This “self-assessment” program prescribed target taxable profit margins for different types of activity. Firms that reported profit margins above these targets in a given year were exempt from audits in that year. We find that the firms that take-up the program report significantly larger taxable profits than non-eligible firms, with some evidence of longer-lasting effects on tax reporting. Taxable profits increase by up to 70% of their pre-program levels. We also find that firms can easily and substantially manipulate reported revenue (decreasing it by up to 40%) to help meet prescribed profit margins. Overall, the program increased tax revenues collected from small firms, but points to a very large level of baseline under-reporting of profits and showcases the ease of manipulating reported revenues.
 
 - title: "Optimal Taxation and R&D Policies"
   pdflink: "https://www.dropbox.com/s/z4msv87wf7r27ze/AkcigitHanleyStantcheva_RD_Policies.pdf?dl=0"
