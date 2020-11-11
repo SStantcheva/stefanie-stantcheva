@@ -10,9 +10,9 @@ This page features pieces based on my research and that of others and that are i
 
 **2020:**
 
-Project Syndicate *"Civil Liberties in a Pandemic"* : [[Article]](ttps://stefanie-stantcheva.com/writing/Civil_Liberties_in_a_Pandemic_PS.pdf)
+Project Syndicate *"Civil Liberties in a Pandemic"* : [[Article]](https://stefanie-stantcheva.com/writing/Civil_Liberties_in_a_Pandemic_PS.pdf)
 
-Project Syndicate *"The Post-Pandemic Social Contract"* with Dani Rodrik : [[Article]](ttps://stefanie-stantcheva.com/writing/The_Post-Pandemic_Social_Contract_Rodrik_Stantcheva_PS.pdf)
+Project Syndicate *"The Post-Pandemic Social Contract"* with Dani Rodrik : [[Article]](https://stefanie-stantcheva.com/writing/The_Post-Pandemic_Social_Contract_Rodrik_Stantcheva_PS.pdf)
 
 *"Alberto Alesina: A Free-Spirited Economist"* Tribute to Alberto Alesina on VOXEU [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/alberto_alesina._a_free-spirited_economist_vox_cepr_policy_portal.pdf) [[Link]](https://voxeu.org/article/alberto-alesina-free-spirited-economist)
 
