@@ -10,7 +10,7 @@ Here is some selected media coverage of my research.
 
 ### 2020
 
-L'Opinion *"Stefanie Stantcheva (Harvard): «L’abandon de ses propres libertés n’est pas un choix permanent, loin de là»"*: [[Article, in Frehcn]](https://www.lopinion.fr/edition/economie/stefanie-stantcheva-harvard-l-abandon-propres-libertes-n-est-pas-choix-227061)
+L'Opinion *"Stefanie Stantcheva (Harvard): «L’abandon de ses propres libertés n’est pas un choix permanent, loin de là»"*: [[Article, in French]](https://www.lopinion.fr/edition/economie/stefanie-stantcheva-harvard-l-abandon-propres-libertes-n-est-pas-choix-227061)
 
 Frankfurter Allgemeine Zeitung *"Der Nobelpreis 2030 geht an ..."*: [[Article, in German]](https://www.faz.net/aktuell/wirtschaft/der-nobelpreis-2030-geht-an-16995608.html)
 
