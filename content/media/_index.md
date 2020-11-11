@@ -10,6 +10,12 @@ Here is some selected media coverage of my research.
 
 ### 2020
 
+L'Opinion *"Stefanie Stantcheva (Harvard): «L’abandon de ses propres libertés n’est pas un choix permanent, loin de là»"*: [[Article, in Frehcn]](https://www.lopinion.fr/edition/economie/stefanie-stantcheva-harvard-l-abandon-propres-libertes-n-est-pas-choix-227061)
+
+Frankfurter Allgemeine Zeitung *"Der Nobelpreis 2030 geht an ..."*: [[Article, in German]](https://www.faz.net/aktuell/wirtschaft/der-nobelpreis-2030-geht-an-16995608.html)
+
+Deep Background with Noah Feldman *"The Economic Impact of COVID-19"*: [[Podcast]](https://www.pushkin.fm/episode/the-economic-impact-of-covid-19/)
+
 New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://stefanie-stantcheva.com/media/Polarization_nytimes.pdf)
  
 NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]](https://www.npr.org/transcripts/802417653)
