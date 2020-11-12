@@ -14,6 +14,14 @@ L'Opinion *"Stefanie Stantcheva (Harvard): «L’abandon de ses propres liberté
 
 Frankfurter Allgemeine Zeitung *"Der Nobelpreis 2030 geht an ..."*: [[Article, in German]](https://www.faz.net/aktuell/wirtschaft/der-nobelpreis-2030-geht-an-16995608.html)
 
+Interview in *Dialogue Économique*: [[Video, in French]](https://www.dialogueseconomiques.fr/medias/interview-de-stefanie-stantcheva)
+
+Rencontres Économiques d'Aix-en-Provence *"Politiques économiques : un changement de paradigme"*: [[Video, in French]](https://www.lesrencontreseconomiques.fr/evenements/politiques-economiques-un-changement-de-paradigme/)
+
+ABC (AU) *"The Coronavirus Economic Shock will be Enormous"*: [[Podcast]](https://www.abc.net.au/radionational/programs/sundayextra/the-coronavirus-economic-shock-will-be-enormous/12067886)
+
+Vox EU Talks *"The Polarization of Reality"*: [[Podcast]](https://voxeu.org/vox-talks/polarization-reality)
+
 Deep Background with Noah Feldman *"The Economic Impact of COVID-19"*: [[Podcast]](https://www.pushkin.fm/episode/the-economic-impact-of-covid-19/)
 
 New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://stefanie-stantcheva.com/media/Polarization_nytimes.pdf)
@@ -22,7 +30,7 @@ NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]](https://www.npr.
 
 The Week *"The Lie of the Immigrant Welfare Queen"*: [[Article]](https://theweek.com/articles/889620/lie-immigrant-welfare-queen)
 
-Vox *"Can populist economics coexist with pro-immigrant policies?"*: [[Article]](https://www.vox.com/future-perfect/2020/1/15/21065368/immigration-misperceptions-taxes-spending-nativism-study-alesina-stantcheva)
+Vox EU *"Can populist economics coexist with pro-immigrant policies?"*: [[Article]](https://www.vox.com/future-perfect/2020/1/15/21065368/immigration-misperceptions-taxes-spending-nativism-study-alesina-stantcheva)
 
 Bloomberg Opinion *"Why Hostility to Immigration Runs So Deep"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/bloomberg.pdf)
 
