@@ -24,7 +24,7 @@ Vox EU Talks *"The Polarization of Reality"*: [[Podcast]](https://voxeu.org/vox-
 
 Deep Background with Noah Feldman *"The Economic Impact of COVID-19"*: [[Podcast]](https://www.pushkin.fm/episode/the-economic-impact-of-covid-19/)
 
-New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://stefanie-stantcheva.com/media/Polarization_nytimes.pdf)
+New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://scholar.harvard.edu/files/stantcheva/files/polarization_nytimes.pdf)
  
 NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]](https://www.npr.org/transcripts/802417653)
 
