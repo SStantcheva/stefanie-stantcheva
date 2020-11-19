@@ -57,6 +57,8 @@ workingpapers:
   book: "NBER Working Paper 27699"
   year: "2020"
   links:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_slides.pdf"
+      text: "Slides"
     - url: "https://www.dropbox.com/s/2evbqrrnodbkzet/Survey_Questionnaires.pdf?dl=0"
       text: "Survey Questionnaires"
     - url: "https://www.dropbox.com/s/t8fj3fi82hfsjrc/Stantcheva_Understanding_Taxes_OA.pdf?dl=0"
