@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2020:**
 
+Vox EU *"Civil Liberties during the COVID-19 Pandemic"* : [[Article]](https://voxeu.org/article/civil-liberties-during-covid-19-pandemic)
+
 Project Syndicate *"Civil Liberties in a Pandemic"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/civil_liberties_in_a_pandemic_ps.pdf)
 
 Project Syndicate *"The Post-Pandemic Social Contract"* with Dani Rodrik : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/the_post-pandemic_social_contract_rodrik_stantcheva_ps.pdf)
