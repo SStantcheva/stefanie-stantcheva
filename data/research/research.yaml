@@ -170,9 +170,6 @@ publications:
   book: "Journal of International Economics, forthcoming [also NBER Working Paper 27770]"
   coauthors: "Yazan Al-Karablieh and Evangelos Koumanakos"
   year: "2021"
-  links:
-    - url: "https://www.dropbox.com/s/tvdmo9wyro06ety/ISoM_paper_slides.pdf?dl=0"
-      text: "Slides"
   abstract: >
     We use a new dataset of the universe of Greek corporate tax returns to study a voluntary tax compliance program for small firms. This “self-assessment” program prescribed target taxable profit margins (the ratio of taxable profits to revenues) for different types of activities. Firms that reported profit margins above these targets in a given year were exempt from audits in that year. We find that the firms that take up the program report significantly larger taxable profits than non-eligible firms, with some evidence for longer-lasting effects on tax reporting. Firms that take up the program for more years exhibit stronger effects. We also find that firms can easily and substantially manipulate reported revenue (decreasing it by up to 40%) to help meet prescribed profit margins without paying more in taxes. Overall, the program increased tax revenues collected from small firms, but points to a very large level of baseline under-reporting of profits and the ease of manipulating reported revenues.
 
@@ -217,7 +214,7 @@ publications:
   abstract: >
     This paper provides a simple conceptual framework that captures how different perceptions, attitudes, and biases about immigrants or minorities can shape preferences for redistribution and reviews the empirical evidence on the effects of increasing racial diversity and immigration on support for redistribution.
 - title: "Taxation and Migration: Evidence and Policy Implications"
-  pdflink: "https://www.dropbox.com/s/fhvymlfyj2s64re/JEP_Mobility.pdf?dl=0"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/jep.34.2.119.pdf"
   book: "Journal of Economic Perspectives Spring 2020 34(2): 119-142 [also NBER Working Paper 25740]"
   coauthors: "Henrik Kleven, Camille Landais and Mathilde Munoz"
   year: "2020"
