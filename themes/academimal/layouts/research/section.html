@@ -31,7 +31,9 @@
         
         {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
-        <em> {{ .book }}, {{ .year }} </em>
+        {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
+
+        {{ with .book_edited }}<span style="margin:5px 0px 5px 0px;">in <em>{{ . }}</em></span>{{ end }}<em>{{ .book }}, {{ .year }} </em>
 
         {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 
@@ -66,7 +68,9 @@
         
         {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
-        <em> {{ .book }}, {{ .year }} </em>
+        {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
+
+        {{ with .book_edited }}<span style="margin:5px 0px 5px 0px;">in <em>{{ . }}</em></span>{{ end }}<em>{{ .book }}, {{ .year }} </em>
 
         {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 
@@ -103,7 +107,9 @@
         
         {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
-        <em> {{ .book }}, {{ .year }} </em>
+        {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
+
+        {{ with .book_edited }}<span style="margin:5px 0px 5px 0px;">in <em>{{ . }}</em></span>{{ end }}<em>{{ .book }}, {{ .year }} </em>
 
         {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
 
