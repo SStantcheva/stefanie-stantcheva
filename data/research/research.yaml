@@ -81,9 +81,6 @@ workingpapers:
   book: "NBER Working Paper 24982 [Revise and Resubmit at the Quarterly Journal of Economics]"
   coauthors: "Ufuk Akcigit, John R. Grigsby and Tom Nicholas"
   year: "2018"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/agns_oct_2018_nber_business_v2.pdf"
-      text: "Slides"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/taxation_and_innovation_in_the_20th_century_vox_cepr_policy_portal.pdf"
       text: "VoxEU"
