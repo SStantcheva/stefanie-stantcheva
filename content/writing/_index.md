@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2020:**
 
+Vox EU *"How social position shapes views of fairness"* : [[Article]](https://voxeu.org/article/how-social-position-shapes-views-fairness)
+
 Vox EU *"Civil Liberties during the COVID-19 Pandemic"* : [[Article]](https://voxeu.org/article/civil-liberties-during-covid-19-pandemic)
 
 Project Syndicate *"Civil Liberties in a Pandemic"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/civil_liberties_in_a_pandemic_ps.pdf)

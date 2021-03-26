@@ -36,6 +36,13 @@ workingpapers:
   links:
     - url: "https://www.dropbox.com/s/xrj8mjewsyby3ou/Slides_v4.pdf?dl=0"
       text: "Slides"
+  presscoverage:
+    - url: "https://voxeu.org/article/how-social-position-shapes-views-fairness"
+      text: "VoxEU"
+    - url: "https://www.nber.org/digest-202103/determinants-views-fairness-inequality"
+      text: "NBER Digest"
+    - url: "https://www.marketplace.org/2021/03/25/research-suggests-were-misperceiving-the-inequality-around-us/"
+      text: "Marketplace"  
   abstract: >
     We link survey data containing Danish people’s perceptions of where they rank in various reference groups and fairness views with administrative records on their income history, life events, and reference groups. People know their income positions well, but believe others are closer to themselves than they really are. The perceived fairness of inequalities is strongly related to current social position, moves with shocks to social position (e.g., unemployment or promotions), and changes when people are experimentally shown their actual positions. People view inequalities within education group and co-workers as most unfair, but underestimate inequality the most exactly within these reference groups.
     
