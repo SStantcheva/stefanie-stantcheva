@@ -10,9 +10,9 @@ Here is some selected media coverage of my research.
 
 ### 2021
 
-Reimagining the Economy, Marketplace *Research suggests we’re misperceiving the inequality around us*: [[Podcast]](https://www.marketplace.org/2021/03/25/research-suggests-were-misperceiving-the-inequality-around-us/)
+Reimagining the Economy, Marketplace *"Research Suggests We’re Misperceiving the Inequality Around Us"*: [[Podcast]](https://www.marketplace.org/2021/03/25/research-suggests-were-misperceiving-the-inequality-around-us/)
 
-NBER Digest *Determinants of Views on the Fairness of Inequality*: [[Article]](https://www.nber.org/digest-202103/determinants-views-fairness-inequality)
+NBER Digest *"Determinants of Views on the Fairness of Inequality"*: [[Article]](https://www.nber.org/digest-202103/determinants-views-fairness-inequality)
 
 Interview in *CSWEP News*: [[Article]](https://www.aeaweb.org/content/file?id=13968)
 
