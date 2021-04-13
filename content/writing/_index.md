@@ -8,6 +8,10 @@ weight = 0
 
 This page features pieces based on my research and that of others and that are intended for a non-academic audience. 
 
+**2021:**
+
+Economic Policy *"Inequalities in the Times of a Pandemic"* (forthcoming) : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid19_policy.pdf)
+
 **2020:**
 
 Vox EU *"How Social Position Shapes Views of Fairness"* : [[Article]](https://voxeu.org/article/how-social-position-shapes-views-fairness)
