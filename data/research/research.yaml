@@ -32,6 +32,9 @@ workingpapers:
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid19_policy.pdf"
   book: "Economic Policy [forthcoming]"
   year: "2021"
+  links: 
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid_inequalities.pdf"
+      text: "Slides"
   abstract: >
     This paper summarizes some of the major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
   
