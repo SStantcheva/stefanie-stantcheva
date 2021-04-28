@@ -10,7 +10,7 @@ Here is some selected media coverage of my research.
 
 ### 2021
 
-Harvard Gazette *"Stantcheva honored by Carnegie Corporation"* [[Article]](https://news.harvard.edu/gazette/story/2021/04/harvard-economics-professor-named-2021-andrew-carnegie-fellow/)
+Harvard Gazette *"Stantcheva Honored by Carnegie Corporation"* [[Article]](https://news.harvard.edu/gazette/story/2021/04/harvard-economics-professor-named-2021-andrew-carnegie-fellow/) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/2021_andrew_carnegie_fellow-harvard_gazette.pdf)
 
 Carnegie Corporation of New York *"2021 Andrew Carnegie Fellows Recipient"*: [[Article]](https://www.carnegie.org/awards/honoree/stefanie-stantcheva/)
 
