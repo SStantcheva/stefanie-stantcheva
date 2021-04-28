@@ -10,6 +10,9 @@ This page features pieces based on my research and that of others and that are i
 
 **2021:**
 
+Economics for Inclusive Prosperity *"A Policy Matrix for Inclusive Prosperity"*  with Dani Rodrik : [[PDF]](https://econfip.org/wp-content/uploads/2021/04/30.A-Policy-Matrix-for-Inclusive-Prosperity.pdf) [[Link]](https://econfip.org/policy-briefs/a-policy-matrix-for-inclusive-prosperity/)
+
+
 Economic Policy *"Inequalities in the Times of a Pandemic"* (forthcoming) : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid19_policy.pdf)
 
 **2020:**
