@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2021:**
 
+EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf)
+
 Economics for Inclusive Prosperity *"A Policy Matrix for Inclusive Prosperity"*  with Dani Rodrik : [[PDF]](https://econfip.org/wp-content/uploads/2021/04/30.A-Policy-Matrix-for-Inclusive-Prosperity.pdf) [[Link]](https://econfip.org/policy-briefs/a-policy-matrix-for-inclusive-prosperity/)
 
 

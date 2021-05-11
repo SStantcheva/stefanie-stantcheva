@@ -10,6 +10,10 @@ Here is some selected media coverage of my research.
 
 ### 2021
 
+Les Echos *"Stefanie Stantcheva, la nouvelle star de l'économie"* [[Article, in French]](https://www.lesechos.fr/idees-debats/editos-analyses/stefanie-stantcheva-la-nouvelle-star-de-leconomie-1313763) [[Fulld PDF]](https://scholar.harvard.edu/files/stantcheva/files/lesechos_210510.pdf)
+
+EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf)
+
 Harvard Gazette *"Stantcheva Honored by Carnegie Corporation"* [[Article]](https://news.harvard.edu/gazette/story/2021/04/harvard-economics-professor-named-2021-andrew-carnegie-fellow/) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/2021_andrew_carnegie_fellow-harvard_gazette.pdf)
 
 Carnegie Corporation of New York *"2021 Andrew Carnegie Fellows Recipient"*: [[Article]](https://www.carnegie.org/awards/honoree/stefanie-stantcheva/)
