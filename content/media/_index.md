@@ -10,7 +10,7 @@ Here is some selected media coverage of my research.
 
 ### 2021
 
-Les Echos *"Stefanie Stantcheva, la nouvelle star de l'économie"* [[Article, in French]](https://www.lesechos.fr/idees-debats/editos-analyses/stefanie-stantcheva-la-nouvelle-star-de-leconomie-1313763) [[Fulld PDF]](https://scholar.harvard.edu/files/stantcheva/files/lesechos_210510.pdf)
+Les Echos *"Stefanie Stantcheva, la nouvelle star de l'économie"* [[Article, in French]](https://www.lesechos.fr/idees-debats/editos-analyses/stefanie-stantcheva-la-nouvelle-star-de-leconomie-1313763) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/lesechos_210510.pdf)
 
 EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf)
 
