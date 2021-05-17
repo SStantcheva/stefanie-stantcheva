@@ -41,7 +41,7 @@ City Journal *"Mobility: Real and Perceived"* (Autumn 2019)  : [[Article]](https
 
 **2018:**
 
-NBER Reporter Research Summary on *"Taxation and Innovation"* (2018) : [[Article]](https://www.nber.org/reporter/2018number3/stantcheva.html) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/2018number3.pdf)
+NBER Reporter Research Summary on *"Taxation and Innovation"* (2018) : [[Article]](https://www.nber.org/reporter/2018number3/taxation-and-innovation) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/2018number3.pdf)
 
 Vox EU *"Taxation and Innovation in the 20th Century"* : [[Article]](https://voxeu.org/article/taxation-and-innovation-20th-century)
 
