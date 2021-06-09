@@ -80,7 +80,7 @@ workingpapers:
 
 - title: "Understanding Tax Policy: How do people Reason?"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27699_1.pdf"
-  book: "NBER Working Paper 27699"
+  book: "NBER Working Paper 27699 [Revise and Resubmit at the Quarterly Journal of Economics]"
   year: "2020"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_slides.pdf"
@@ -102,14 +102,16 @@ workingpapers:
   abstract: >
     We study the optimal design of corporate taxation and R&D policies as a dynamic mechanism design problem with spillovers. Firms are heterogeneous in their research productivity, i.e., in the efficiency with which they convert a given set of R&D inputs into successful innovations and that research productivity is private information. There are non-internalized technological spillovers across firms, but the asymmetric information prevents correcting them in the first best way. We highlight that key parameters for the optimal policies are i) the relative complementarities between observable R&D investments, unobservable R&D inputs, and firm research productivity, ii) the dispersion and persistence of firms' research productivities, and iii) the magnitude of technological spillovers across firms. We estimate our model using firm-level data matched to patent data and quantify the optimal policies. In the data, high research productivity firms get disproportionately higher returns to R&D investments than lower productivity firms. Very simple innovation policies, such as linear corporate taxes combined with a nonlinear R&D subsidy -- that provides lower marginal subsidies at higher R&D levels -- can do almost as well as the full unrestricted optimal policies. Our formulas and theoretical and numerical methods are more broadly applicable to the provision of firm incentives in dynamic settings with asymmetric information and spillovers and to firm taxation more generally.
 
-- title: "Taxation and Innovation in the 20th Century [Updated March 2021]"
+- title: "Taxation and Innovation in the 20th Century [Updated May 2021]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/taxation_innovation.pdf"
-  book: "NBER Working Paper 24982 [Revise and Resubmit at the Quarterly Journal of Economics]"
+  book: "NBER Working Paper 24982 [forthcoming at the Quarterly Journal of Economics]"
   coauthors: "Ufuk Akcigit, John R. Grigsby and Tom Nicholas"
   year: "2018"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/taxation_and_innovation_in_the_20th_century_vox_cepr_policy_portal.pdf"
       text: "VoxEU"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/taxation_innovation_onlineappendix.pdf"
+      text: "Online Appendix"
   abstract: >
     This paper studies the effect of corporate and personal taxes on innovation in the United States over the twentieth century. We build a panel of the universe of inventors who patent since 1920, and a historical state-level corporate tax database with corporate tax rates and tax base information, which we link to existing data on state-level personal income taxes and on other economic outcomes. Our analysis focuses on the impact of personal and corporate income taxes on individual inventors (the micro level) and on states (the macro level), considering the quantity and quality of innovation, its location, and the share produced by the corporate rather than the non-corporate sector. We propose several identification strategies, all of which yield consistent results. We find that higher taxes negatively impact the quantity and the location of innovation, but not average innovation quality. The state-level elasticities to taxes are large and consistent with the aggregation of the individual level responses of innovation produced and cross-state mobility. Corporate taxes tend to especially affect corporate inventors’ innovation production and cross-state mobility. Personal income taxes significantly affect the quantity of innovation overall and the mobility of inventors.
 - title: "Immigration and Redistribution"
