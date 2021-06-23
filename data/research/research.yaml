@@ -193,7 +193,7 @@ publications:
 
 - title: "Economic Inequality and Insecurity: Policies for an Inclusive Economy"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/rodrik_and_stantcheva_report_for_macron_commission.pdf"
-  book: "Report Prepared for Commission Chaired by Olivier Blanchard and Jean Tirole on Major Future Economic Challenges, France"
+  book_edited: "Report Prepared for Commission Chaired by Olivier Blanchard and Jean Tirole on Major Future Economic Challenges, France"
   coauthors: "Dani Rodrik"
   year: "2021"
   other:
