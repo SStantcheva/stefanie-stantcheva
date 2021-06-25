@@ -51,9 +51,10 @@
         {{ end }}
         {{ end }}
 
-        {{ with .other }}
-        <p style="margin:5px 0px 5px 0px;"> Additional links:
-        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+       {{ $other_text := .other_text }} 
+       {{ with .other }}
+        <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
         {{ end }}
         {{ end }}
     </p>
@@ -94,9 +95,10 @@
         {{ end }}
         {{ end }}
 
-        {{ with .other }}
-        <p style="margin:5px 0px 5px 0px;"> Additional links:
-        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+       {{ $other_text := .other_text }} 
+       {{ with .other }}
+        <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
         {{ end }}
         {{ end }}
     
@@ -140,9 +142,10 @@
         {{ end }}
         {{ end }}
 
+       {{ $other_text := .other_text }} 
        {{ with .other }}
-        <p style="margin:5px 0px 5px 0px;"> Additional links:
-        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+        <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
         {{ end }}
         {{ end }}
     </p>
