@@ -25,7 +25,8 @@
     {{range . }}
     {{ $.Scratch.Add "count" 1 }}
     {{$index:= $.Scratch.Get "count" }}
-    
+    {{ $other_text := .other_text }} 
+
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
         
@@ -51,7 +52,6 @@
         {{ end }}
         {{ end }}
 
-       {{ $other_text := .other_text }} 
        {{ with .other }}
         <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
         {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
@@ -69,6 +69,7 @@
     {{range . }}
     {{ $.Scratch.Add "count" 1 }}
     {{$index:= $.Scratch.Get "count" }}
+    {{ $other_text := .other_text }} 
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
@@ -95,7 +96,6 @@
         {{ end }}
         {{ end }}
 
-       {{ $other_text := .other_text }} 
        {{ with .other }}
         <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
         {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
@@ -114,6 +114,8 @@
     {{range . }}
     {{ $.Scratch.Add "count" 1 }} 
     {{$index:= $.Scratch.Get "count" }}
+    {{ $other_text := .other_text }}
+
 
     {{ if ne .year ($.Scratch.Get "curyear") }}<br><h3>{{ .year }}</h3>{{ $.Scratch.Set "curyear" .year}}{{ end }}
 
@@ -142,7 +144,6 @@
         {{ end }}
         {{ end }}
 
-       {{ $other_text := .other_text }} 
        {{ with .other }}
         <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
         {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
