@@ -28,6 +28,14 @@ worksinprogress:
       
 workingpapers:
 
+- title: "Perceptions of Racial Gaps, their Causes, and Ways to Reduce Them [NEW! August 2021]"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_ferroni_stantcheva_perceptions_racial_gaps.pdf"
+  book: "Harvard University Working Paper"
+  coauthors: "Alberto Alesina and Matteo Ferroni"
+  year: "2021" 
+  abstract: > 
+    Using new large-scale survey and experimental data, we investigate how respondents perceive racial inequities along several dimensions, what they believe causes them, and what interventions they think should be implemented to reduce them. We intentionally oversample Black respondents, cover many cities in the US, and also survey very young people aged 13 to 17. In the experimental parts, we consider the causal impact of either information on racial inequities (such as, the evolution of the Black-white earnings gap, or the differences in opportunities for Black and white children) or explanations for these inequities (i.e., the deep-seated roots and long-lasting consequences of systemic racism) on respondents' views. We find that, although there is heterogeneity in how respondents perceive current racial gaps in economic conditions and opportunities, the biggest discrepancies are in how they explain them. Within white respondents, there is a stark partisan gap, particularly in the perceived causes of racial inequities and what should be done about them. White Democrat and Black respondents are much more likely to attribute racial inequities to adverse past and present circumstances and to want to act on them with race-targeted and general redistribution policies, while white Republicans are more likely to attribute racial gaps to individual responsibility and lack of effort. These views are already deeply entrenched in teenagers based on their race and their parents' political affiliation. A policy decomposition shows that it is the perceived causes of racial inequities that are most strongly correlated with support for race-targeted or general redistribution policies, a finding confirmed by the experimental results. These factors also account for a large share of partisan and racial gaps in policy views. 
+  
 - title: "A Policy Matrix for Inclusive Prosperity"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/policy_matrix_nber_w28736.pdf"
   book: "NBER Working Paper 28736"
