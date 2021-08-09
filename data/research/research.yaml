@@ -102,11 +102,11 @@ workingpapers:
 
  
 
-- title: "Optimal Taxation and R&D Policies"
+- title: "Optimal Taxation and R&D Policies [Updated August 2021]"
   pdflink: "https://www.dropbox.com/s/z4msv87wf7r27ze/AkcigitHanleyStantcheva_RD_Policies.pdf?dl=0"
   book: "NBER Working Paper 22908 [Revise and Resubmit at Econometrica]"
   coauthors: "Ufuk Akcigit and Douglas Hanley"
-  year: "2019"
+  year: "2017"
   abstract: >
     We study the optimal design of corporate taxation and R&D policies as a dynamic mechanism design problem with spillovers. Firms are heterogeneous in their research productivity, i.e., in the efficiency with which they convert a given set of R&D inputs into successful innovations and that research productivity is private information. There are non-internalized technological spillovers across firms, but the asymmetric information prevents correcting them in the first best way. We highlight that key parameters for the optimal policies are i) the relative complementarities between observable R&D investments, unobservable R&D inputs, and firm research productivity, ii) the dispersion and persistence of firms' research productivities, and iii) the magnitude of technological spillovers across firms. We estimate our model using firm-level data matched to patent data and quantify the optimal policies. In the data, high research productivity firms get disproportionately higher returns to R&D investments than lower productivity firms. Very simple innovation policies, such as linear corporate taxes combined with a nonlinear R&D subsidy -- that provides lower marginal subsidies at higher R&D levels -- can do almost as well as the full unrestricted optimal policies. Our formulas and theoretical and numerical methods are more broadly applicable to the provision of firm incentives in dynamic settings with asymmetric information and spillovers and to firm taxation more generally.
 - title: "Taxation and Innovation in the 20th Century [Updated May 2021]"
