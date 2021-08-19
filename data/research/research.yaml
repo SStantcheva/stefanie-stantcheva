@@ -173,6 +173,30 @@ publications:
 
 # 2021
 
+- title: "Optimal Taxation and R&D Policies"
+  pdflink: "https://www.dropbox.com/s/z4msv87wf7r27ze/AkcigitHanleyStantcheva_RD_Policies.pdf?dl=0"
+  book: "[Forthcoming at Econometrica]"
+  coauthors: "Ufuk Akcigit and Douglas Hanley"
+  year: "2021"
+  abstract: >
+    We study the optimal design of corporate taxation and R&D policies as a dynamic mechanism design problem with spillovers. Firms are heterogeneous in their research productivity, i.e., in the efficiency with which they convert a given set of R&D inputs into successful innovations and that research productivity is private information. There are non-internalized technological spillovers across firms, but the asymmetric information prevents correcting them in the first best way. We highlight that key parameters for the optimal policies are i) the relative complementarities between observable R&D investments, unobservable R&D inputs, and firm research productivity, ii) the dispersion and persistence of firms' research productivities, and iii) the magnitude of technological spillovers across firms. We estimate our model using firm-level data matched to patent data and quantify the optimal policies. In the data, high research productivity firms get disproportionately higher returns to R&D investments than lower productivity firms. Very simple innovation policies, such as linear corporate taxes combined with a nonlinear R&D subsidy -- that provides lower marginal subsidies at higher R&D levels -- can do almost as well as the full unrestricted optimal policies. Our formulas and theoretical and numerical methods are more broadly applicable to the provision of firm incentives in dynamic settings with asymmetric information and spillovers and to firm taxation more generally.
+
+- title: "Understanding Tax Policy: How do people Reason?"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27699.pdf"
+  book: "[Forthcoming in the Quarterly Journal of Economics]"
+  year: "2021"
+  links:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_slides.pdf"
+      text: "Slides"
+    - url: "https://www.dropbox.com/s/2evbqrrnodbkzet/Survey_Questionnaires.pdf?dl=0"
+      text: "Survey Questionnaires"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_stantcheva_oa.pdf"
+      text: "Online Appendix"
+    - url: "https://understandingeconomics.org/#/"
+      text: "Understanding Economics Website"
+  abstract: >
+    I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, i.e., the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the "Redistribution" and the "Efficiency" treatments) or that bring the two together and focus on the trade-off (the "Economist" treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps, not just in the final policy views, but also at every step of the reasoning about the underlying mechanisms of taxes. Democrats and Republicans' divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
+
 - title: "Clearing the Bar: Improving Tax Compliance for Small Firms through Target Setting"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/clearing_the_bar_jie_2021.pdf"
   book: "Journal of International Economics 130: 103452 [also NBER Working Paper 27770]"
@@ -208,30 +232,6 @@ publications:
       text: "Slides"
   abstract: >
     This paper summarizes some of the major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
-
-- title: "Optimal Taxation and R&D Policies"
-  pdflink: "https://www.dropbox.com/s/z4msv87wf7r27ze/AkcigitHanleyStantcheva_RD_Policies.pdf?dl=0"
-  book: "[Forthcoming at Econometrica]"
-  coauthors: "Ufuk Akcigit and Douglas Hanley"
-  year: "2021"
-  abstract: >
-    We study the optimal design of corporate taxation and R&D policies as a dynamic mechanism design problem with spillovers. Firms are heterogeneous in their research productivity, i.e., in the efficiency with which they convert a given set of R&D inputs into successful innovations and that research productivity is private information. There are non-internalized technological spillovers across firms, but the asymmetric information prevents correcting them in the first best way. We highlight that key parameters for the optimal policies are i) the relative complementarities between observable R&D investments, unobservable R&D inputs, and firm research productivity, ii) the dispersion and persistence of firms' research productivities, and iii) the magnitude of technological spillovers across firms. We estimate our model using firm-level data matched to patent data and quantify the optimal policies. In the data, high research productivity firms get disproportionately higher returns to R&D investments than lower productivity firms. Very simple innovation policies, such as linear corporate taxes combined with a nonlinear R&D subsidy -- that provides lower marginal subsidies at higher R&D levels -- can do almost as well as the full unrestricted optimal policies. Our formulas and theoretical and numerical methods are more broadly applicable to the provision of firm incentives in dynamic settings with asymmetric information and spillovers and to firm taxation more generally.
-
-- title: "Understanding Tax Policy: How do people Reason?"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27699.pdf"
-  book: "[Forthcoming in the Quarterly Journal of Economics]"
-  year: "2021"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_slides.pdf"
-      text: "Slides"
-    - url: "https://www.dropbox.com/s/2evbqrrnodbkzet/Survey_Questionnaires.pdf?dl=0"
-      text: "Survey Questionnaires"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_stantcheva_oa.pdf"
-      text: "Online Appendix"
-    - url: "https://understandingeconomics.org/#/"
-      text: "Understanding Economics Website"
-  abstract: >
-    I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, i.e., the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the "Redistribution" and the "Efficiency" treatments) or that bring the two together and focus on the trade-off (the "Economist" treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps, not just in the final policy views, but also at every step of the reasoning about the underlying mechanisms of taxes. Democrats and Republicans' divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
 
 - title: "Why do we not Support more Redistribution? New Explanations from Economics Research"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf"
