@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2021:**
 
+Oxford Review of Economic Policy *"Fixing Capitalism’s Good Jobs Problem"* with Dani Rodrik : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/fixing_capitalisms_good_jobs_problem_rodrik_stantcheva_2021.pdf)
+
 Project Syndicate *"Inequality and the Macron Commission"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/inequality_and_the_macron_commission_rodrik_stantcheva_ps.pdf)
 
 EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf)
