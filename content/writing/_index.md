@@ -10,11 +10,13 @@ This page features pieces based on my research and that of others and that are i
 
 **2021:**
 
+The IFS Deaton Review *"Perceptions and preferences for redistribution"* : [[Article]](https://ifs.org.uk/inequality/wp-content/uploads/2021/09/Perceptions-and-preferences-for-redistribution.pdf)
+
 Oxford Review of Economic Policy *"Fixing Capitalism’s Good Jobs Problem"* with Dani Rodrik : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/fixing_capitalisms_good_jobs_problem_rodrik_stantcheva_2021.pdf)
 
 Project Syndicate *"Inequality and the Macron Commission"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/inequality_and_the_macron_commission_rodrik_stantcheva_ps.pdf)
 
-EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf)
+EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* : [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf)
 
 Economics for Inclusive Prosperity *"A Policy Matrix for Inclusive Prosperity"*  with Dani Rodrik : [[PDF]](https://econfip.org/wp-content/uploads/2021/04/30.A-Policy-Matrix-for-Inclusive-Prosperity.pdf) [[Link]](https://econfip.org/policy-briefs/a-policy-matrix-for-inclusive-prosperity/)
 
