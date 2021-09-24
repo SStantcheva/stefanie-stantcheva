@@ -10,7 +10,7 @@ This page features pieces based on my research and that of others and that are i
 
 **2021:**
 
-The IFS Deaton Review *"Perceptions and preferences for redistribution"* : [[Article]](https://ifs.org.uk/inequality/wp-content/uploads/2021/09/Perceptions-and-preferences-for-redistribution.pdf)
+The IFS Deaton Review *"Perceptions and preferences for redistribution"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/perceptions-and-preferences-for-redistribution.pdf)
 
 Oxford Review of Economic Policy *"Fixing Capitalism’s Good Jobs Problem"* with Dani Rodrik : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/fixing_capitalisms_good_jobs_problem_rodrik_stantcheva_2021.pdf)
 
