@@ -36,7 +36,7 @@ workingpapers:
       text: "Marketplace"  
   abstract: >
     We link survey data on Danish people’s perceived income positions and views on inequality within various reference groups to administrative records on their reference groups, income histories, and life events. People are, on average, well aware of the income levels of their reference groups, but lower-ranked respondents in all groups tend to overestimate their own position among others because they believe others’ incomes are lower than is the case, while higher-ranked respondents underestimate their position. People view inequalities within co-workers and education group as most unfair, yet underestimate inequality the most exactly within these groups. Perceived fairness of inequalities is strongly related to current individual position, moves with shocks like unemployment or promotions, and changes when experimentally showing people their actual positions. 
-
+    
 - title: "Civil Liberties in the Time of Health and Economic Crises"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27972.pdf"
   book: "NBER Working Paper 27972"
@@ -212,8 +212,8 @@ publications:
     I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. Using large-scale social economics surveys issued to representative U.S. samples and associated experiments, I elicit respondents’ factual knowledge about tax policy and the income or wealth distributions. Most important, I study their understanding of the mechanisms of tax policy and the reasoning that underlies their policy views. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, that is, the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with broader views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the Redistribution and the Efficiency treatments) or that bring the two together and focus on the trade-off (the Economist treatment). The Redistribution and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps in both the final policy views and at every step of the reasoning about the underlying mechanisms of taxes. Democrats’ and Republicans’ divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
 
 - title: "Fixing Capitalism’s Good Jobs Problem"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/fixing_capitalisms_good_jobs_problem_rodrik_stantcheva_2021.pdf"
-  book: "[Forthcoming in the Oxford Review of Economic Policy]"
+  pdflink: "https://academic.oup.com/oxrep/article-abstract/37/4/824/6423487"
+  book: "Oxford Review of Economic Policy 37(4): 824–837"
   coauthors: "Dani Rodrik"
   year: "2021"
 
