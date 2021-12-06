@@ -14,7 +14,7 @@ Seventh Richard Goode Lecture at the IMF *"How Do People Think about the Economy
 
 LSE Talk *"Europe's Recovery Programs"* [[Podcast]](https://www.lse.ac.uk/lse-player?id=4705b793-c64c-4b20-98da-118517af9aba)
 
-Harvard Gazette *"U.S. teens are following their parents into racial divide"* [[Article]](https://news.harvard.edu/gazette/story/2021/10/teens-following-parents-into-racial-divide-study-finds/)
+Harvard Gazette *"U.S. Teens are Following their Parents into Racial Divide"* [[Article]](https://news.harvard.edu/gazette/story/2021/10/teens-following-parents-into-racial-divide-study-finds/)
 
 The IFS Deaton Review *"What's Wrong with Inequality?"* [[Video]](https://www.youtube.com/watch?v=V4ekwZJd9-A&t=3411s)
 
