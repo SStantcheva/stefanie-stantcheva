@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2021:**
 
+Vox EU *"Perceptions of racial gaps, their causes, and ways to reduce them"* : [[Article]](https://voxeu.org/article/perceptions-racial-gaps-their-causes-and-ways-reduce-them)
+
 The IFS Deaton Review *"Perceptions and Preferences for Redistribution"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/perceptions-and-preferences-for-redistribution.pdf)
 
 Oxford Review of Economic Policy *"Fixing Capitalism’s Good Jobs Problem"* with Dani Rodrik : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/fixing_capitalisms_good_jobs_problem.pdf)
