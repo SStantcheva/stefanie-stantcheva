@@ -10,6 +10,16 @@ Here is some selected media coverage of my research.
 
 ### 2021
 
+Seventh Richard Goode Lecture at the IMF *"How Do People Think about the Economy?"* [[Video]](https://www.youtube.com/watch?v=Q7YIJm935LA)
+
+LSE Talk *"Europe's Recovery Programs"* [[Podcast]](https://www.lse.ac.uk/lse-player?id=4705b793-c64c-4b20-98da-118517af9aba)
+
+Harvard Gazette *"U.S. teens are following their parents into racial divide"* [[Article]](https://news.harvard.edu/gazette/story/2021/10/teens-following-parents-into-racial-divide-study-finds/)
+
+The IFS Deaton Review *"What's Wrong with Inequality?"* [[Video]](https://www.youtube.com/watch?v=V4ekwZJd9-A&t=3411s)
+
+The IFS Deaton Review *"Major Economic Challenges: Inequality"* [[Video]](https://www.youtube.com/watch?v=hjC74dNvztY&t=1s)
+
 Les Echos *"Stefanie Stantcheva, la nouvelle star de l'économie"* [[Article, in French]](https://www.lesechos.fr/idees-debats/editos-analyses/stefanie-stantcheva-la-nouvelle-star-de-leconomie-1313763) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/lesechos_210510.pdf)
 
 EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf)
@@ -34,7 +44,7 @@ Frankfurter Allgemeine Zeitung *"Der Nobelpreis 2030 geht an ..."*: [[Article, i
 
 Interview in *Dialogue Économique*: [[Video, in French]](https://www.dialogueseconomiques.fr/medias/interview-de-stefanie-stantcheva)
 
-Rencontres Économiques d'Aix-en-Provence *"Politiques économiques : un changement de paradigme"*: [[Video, in French]](https://www.lesrencontreseconomiques.fr/evenements/politiques-economiques-un-changement-de-paradigme/)
+Rencontres Économiques d'Aix-en-Provence *"Politiques économiques : un changement de paradigme"*: [[Video, in French]](https://www.youtube.com/watch?v=9ePD7EVtXWA)
 
 ABC (AU) *"The Coronavirus Economic Shock will be Enormous"*: [[Podcast]](https://www.abc.net.au/radionational/programs/sundayextra/the-coronavirus-economic-shock-will-be-enormous/12067886)
 
