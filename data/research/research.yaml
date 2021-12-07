@@ -3,6 +3,13 @@
       
 workingpapers:
 
+- title: "Wealth and Property Taxation in the United States [Slides Only]"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/wealth_and_property_taxation_in_the_us_slides.pdf"
+  coauthors: "Sacha Dray and Camille Landais"
+  book: "Harvard University Working Paper"
+  year: "2021" 
+  abstract: > 
+    We study the history and geography of wealth accumulation in the US, using newly collected historical property tax records since the early 1800s. The property tax in the US was a comprehensive tax on all kinds of properties (real estate, personal property, financial wealth, etc), making it one of the first ``wealth taxes.’’ Our new data allows us to reconstruct wealth series at the city, county, and state levels over time and to study the effects of property taxes on property values, migration, and investment. We first document the long-term evolution of household wealth in the US since the early 1800s, offering the first fine-grained and high-frequency estimates of household wealth over more than 200 years. The US had significantly lower wealth than Europe and only caught up with Europe after WW1, despite GDP per capita having been larger than that of France or the UK since the late 1870s. Second, we study the spatial allocation of wealth in the US over the long run. We show that the geography of wealth is extremely persistent: per capita wealth by county in the 1850s is still highly predictive of income per capita today. Factors related to geography and demographics correlate strongly with wealth at the city, county, and state levels. Finally, we leverage our data and policy variations to better understand the determinants of wealth accumulation, in particular the role of property taxation. Our data features large variation in property tax rates across more than 300 municipalities and we can study the changes in wealth and other outcomes following episodes of large, sudden, and persistent increases or decreases in effective property tax rates, in a Generalized Synthetic Control Design (Xu [2017]). We find an implied elasticity of capital income with respect to the net-of-tax rate on income of about .70 after 10 years. This implied elasticity can be broken down into an (extensive) elasticity of the population of about .26 and an intensive elasticity of per capita income of about .44. The intensive margin elasticity appears to be driven in part by reporting and avoidance responses, but also by significant capitalization of property taxes in local real estate prices.
 
 - title: "Perceptions of Racial Gaps, their Causes, and Ways to Reduce Them [NEW! September 2021]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_ferroni_stantcheva_perceptions_racial_gaps.pdf"
