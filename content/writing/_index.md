@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2021:**
 
+Project Syndicate *"Inside America's Polarized Views on Race"* : [[Article]](https://www.project-syndicate.org/commentary/us-polarized-views-on-racial-inequities-by-stefanie-stantcheva-2021-12)
+
 Vox EU *"Perceptions of Racial Gaps, their Causes, and Ways to Reduce them"* : [[Article]](https://voxeu.org/article/perceptions-racial-gaps-their-causes-and-ways-reduce-them)
 
 The IFS Deaton Review *"Perceptions and Preferences for Redistribution"* : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/perceptions-and-preferences-for-redistribution.pdf)
