@@ -154,6 +154,16 @@ workingpapers:
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
 
+- title: "Inequalities in the Times of a Pandemic"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/inequalities_pandemic.pdf"
+  book: "Economic Policy"
+  year: "2022"
+  links: 
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid_inequalities.pdf"
+      text: "Slides"
+  abstract: >
+    This paper summarizes some of the major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
+
 - title: "Taxation and Innovation in the 20th Century"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/taxation_innovation.pdf"
   book: "Quarterly Journal of Economics (Forthcoming) [also NBER Working Paper 24982]"
@@ -252,15 +262,6 @@ publications:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/blanchard-tirole-annexes-22juin18h.pdf"
       text: "Appendix"
 
-- title: "Inequalities in the Times of a Pandemic"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/inequalities_pandemic.pdf"
-  book: "Economic Policy"
-  year: "2021"
-  links: 
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid_inequalities.pdf"
-      text: "Slides"
-  abstract: >
-    This paper summarizes some of the major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
 - title: "Why do we not Support more Redistribution? New Explanations from Economics Research"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf"
   book_edited: "Combating Inequality: Rethinking Policies to Reduce Inequality in Advanced Economies"
