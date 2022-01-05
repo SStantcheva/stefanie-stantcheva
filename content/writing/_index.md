@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2021:**
 
+Conseil d'Analyse Economique *"Repenser l'héritage"* with Clément Dherbécourt, Gabrielle Fack and Camille Landais : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/repenser_lheritage.pdf) [[Slides, in French]](https://scholar.harvard.edu/files/stantcheva/files/repenser_lheritage_slides.pdf)
+
 Project Syndicate *"Inside America's Polarized Views on Race"* : [[Article]](https://www.project-syndicate.org/commentary/us-polarized-views-on-racial-inequities-by-stefanie-stantcheva-2021-12)
 
 Vox EU *"Perceptions of Racial Gaps, their Causes, and Ways to Reduce them"* : [[Article]](https://voxeu.org/article/perceptions-racial-gaps-their-causes-and-ways-reduce-them)
