@@ -153,6 +153,13 @@ workingpapers:
   abstract: >
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
+  #2022
+
+- title: "Eliciting People's First-Order Concerns: Text Analysis of Open-Ended Survey Questions"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/text_analysis_of_open-ended_questions.pdf"
+  book: "American Economic Association Papers and Proceedings (Forthcoming)"
+  coauthors: "Beatrice Ferrario"
+  year: "2022"
 
 - title: "Inequalities in the Times of a Pandemic"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/inequalities_pandemic.pdf"
