@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 name = "Stefanie Stantcheva"
 
 [params]
-title = "Professor of Economics,"
+title = "Nathaniel Ropes Professor of Political Economy,"
 institution = "Harvard University"
 logo = "Stefanie_Stantcheva_headshot_signed_fil-3.jpg"
 Twitter = "S_Stantcheva"
