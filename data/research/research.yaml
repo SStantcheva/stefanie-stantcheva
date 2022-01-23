@@ -140,6 +140,8 @@ publications:
   coauthors: "Alberto Alesina and Armando Miano"
   year: "2022"
   links:
+    - url: "http://socialeconomicslab.org/resources-and-data/"
+      text: "Replication Package"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_immigration_june2019_am.pdf"
       text: "Slides"
   presscoverage:
@@ -236,6 +238,8 @@ publications:
       text: "Survey Questionnaires"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_stantcheva_oa.pdf"
       text: "Online Appendix"
+    - url: "http://socialeconomicslab.org/resources-and-data/"
+      text: "Replication Package"
     - url: "https://understandingeconomics.org/#/"
       text: "Understanding Economics Website"
   abstract: >
@@ -342,13 +346,15 @@ publications:
   abstract: >
     This paper develops a theory of optimal capital taxation that expresses optimal tax formulas in sufficient statistics. We first consider a simple model with utility functions linear in consumption and featuring heterogeneous utility for wealth. In this case, there are no transitional dynamics, the steady-state is reached immediately and has finite elasticities of capital with respect to the net-of-tax rate. This allows for a tractable optimal tax analysis with formulas expressed in terms of empirical elasticities and social preferences that can address many important policy questions. These formulas can easily be taken to the data to simulate optimal taxes, which we do using U.S. tax return data on labor and capital incomes. Second, we show how these results can be extended to the case with concave utility for consumption. The same types of formulas carry over by appropriately defining elasticities. We show that one can recover all the results from the simpler model using a new and non standard steady state approach that respects individual preferences even with a fully general utility function or uncertainty. 
 - title: "Intergenerational Mobility and Support for Redistribution"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_stantcheva_teso_mobility.pdf"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/intergenerational_mobility_alesina_stantcheva_teso.pdf"
   book: "American Economic Review 108 (2): 521-554 [also NBER Working Paper 23027]"
   coauthors: "Alberto Alesina and Edoardo Teso"
   year: "2018"
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/online_appendix.pdf"
       text: "Online Appendix"
+    - url: "http://socialeconomicslab.org/resources-and-data/"
+      text: "Replication Package"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_mobility_redistribution_september2017.pdf"
       text: "Slides"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_mobility_redistribution_frenchnationalassembly_june2019.pdf"
@@ -424,19 +430,21 @@ publications:
 # 2015
 
 - title: "How Elastic are Preferences for Redistribution: Evidence from Randomized Survey Experiments"
-  pdflink: "https://www.dropbox.com/s/q01khis47tedxbh/InequalitySurvey.pdf?dl=0"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/inequalitysurvey.pdf"
   book: "American Economic Review 105 (4): 1478-1508"
   coauthors: "Ilyana Kuziemko, Michael Norton and Emmanuel Saez"
   year: "2015"
   links:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/how_elastic_kuziemko_norton_saez_stantcheva.pdf"
+      text: "Online Appendix"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/inequalitysurvey_slides.pdf"
       text: "Slides"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/2013-0360_data.zip"
-      text: "Data"
+    - url: "http://socialeconomicslab.org/resources-and-data/"
+      text: "Replication Package"
   abstract: >
       We develop online survey experiments to analyze how information about inequality and taxes affects preferences for redistribution. Approximately 4,000 respondents were randomized into treatments providing interactive, customized information on U.S. income inequality, the link between top income tax rates and economic growth, and the estate tax. An additional 6,000 respondents were randomized into follow-up treatments to explore mechanisms underlying the initial results. The treatment has very large effects on whether respondents view inequality as a problem. By contrast, it only slightly moves policy preferences (e.g., top income tax rates and transfer programs). An exception is the estate tax---informing respondents of the small share of decedents who pay it more than doubles support for it and this effect persists in a one-month follow-up. We explore several explanations for our results. Extreme ex-ante misinformation appears to drive the large estate tax results. The small effects for all other policies can be at least partially explained by respondents' low trust in government---indeed, we show that priming people to think negatively about the government substantially reduces support for transfer programs---as well as a disconnect between concerns about social issues and the public policies that aim to address them.
 - title: "Optimal Income Taxation with Adverse Selection in the Labour Market"
-  pdflink: "https://www.dropbox.com/s/4ptn2471b1gd443/S_Stantcheva_AdverseSelection.pdf?dl=0"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/s_stantcheva_adverseselection.pdf"
   book: "Review of Economic Studies 81: 1296-1329"
   coauthors: 
   year: "2014"
@@ -446,7 +454,7 @@ publications:
   abstract: >
     This paper studies optimal linear and nonlinear redistributive income taxation when there is adverse selection in the labor market. Unlike in standard taxation models, firms do not know workers' abilities and competitively screen them through nonlinear compensation contracts, unobservable to the government, in a Miyazaki-Wilson-Spence equilibrium. Adverse selection leads to different optimal tax formulas than in the standard Mirrlees (1971) model, because of the use of work hours as a screening tool by firms, which for higher talent workers results in a "rat race" and for lower talent workers in informational rents and cross-subsidies. The most surprising result is that, if the government has sufficiently strong redistributive goals, welfare is higher when there is adverse selection than when there is not. Policies that endogenously affect adverse selection are discussed. The model has practical implications for the interpretation, estimation, and use of taxable income elasticities, which are central to optimal tax design.
 - title: "Optimal Taxation of Top Incomes: A Tale of Three Elasticities"
-  pdflink: "https://www.dropbox.com/s/hxpmahsib5qogig/piketty-saez-stantchevaAEJ14.pdf?dl=0"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/piketty-saez-stantchevaaej14.pdf"
   book: "American Economic Journal: Economic Policy 6 (1): 230-271"
   coauthors: "Thomas Piketty and Emmanuel Saez"
   year: "2014"
@@ -459,7 +467,7 @@ publications:
   abstract: >
       This paper presents a model of optimal labor income taxation in which top incomes respond to marginal tax rates through three channels: (1) standard labor supply, (2) tax avoidance, (3) compensation bargaining. We derive the optimal top tax rate formula as a function of the three corresponding behavioral elasticities. The first elasticity (labor supply) is the sole real factor limiting optimal top tax rates. The optimal tax system should be designed to minimize the second elasticity (avoidance) through tax enforcement and tax neutrality across income forms. The optimal top tax rate increases with the third elasticity (bargaining) as bargaining efforts are zero-sum in aggregate. We provide evidence on this elasticity using cross-country times series macro-evidence and CEO pay micro-evidence. The macro-evidence from 18 OECD countries shows that there is a strong negative correlation between top tax rates and top 1% income shares since 1960, implying that the overall elasticity is large. However, top income share increases have not translated into higher economic growth. US CEO pay evidence shows that pay for luck is quantitatively more important when top tax rates are low. International CEO pay evidence shows that CEO pay is strongly negatively correlated with top tax rates even controlling for firm characteristics and performance, and this correlation is stronger in firms with poor governance. These results suggest that bargaining effects play a role in the link between top incomes and top tax rates, implying that optimal top tax rates could be higher than commonly assumed.
 - title: "Optimal Taxation and Human Capital Policies over the Life Cycle"
-  pdflink: "https://www.dropbox.com/s/73zm4yb2qdrfwhj/S_Stantcheva_JMP.pdf?dl=0"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/s_stantcheva_jmp.pdf"
   book: "Job Market Paper"
   year: "2013"
   note: "This is a long and comprehensive job market paper version and has now been replaced by two papers: ''Learning and (or) doing: Human Capital Investments and Optimal Taxation'' and ''Optimal Taxation and Human Capital Policies over the Life Cycle.''"
