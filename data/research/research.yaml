@@ -45,15 +45,13 @@ workingpapers:
     We link survey data on Danish people’s perceived income positions and views on inequality within various reference groups to administrative records on their reference groups, income histories, and life events. People are, on average, well aware of the income levels of their reference groups, but lower-ranked respondents in all groups tend to overestimate their own position among others because they believe others’ incomes are lower than is the case, while higher-ranked respondents underestimate their position. People view inequalities within co-workers and education group as most unfair, yet underestimate inequality the most exactly within these groups. Perceived fairness of inequalities is strongly related to current individual position, moves with shocks like unemployment or promotions, and changes when experimentally showing people their actual positions. 
     
 - title: "Civil Liberties in the Time of Health and Economic Crises"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27972.pdf"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/civil_liberty.pdf"
   book: "NBER Working Paper 27972"
   coauthors: "Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Joyce Kim, and David Yang"
-  year: "2020"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/abeksy_civil_lib_public_health_appendixonline.pdf"
-      text: "Online Appendix"
+  year: "2021"
   abstract: >
-    Major crises—from terrorist attacks to outbreaks of disease—bring the trade-off between individual civil liberties and national security or well-being into sharp relief. In this paper, we study to what extent individual preferences for protecting rights and civil liberties are elastic to health insecurity. We design and conduct representative surveys involving approximately 550,000 responses across 15 countries, including China and the United States, during many months of the COVID-19 pandemic, from March 2020 until January 2021. We document significant heterogeneity across countries and demographic groups in willingness to sacrifice rights for public welfare. Citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country, as are those with prior experience in communist regimes. Leveraging naturally-occurring variation as well as experimental approaches, we estimate that a one standard deviation increase in health security concerns increases willingness to sacrifice civil liberties by approximately 72%-92% of the difference between the average Chinese and U.S. citizen. Stated preferences correlate with observed behavior including demand for tracing apps, donations, and petitions.
+    Major crises — from terrorist attacks to outbreaks of disease — bring the trade-off between individual civil liberties and national security or well-being into sharp relief. In this paper, we study to what extent individual preferences for protecting rights and civil liberties are elastic to health insecurity. We design and conduct representative surveys involving approximately 550,000 responses across 15 countries, including China and the United States, during many months of the COVID-19 pandemic, from March 2020 until January 2021. We document significant heterogeneity across countries and demographic groups in willingness to sacrifice rights for public welfare. Citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country, as are those with prior experience in communist regimes. Leveraging naturally-occurring variation as well as experimental approaches, we estimate that a one standard deviation increase in health security concerns increases willingness to sacrifice civil liberties by approximately 72%-92% of the difference between the average Chinese and U.S. citizen. Stated preferences correlate with observed behavior including demand for tracing apps, donations, and petitions.
+
 - title: "Understanding Economic Policies: What do people know and learn?"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/understanding_economics_wp.pdf"
   book: "Harvard University Working Paper"
@@ -305,6 +303,9 @@ publications:
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_dynamic_taxation_ar.pdf"
   book: "Annual Review of Economics Vol. 12: 801–831"
   year: "2020"
+  links:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/appendix_dynamic_taxation.pdf"
+      text: "Online Appendix"
   abstract: >
     This paper reviews recent advances in the study of dynamic taxation, considering three main approaches: the dynamic Mirrlees, the parametric Ramsey, and the sufficient statistics approaches. In the first approach, agents' heterogeneous abilities to earn income are private information and evolve stochastically over time. Dynamic taxes are not ex ante restricted and are set for redistribution and insurance considerations. Capital is taxed only in order to improve incentives to work. Human capital is optimally subsidized if it reduces post-tax inequality and risk on balance. The Ramsey approach specifies ex ante restricted tax instruments and adopts quantitative methods, which allows it to consider more complex and realistic economies. Capital taxes are optimal when age-dependent labor income taxes are not possible. The newer and tractable sufficient statistics approach derives robust tax formulas that depend on estimable elasticities and features of the income distributions. It simplifies the transitional dynamics thanks to a newly defined criterion, the "utility-based steady state approach" that prevents the government from exploiting sluggish responses in the short-run. Capital taxes are here based on the standard equity-efficiency trade-off. 
 - title: "Taxation and Innovation: What Do We Know?"
