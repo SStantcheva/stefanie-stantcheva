@@ -8,6 +8,10 @@ weight = 0
 
 Here is some selected media coverage of my research. 
 
+### 2022
+
+Econimate *"Social Positions & Fairness Views on Inequality"* [[Video]](https://www.youtube.com/watch?v=PLYpEt6t4cc)
+
 ### 2021
 
 Harvard Business Review *"We’re Bad at Measuring Inequality — Here’s Why That Matters"* [[Podcast]](https://hbr.org/podcast/2022/01/were-bad-at-measuring-inequality-heres-why-that-matters)
