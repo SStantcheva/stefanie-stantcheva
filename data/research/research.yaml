@@ -3,6 +3,16 @@
       
 workingpapers:
 
+- title: "Understanding of Trade"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/understanding_trade.pdf"
+  book: "Harvard University Working Paper"
+  year: "2022"
+  links:
+    - url: "https://understandingeconomics.org/#/"
+      text: "Understanding Economics Website"
+  abstract: >
+    I study how people understand and reason about trade, and what factors shape their views on trade policy. I design and run large-scale surveys and experiments in the U.S. to elicit respondents' knowledge and understanding of trade, their perceived economic gains and distributional impacts from it, and their views on trade restrictions and compensatory redistribution for those hurt by trade. People's understanding of trade is imperfect and views are split on its efficiency and distributional effects. Respondents' own exposure to trade through their sector, occupation, skill, or local labor market shape their perceptions of the impacts of trade on themselves, but also on others and on the broader U.S. economy. The findings are also consistent with the idea of "diffuse gains and concentrated losses:" respondents' perceived benefits as consumers are non-salient and vague to them, while the perceived threats of those in at-risk jobs are very salient. Beyond material self-interest, people have broader social and economic concerns that strongly influence their views on trade policy. The belief that is most predictive of support for open trade is that trade generates a variety of efficiency gains. People who believe that those hurt by trade can be helped using other tools (compensatory redistribution) do not oppose free trade, even if they are convinced that it will entail adverse distributional consequences. The results highlight the importance of compensatory redistribution as an indissociable part of trade policy if support for free trade is to be maintained. 
+
 - title: "Wealth and Property Taxation in the United States [Slides Only]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/wealth_and_property_taxation_in_the_us_slides.pdf"
   coauthors: "Sacha Dray and Camille Landais"
@@ -65,17 +75,6 @@ workingpapers:
       text: "Understanding Economics Website"
   abstract: >
     I study how well people understand, reason, and learn about four economic policies: i) Personal income taxation, ii) Estate taxation, iii) Health insurance, and iv) Trade. To that end, I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about policies and the underlying economic phenomena, but also their understanding of the mechanisms of each policy and their reasoning. The detailed survey questions are designed to address the three main factors that can shape support for or opposition to various policies: efficiency effects, distributional implications, and fairness considerations. To extract people's first-order considerations that come to mind when they are prompted to think about a given policy, its shortcomings, and goals without priming them, open-ended questions are used and then evaluated with text analysis methods. There are partisan divergences of varying magnitudes and significance, not just in the final policy views, but also in reasonings about the underlying mechanisms. Respondents are in many cases likely to think of themselves as responding differently and facing different consequences from other people. Women in particular tend to consider themselves and other women as less responsive to income and estate taxes. Health insurance considerations are also intertwined with gender considerations and views on female health concerns and services are starkly divided. I experimentally show people instructional videos that explain the workings and consequences of each policy from three different perspectives. The "Distributional" perspective focuses on the distributional consequences of each policy; the "Efficiency" perspective focuses on the efficiency costs; the "Economist" perspectives focuses on the trade-off, combining both the distributional and efficiency perspectives together. Respondents do change some of their views about the mechanisms and the desirable design of some policies after seeing the instructional videos. The possibility to influence at least the perceived mechanisms of and sometimes even support for given policies suggests that perhaps explanations (rather than the provision of simple facts) can be useful as a first step in elevating the policy debate. 
-- title: "Understanding Trade: How Do People Reason?"
-  pdflink: "https://www.dropbox.com/s/zlvzvj8pnqvb1iy/Stantcheva_Understanding_Economics.pdf?dl=0"
-  book: "Harvard University Working Paper"
-  year: "2020"
-  links:
-    - url: "https://www.dropbox.com/s/dhmfkkafgrmf89j/PrincetonTalk_Trade_v4.pdf?dl=0"
-      text: "Survey Questionnaires"
-    - url: "https://www.dropbox.com/s/wmr1rk6f59xb35o/Understanding_Economics_Online_Appendix.pdf?dl=0"
-      text: "Online Appendix"
-    - url: "https://understandingeconomics.org/#/"
-      text: "Understanding Economics Website"
 
 - title: "Reforms and Dynamics of Income: Evidence Using New Panel Data"
   pdflink: "https://www.dropbox.com/s/b1fx86ivdwvlrn6/Tax_Reforms.pdf?dl=0"
