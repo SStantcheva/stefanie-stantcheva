@@ -16,6 +16,8 @@ Econimate *"Social Positions & Fairness Views on Inequality"* [[Video]](https://
 
 ### 2021
 
+Le Figaro *"Stefanie Stantcheva, météorite économique"* [[Article, in French]](https://www.lefigaro.fr/conjoncture/stefanie-stantcheva-meteorite-economique-20211215) 
+
 Harvard Business Review *"We’re Bad at Measuring Inequality — Here’s Why That Matters"* [[Podcast]](https://hbr.org/podcast/2022/01/were-bad-at-measuring-inequality-heres-why-that-matters)
 
 Seventh Richard Goode Lecture at the IMF *"How Do People Think about the Economy?"* [[Video]](https://www.youtube.com/watch?v=Q7YIJm935LA)
