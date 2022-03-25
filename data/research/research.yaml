@@ -131,15 +131,15 @@ workingpapers:
 publications:
   #2022
 - title: "Optimal Taxation and R&D Policies"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/akcigithanleystantcheva2022.pdf"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/econometrica_-_2022_-_akcigit_-_optimal_taxation_and_r_d_policies.pdf"
   book: "Econometrica 90(2): 645–684 [also NBER Working Paper 22908]"
   coauthors: "Ufuk Akcigit and Douglas Hanley"
   year: "2022"
   links:
-  - url: "https://scholar.harvard.edu/files/stantcheva/files/akcigithanleystantcheva_oa.pdf"
-    text: "Online Appendix"
   - url: "https://scholar.harvard.edu/files/stantcheva/files/akcigithanleystantcheva_sm.pdf"
     text: "Supplementary Material"
+  - url: "https://scholar.harvard.edu/files/stantcheva/files/optimal_taxation_and_rd_policies_-_replication_packet.zip"
+    text: "Data and codes"
   abstract: >
     We study the optimal design of corporate taxation and R&D policies as a dynamic mechanism design problem with spillovers. Firms have heterogeneous research productivity, and that research productivity is private information. There are non-internalized technological spillovers across firms, but the asymmetric information prevents the government from correcting them in the first best way. We highlight that key parameters for the optimal policies are (i) the relative complementarities between observable R&D investments, unobservable R&D inputs, and firm research productivity, (ii) the dispersion and persistence of firms’ research productivities, and (iii) the magnitude of technological spillovers across firms. We estimate our model using firm-level data matched to patent data and quantify the optimal policies. In the data, high research productivity firms get disproportionately higher returns to R&D investments than lower productivity firms. Very simple innovation policies, such as linear corporate taxes combined with a nonlinear R&D subsidy—which provides lower marginal subsidies at higher R&D levels—can do almost as well as the unrestricted optimal policies. Our formulas and theoretical and numerical methods are more broadly applicable to the provision of firm incentives in dynamic settings with asymmetric information and spillovers, and to firm taxation more generally.
 
@@ -151,6 +151,8 @@ publications:
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_immigration_june2019_am.pdf"
       text: "Slides"
+    - url: "https://socialeconomicslab.org/resources-and-data/"
+      text: "Data and codes"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/immigration_myths_and_global_realities_-_the_new_york_times.pdf"
       text: "New York Times (June 2018)"
@@ -187,13 +189,15 @@ publications:
     This paper summarizes some of the major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
 
 - title: "Taxation and Innovation in the 20th Century"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/taxation_innovation.pdf"
-  book: "Quarterly Journal of Economics (Forthcoming) [also NBER Working Paper 24982]"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/taxation_20th_century.pdf"
+  book: "Quarterly Journal of Economics 137(1), 329–385 [also NBER Working Paper 24982]"
   coauthors: "Ufuk Akcigit, John R. Grigsby and Tom Nicholas"
   year: "2022"
   links: 
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/taxation_innovation_onlineappendix.pdf"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/taxation_20th_century_appendix.pdf"
       text: "Online Appendix"
+    - url: "https://dataverse-harvard-edu.ezp-prod1.hul.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SR410I"
+      text: "Data and codes"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/taxation_and_innovation_in_the_20th_century_vox_cepr_policy_portal.pdf"
       text: "VoxEU"
@@ -233,8 +237,8 @@ publications:
       text: "Survey Questionnaires"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_stantcheva_oa.pdf"
       text: "Online Appendix"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_tax_policy_replication_package.zip"
-      text: "Replication Package"
+    - url: "https://socialeconomicslab.org/resources-and-data/"
+      text: "Data and codes"
     - url: "https://understandingeconomics.org/#/"
       text: "Understanding Economics Website"
   abstract: >
@@ -351,8 +355,8 @@ publications:
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/intergenerational_mobility_alesina_stantcheva_teso.pdf"
       text: "Online Appendix"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/alesina_teso_stantcheva_replication_package.zip"
-      text: "Replication Package"
+    - url: "https://socialeconomicslab.org/resources-and-data/"
+      text: "Data and codes"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_mobility_redistribution_september2017.pdf"
       text: "Slides"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_mobility_redistribution_frenchnationalassembly_june2019.pdf"
@@ -435,10 +439,10 @@ publications:
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/how_elastic_kuziemko_norton_saez_stantcheva.pdf"
       text: "Online Appendix"
+    - url: "https://socialeconomicslab.org/resources-and-data/"
+      text: "Data and codes"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/inequalitysurvey_slides.pdf"
       text: "Slides"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/how_elastic_are_preferences_for_redistribution_-_replication_package.zip"
-      text: "Replication Package"
   abstract: >
       We develop online survey experiments to analyze how information about inequality and taxes affects preferences for redistribution. Approximately 4,000 respondents were randomized into treatments providing interactive, customized information on U.S. income inequality, the link between top income tax rates and economic growth, and the estate tax. An additional 6,000 respondents were randomized into follow-up treatments to explore mechanisms underlying the initial results. The treatment has very large effects on whether respondents view inequality as a problem. By contrast, it only slightly moves policy preferences (e.g., top income tax rates and transfer programs). An exception is the estate tax---informing respondents of the small share of decedents who pay it more than doubles support for it and this effect persists in a one-month follow-up. We explore several explanations for our results. Extreme ex-ante misinformation appears to drive the large estate tax results. The small effects for all other policies can be at least partially explained by respondents' low trust in government---indeed, we show that priming people to think negatively about the government substantially reduces support for transfer programs---as well as a disconnect between concerns about social issues and the public policies that aim to address them.
 - title: "Optimal Income Taxation with Adverse Selection in the Labour Market"
