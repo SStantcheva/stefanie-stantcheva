@@ -10,6 +10,8 @@ Here is some selected media coverage of my research.
 
 ### 2022
 
+The Richard Musgrave Lecture *"Social Economics Surveys and Experiments"* [[Video]](https://www.youtube.com/watch?v=zpr7euxqv5w)
+
 Econimate *"Social Positions & Fairness Views on Inequality"* [[Video]](https://www.youtube.com/watch?v=PLYpEt6t4cc)
 
 ### 2021
