@@ -160,6 +160,54 @@ You should also edit side bar
     {{ end }}
     <br>
 
+
+   <h2 id="PolicyPapers">Policy Papers</h2>
+    <div style="margin-top:-25px;"></div>
+    {{ with .policypapers }}
+    {{range . }}
+    {{ $.Scratch.Add "count" 1 }} 
+    {{$index:= $.Scratch.Get "count" }}
+    {{ $other_text := .other_text }}
+
+
+    {{ if ne .year ($.Scratch.Get "curyear") }}<br><h3>{{ .year }}</h3>{{ $.Scratch.Set "curyear" .year}}{{ end }}
+
+    <p>
+        <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
+        
+        {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
+
+        {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
+
+        {{ with .book_edited }}<span style="margin:5px 0px 5px 0px;">in <em>{{ . }}</em></span>{{ end }}<em>{{ .book }}, {{ .year }} </em>
+
+        {{ with .note }}<p style="margin:5px 0px 5px 0px;">{{ . }}</p>{{ end }}
+
+        {{ with .abstract }}<p style="margin:5px 0px 5px 0px;"><a href="javascript:toggle({{ $index }})">Abstract<span id="pubabslink_{{ $index }}"> (click to expand)</span></a><span id="pubabs_{{ $index }}" style="display:none;">: {{ . }}</span></p>{{ end }}
+
+        {{ with .links }}
+        {{ range . }}
+        <p style="margin:5px 0px 5px 0px;"><a href="{{ .url }}" target="blank">• {{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
+        {{ end }}
+        {{ end }}
+
+        {{ with .presscoverage }}
+        <p style="margin:5px 0px 5px 0px;"> Press coverage:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+        {{ end }}
+        {{ end }}
+
+       {{ with .other }}
+        <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
+        {{ end }}
+        {{ end }}
+    </p>
+
+    {{ end }}
+    {{ end }}
+    <br>
+
     
 
     {{ end }}
