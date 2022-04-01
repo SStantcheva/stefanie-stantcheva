@@ -29,13 +29,6 @@ workingpapers:
   abstract: > 
     Using new large-scale survey and experimental data, we investigate how respondents perceive racial inequities between Black and white Americans, what they believe causes them, and what interventions, if any, they think should be implemented to reduce them. We intentionally oversample Black respondents, cover many cities in the US, and survey both adults and very young people aged 13 to 17. In the experimental parts, we consider the causal impact of information on racial inequities (such as the evolution of the Black-white earnings gap or the differences in mobility for Black and white children) and explanations for these inequities (i.e., the deep-seated roots and long-lasting consequences of systemic racism) on respondents’ views. Although there is heterogeneity in how respondents perceive the magnitude of current racial gaps in economic conditions and opportunities, the biggest discrepancies are in how they explain them. There is a stark partisan gap among white respondents, particularly in the perceived causes of racial inequities and what should be done about them. White Democrats and Black respondents are much more likely to attribute racial inequities to adverse past and present circumstances and want to act on them with race-targeted and general redistribution policies. At the same time, white Republicans are more likely to attribute racial gaps to individual actions. These views are already deeply entrenched in teenagers based on their race and their parents’ political affiliation. A policy decomposition shows that the perceived causes of racial inequities correlate most strongly with support for race-targeted or general redistribution policies, a finding confirmed by the experimental results. 
   
-- title: "A Policy Matrix for Inclusive Prosperity"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/policy_matrix_nber_w28736.pdf"
-  book: "NBER Working Paper 28736"
-  coauthors: "Dani Rodrik"
-  year: "2021" 
-  abstract: >
-    One of the biggest challenges that countries face today is the very unequal distributions of opportunities, resources, income and wealth across people. Inclusive prosperity – whereby many people from different backgrounds can benefit from economic growth, new technologies, and the fruits of globalization –remains elusive. To address these issues, societies face choices among many different policies and institutional arrangements to try to ensure a proper supply of productive jobs and activities, as well as access to education, financial means, and other endowments that prepare individuals for their participation in the economy. In this paper we offer a simple, organizing framework to think about policies for inclusive prosperity. We provide a comprehensive taxonomy of policies, distinguishing among the types of inequality they address and the stages of the economy where the intervention takes place. The taxonomy clarifies the differences among contending approaches to equity and inclusion and can help analysts assess the impacts and implications of different policies and identify potential gaps.
 - title: "Social Positions and Fairness Views on Inequality"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/bks_social_position.pdf"
   book: "NBER Working Paper 28099 [Revise and Resubmit at the Review of Economic Studies]"
@@ -440,6 +433,14 @@ policypapers:
     This paper summarizes some of the major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
 
 # 2021
+
+- title: "A Policy Matrix for Inclusive Prosperity"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/policy_matrix_nber_w28736.pdf"
+  book: "NBER Working Paper 28736"
+  coauthors: "Dani Rodrik"
+  year: "2021" 
+  abstract: >
+    One of the biggest challenges that countries face today is the very unequal distributions of opportunities, resources, income and wealth across people. Inclusive prosperity – whereby many people from different backgrounds can benefit from economic growth, new technologies, and the fruits of globalization –remains elusive. To address these issues, societies face choices among many different policies and institutional arrangements to try to ensure a proper supply of productive jobs and activities, as well as access to education, financial means, and other endowments that prepare individuals for their participation in the economy. In this paper we offer a simple, organizing framework to think about policies for inclusive prosperity. We provide a comprehensive taxonomy of policies, distinguishing among the types of inequality they address and the stages of the economy where the intervention takes place. The taxonomy clarifies the differences among contending approaches to equity and inclusion and can help analysts assess the impacts and implications of different policies and identify potential gaps.
 
 - title: "Perceptions and Preferences for Redistribution"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/perceptions-and-preferences-for-redistribution.pdf"
