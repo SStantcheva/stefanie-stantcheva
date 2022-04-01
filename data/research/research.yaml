@@ -3,7 +3,7 @@
       
 workingpapers:
 
-- title: "Understanding of Trade"
+- title: "Understanding of Trade [UPDATED! March 2022]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/understanding_trade.pdf"
   book: "Harvard University Working Paper"
   year: "2022"
@@ -13,15 +13,15 @@ workingpapers:
   abstract: >
     I study how people understand and reason about trade, and what factors shape their views on trade policy. I design and run large-scale surveys and experiments in the U.S. to elicit respondents' knowledge and understanding of trade, their perceived economic gains and distributional impacts from it, and their views on trade restrictions and compensatory redistribution for those hurt by trade. People's understanding of trade is imperfect and views are split on its efficiency and distributional effects. Respondents' own exposure to trade through their sector, occupation, skill, or local labor market shape their perceptions of the impacts of trade on themselves, but also on others and on the broader U.S. economy. The findings are also consistent with the idea of "diffuse gains and concentrated losses:" respondents' perceived benefits as consumers are non-salient and vague to them, while the perceived threats of those in at-risk jobs are very salient. Beyond material self-interest, people have broader social and economic concerns that strongly influence their views on trade policy. The belief that is most predictive of support for open trade is that trade generates a variety of efficiency gains. People who believe that those hurt by trade can be helped using other tools (compensatory redistribution) do not oppose free trade, even if they are convinced that it will entail adverse distributional consequences. The results highlight the importance of compensatory redistribution as an indissociable part of trade policy if support for free trade is to be maintained. 
 
-- title: "Wealth and Property Taxation in the United States [Slides Only]"
+- title: "Wealth and Property Taxation in the United States [NEW! March 2022] [Slides Only]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/dls_2022_03_v3.pdf"
   coauthors: "Sacha Dray and Camille Landais"
   book: "Harvard University Working Paper"
-  year: "2021" 
+  year: "2022" 
   abstract: > 
     We study the history and geography of wealth accumulation in the US, using newly collected historical property tax records since the early 1800s. The property tax in the US was a comprehensive tax on all kinds of properties (real estate, personal property, financial wealth, etc), making it one of the first ``wealth taxes.’’ Our new data allows us to reconstruct wealth series at the city, county, and state levels over time and to study the effects of property taxes on property values, migration, and investment. We first document the long-term evolution of household wealth in the US since the early 1800s, offering the first fine-grained and high-frequency estimates of household wealth over more than 200 years. The US had significantly lower wealth than Europe and only caught up with Europe after WW1, despite GDP per capita having been larger than that of France or the UK since the late 1870s. Second, we study the spatial allocation of wealth in the US over the long run. We show that the geography of wealth is extremely persistent: per capita wealth by county in the 1850s is still highly predictive of income per capita today. Factors related to geography and demographics correlate strongly with wealth at the city, county, and state levels. Finally, we leverage our data and policy variations to better understand the determinants of wealth accumulation, in particular the role of property taxation. Our data features large variation in property tax rates across more than 300 municipalities and we can study the changes in wealth and other outcomes following episodes of large, sudden, and persistent increases or decreases in effective property tax rates, in a Generalized Synthetic Control Design (Xu [2017]). We find an implied elasticity of capital income with respect to the net-of-tax rate on income of about .70 after 10 years. This implied elasticity can be broken down into an (extensive) elasticity of the population of about .26 and an intensive elasticity of per capita income of about .44. The intensive margin elasticity appears to be driven in part by reporting and avoidance responses, but also by significant capitalization of property taxes in local real estate prices.
 
-- title: "Perceptions of Racial Gaps, their Causes, and Ways to Reduce Them [NEW! September 2021]"
+- title: "Perceptions of Racial Gaps, their Causes, and Ways to Reduce Them"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_ferroni_stantcheva_perceptions_racial_gaps.pdf"
   book: "NBER Working Paper 29245"
   coauthors: "Alberto Alesina and Matteo Ferroni"
@@ -167,7 +167,7 @@ publications:
   abstract: >
     Does immigration change support for redistribution? We design and conduct large-scale surveys and experiments in six countries to investigate how people perceive immigrants and how these perceptions influence their support for redistribution. We find striking misperceptions about the number and characteristics of immigrants. In all countries, respondents greatly overestimate the total number of immigrants, think immigrants are culturally and religiously more distant from them, and economically weaker–less educated, more unemployed, and more reliant on and favored by government transfers–than they actually are. In the experimental part of our paper, we show that simply making respondents think about immigration before asking questions about redistribution makes them support less redistribution, including actual donations to charities. The perception that immigrants are economically weaker and more likely to take advantage of the welfare system is strongly correlated with lower support for redistribution, much more so than the perceived cultural distance or the perceived share of immigrants. These findings are confirmed by further experimental evidence. Information about the true shares and origins of immigrants does not change support for redistribution. An anecdote about a “hard working” immigrant has somewhat stronger effects, but is unable to counteract the negative priming effect of making people think about immigration. Our results further suggest that narratives shape people’s views on immigration more deeply than hard facts.
 
-- title: "Eliciting People's First-Order Concerns: Text Analysis of Open-Ended Survey Questions"
+- title: "Eliciting People's First-Order Concerns: Text Analysis of Open-Ended Survey Questions [NEW! February 2022]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/text_analysis_of_open-ended_questions.pdf"
   book: "American Economic Association Papers and Proceedings (Forthcoming)"
   coauthors: "Beatrice Ferrario"
@@ -177,16 +177,6 @@ publications:
       text: "Slides"
   abstract: >
     This paper illustrates the design and use of open-ended survey questions as a way of eliciting people's first-order concerns on policies. Multiple choice questions are the backbone of most surveys, but they may prime respondents to select answer options that they would not naturally have thought about, and they may omit relevant options. Open-ended questions that do not constrain respondents with specific answer choices are a valuable tool for eliciting first-order thinking. We discuss three text analysis methods to analyze open-ended questions' answers. To illustrate how to apply these methods, we provide evidence from large-scale surveys on income and estate taxation. We show the that key concerns relate mostly to distribution issues, fairness, and government, rather than to efficiency concerns. There are large partisan gaps in the first-order concerns on policies.
-
-- title: "Inequalities in the Times of a Pandemic"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/inequalities_pandemic.pdf"
-  book: "Economic Policy"
-  year: "2022"
-  links: 
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid_inequalities.pdf"
-      text: "Slides"
-  abstract: >
-    This paper summarizes some of the major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
 
 - title: "Taxation and Innovation in the 20th Century"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/taxation_20th_century.pdf"
@@ -224,13 +214,6 @@ publications:
   abstract: >
     This article analyzes the specific and critical role of trust in scientists on both the support for and compliance with nonpharmaceutical interventions (NPIs) during the COVID-19 pandemic. We exploit large-scale, longitudinal, and representative surveys for 12 countries over the period from March to December 2020, and we complement the analysis with experimental data. We find that trust in scientists is the key driving force behind individual support for and compliance with NPIs and for favorable attitudes toward vaccination. The effect of trust in government is more ambiguous and tends to diminish support for and compliance with NPIs in countries where the recommendations from scientists and the government were not aligned. Trust in others also has seemingly paradoxical effects: in countries where social trust is high, the support for NPIs is low due to higher expectations that others will voluntary social distance. Our individual-level longitudinal data also allows us to evaluate the effects of within-person changes in trust over the pandemic: we show that trust levels and, in particular, trust in scientists have changed dramatically for individuals and within countries, with important subsequent effects on compliant behavior and support for NPIs. Such findings point out the challenging but critical need to maintain trust in scientists during a lasting pandemic that strains citizens and governments.
 
-- title: "Perceptions and Preferences for Redistribution"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/perceptions-and-preferences-for-redistribution.pdf"
-  book: "The IFS Deaton Review [also NBER Working Paper 29370]"
-  year: "2021"
-  abstract: >
-    The relationship between the degree of inequality and the demand for redistribution has been a central question in political science and political economy. The famous median-voter model predicts that higher inequality, reflected in a growing gap between the income of the average and the median voter, should lead to increased demand for redistribution, as policymakers cater to the median voter’s preferences (Meltzer and Richard, 1981). Yet, using data from OECD countries, Kenworthy and McCall (2008) show that, despite increases in inequality in those countries, there was no corresponding increase in demand for redistribution. Part of the explanation of this puzzle lies in the realisation that it is not only (or even mainly) reality, but perceptions that shape support for policy. Perceptions of inequality, among others, may or may not be aligned with facts. Beyond beliefs about inequality, there are other perceptions on key issues that can deeply influence people’s views on redistribution. This article will explore beliefs about social mobility, diversity and immigration, social position, and understanding of how policies work. One common thread in the studies presented here is the use of large-scale online social economics surveys and experiments. These can be powerful tools to elicit intangibles that would be difficult to extract from observed behaviour using revealed preference approaches, namely perceptions, knowledge, attitudes, or reasoning. Experiments are a particularly appealing tool to better understand how information interacts with misperceptions and how views on redistribution can be shaped.
-
 - title: "Understanding Tax Policy: How do people Reason?"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_understanding_taxes_qje.pdf"
   book: "Quarterly Journal of Economics 136(4): 2309–2369 [also NBER Working Paper 27699]"
@@ -247,12 +230,6 @@ publications:
   abstract: >
     I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. Using large-scale social economics surveys issued to representative U.S. samples and associated experiments, I elicit respondents’ factual knowledge about tax policy and the income or wealth distributions. Most important, I study their understanding of the mechanisms of tax policy and the reasoning that underlies their policy views. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, that is, the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with broader views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the Redistribution and the Efficiency treatments) or that bring the two together and focus on the trade-off (the Economist treatment). The Redistribution and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps in both the final policy views and at every step of the reasoning about the underlying mechanisms of taxes. Democrats’ and Republicans’ divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
 
-- title: "Fixing Capitalism’s Good Jobs Problem"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/fixing_capitalisms_good_jobs_problem.pdf"
-  book: "Oxford Review of Economic Policy 37(4): 824–837"
-  coauthors: "Dani Rodrik"
-  year: "2021"
-
 
   abstract: >
     I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, i.e., the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the "Redistribution" and the "Efficiency" treatments) or that bring the two together and focus on the trade-off (the "Economist" treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps, not just in the final policy views, but also at every step of the reasoning about the underlying mechanisms of taxes. Democrats and Republicans' divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
@@ -262,38 +239,8 @@ publications:
   coauthors: "Yazan Al-Karablieh and Evangelos Koumanakos"
   year: "2021"
   abstract: >
-    We use a new dataset of the universe of Greek corporate tax returns to study a voluntary tax compliance program for small firms. This “self-assessment” program prescribed target taxable profit margins (the ratio of taxable profits to revenues) for different types of activities. Firms that reported profit margins above these targets in a given year were exempt from audits in that year. We find that the firms that take up the program report significantly larger taxable profits than non-eligible firms, with some evidence for longer-lasting effects on tax reporting. Firms that take up the program for more years exhibit stronger effects. We also find that firms can easily and substantially manipulate reported revenue (decreasing it by up to 40%) to help meet prescribed profit margins without paying more in taxes. Overall, the program increased tax revenues collected from small firms, but points to a very large level of baseline under-reporting of profits and the ease of manipulating reported revenues.
-- title: "Economic Inequality and Insecurity: Policies for an Inclusive Economy"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/rodrik_and_stantcheva_report_for_macron_commission.pdf"
-  book_edited: "Report Prepared for Commission Chaired by Olivier Blanchard and Jean Tirole on Major Future Economic Challenges, France"
-  coauthors: "Dani Rodrik"
-  year: "2021"
-  other_text: "Additional Links"
-  other:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-anglais-les_grands_defis_economiques-juin.pdf"
-      text: "Full Report"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-anglais-synthese_et_chapitre_introductif-les_grands_defis_economiques-juin.pdf"
-      text: "Summary"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-les_grands_defis_economiques-juin.pdf"
-      text: "Full Report [French]"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-synthese_et_chapitre_introductif-les_grands_defis_economiques-juin.pdf"
-      text: "Summary [French]"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/blanchard-tirole-annexes-22juin18h.pdf"
-      text: "Appendix"
-
-- title: "Why do we not Support more Redistribution? New Explanations from Economics Research"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf"
-  book_edited: "Combating Inequality: Rethinking Policies to Reduce Inequality in Advanced Economies"
-  editors: "Dani Rodrik and Olivier Blanchard, MIT University Press"
-  year: "2021"
 
 # 2020
-
-- title: "Disparities in Coronavirus 2019 Reported Incidence, Knowledge, and Behavior Among US Adults"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alsan_2020_oi_200469.pdf"
-  book: "JAMA Network Open"
-  coauthors: "Marcella Alsan, David Yang, and David Cutler"
-  year: "2020"
 
 - title: "Diversity, Immigration, and Redistribution"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_stantcheva_diversity.pdf"
@@ -314,13 +261,7 @@ publications:
       text: "Online Appendix"
   abstract: >
     This paper reviews recent advances in the study of dynamic taxation, considering three main approaches: the dynamic Mirrlees, the parametric Ramsey, and the sufficient statistics approaches. In the first approach, agents' heterogeneous abilities to earn income are private information and evolve stochastically over time. Dynamic taxes are not ex ante restricted and are set for redistribution and insurance considerations. Capital is taxed only in order to improve incentives to work. Human capital is optimally subsidized if it reduces post-tax inequality and risk on balance. The Ramsey approach specifies ex ante restricted tax instruments and adopts quantitative methods, which allows it to consider more complex and realistic economies. Capital taxes are optimal when age-dependent labor income taxes are not possible. The newer and tractable sufficient statistics approach derives robust tax formulas that depend on estimable elasticities and features of the income distributions. It simplifies the transitional dynamics thanks to a newly defined criterion, the "utility-based steady state approach" that prevents the government from exploiting sluggish responses in the short-run. Capital taxes are here based on the standard equity-efficiency trade-off. 
-- title: "Taxation and Innovation: What Do We Know?"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27109.pdf"
-  book: "NBER Tax Policy and the Economy [also NBER Working Paper 27109]"
-  coauthors: "Ufuk Akcigit"
-  year: "2020"
-  abstract: >
-    Tax policies are a wide array of tools, commonly used by governments to influence the economy. In this paper, we review the many margins through which tax policies can affect innovation, the main driver of economic growth in the long-run. These margins include the impact of tax policy on i) the quantity and quality of innovation; ii) the geographic mobility of innovation and inventors across U.S. states and countries; iii) the declining business dynamism in the U.S., firm entry, and productivity; iv) the quality composition of firms, inventors, and teams; and v) the direction of research effort, e.g., toward applied versus basic research, or toward dirty versus clean technologies. We give ideas drawn from research on how the  design of policy can allow policy makers to foster the most productive firms without wasting public funds on less productive ones.
+
 - title: "Taxation and Migration: Evidence and Policy Implications"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/jep.34.2.119.pdf"
   book: "Journal of Economic Perspectives Spring 2020 34(2): 119-142 [also NBER Working Paper 25740]"
@@ -483,3 +424,75 @@ publications:
       text: "Computational appendix"
   abstract: >
     This paper derives optimal income tax and human capital policies in a dynamic life cycle model of labor supply and risky human capital formation. The wage is a function of both stochastic, persistent, and exogenous inability and endogenous human capital. Human capital is acquired throughout life through monetary expenses and training time. The government faces asymmetric information regarding the initial ability of agents and the lifetime evolution of ability, as well as the labor supply. The optimal subsidy on human capital expenses is determined by three considerations: counterbalancing distortions to human capital investment from the taxation of wage and capital income, encouraging labor supply, and providing insurance against adverse draws from the productivity distribution. When the wage elasticity with respect to ability is increasing in human capital, the optimal subsidy involves less than full deductibility of human capital expenses on the tax base, and falls with age. The optimal tax treatment of training time also depends on its interactions with contemporaneous and future labor supply. I consider two ways to implement the optimum: income contingent loans, and a tax scheme that allows for a deferred deductibility of human capital expenses. Numerical results are presented that suggest that full dynamic risk-adjusted deductibility of expenses might be close to optimal, and that simple linear age-dependent policies can achieve most of the welfare gain from the second best.
+
+policypapers:
+
+  #2022
+
+- title: "Inequalities in the Times of a Pandemic"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/inequalities_pandemic.pdf"
+  book: "Economic Policy"
+  year: "2022"
+  links: 
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid_inequalities.pdf"
+      text: "Slides"
+  abstract: >
+    This paper summarizes some of the major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
+
+# 2021
+
+- title: "Perceptions and Preferences for Redistribution"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/perceptions-and-preferences-for-redistribution.pdf"
+  book: "The IFS Deaton Review [also NBER Working Paper 29370]"
+  year: "2021"
+  abstract: >
+    The relationship between the degree of inequality and the demand for redistribution has been a central question in political science and political economy. The famous median-voter model predicts that higher inequality, reflected in a growing gap between the income of the average and the median voter, should lead to increased demand for redistribution, as policymakers cater to the median voter’s preferences (Meltzer and Richard, 1981). Yet, using data from OECD countries, Kenworthy and McCall (2008) show that, despite increases in inequality in those countries, there was no corresponding increase in demand for redistribution. Part of the explanation of this puzzle lies in the realisation that it is not only (or even mainly) reality, but perceptions that shape support for policy. Perceptions of inequality, among others, may or may not be aligned with facts. Beyond beliefs about inequality, there are other perceptions on key issues that can deeply influence people’s views on redistribution. This article will explore beliefs about social mobility, diversity and immigration, social position, and understanding of how policies work. One common thread in the studies presented here is the use of large-scale online social economics surveys and experiments. These can be powerful tools to elicit intangibles that would be difficult to extract from observed behaviour using revealed preference approaches, namely perceptions, knowledge, attitudes, or reasoning. Experiments are a particularly appealing tool to better understand how information interacts with misperceptions and how views on redistribution can be shaped.
+
+
+- title: "Fixing Capitalism’s Good Jobs Problem"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/fixing_capitalisms_good_jobs_problem.pdf"
+  book: "Oxford Review of Economic Policy 37(4): 824–837"
+  coauthors: "Dani Rodrik"
+  year: "2021"
+  abstract: >
+    I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, i.e., the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the "Redistribution" and the "Efficiency" treatments) or that bring the two together and focus on the trade-off (the "Economist" treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps, not just in the final policy views, but also at every step of the reasoning about the underlying mechanisms of taxes. Democrats and Republicans' divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
+
+- title: "Economic Inequality and Insecurity: Policies for an Inclusive Economy"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/rodrik_and_stantcheva_report_for_macron_commission.pdf"
+  book_edited: "Report Prepared for Commission Chaired by Olivier Blanchard and Jean Tirole on Major Future Economic Challenges, France"
+  coauthors: "Dani Rodrik"
+  year: "2021"
+  other_text: "Additional Links"
+  other:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-anglais-les_grands_defis_economiques-juin.pdf"
+      text: "Full Report"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-anglais-synthese_et_chapitre_introductif-les_grands_defis_economiques-juin.pdf"
+      text: "Summary"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-les_grands_defis_economiques-juin.pdf"
+      text: "Full Report [French]"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-synthese_et_chapitre_introductif-les_grands_defis_economiques-juin.pdf"
+      text: "Summary [French]"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/blanchard-tirole-annexes-22juin18h.pdf"
+      text: "Appendix"
+
+- title: "Why do we not Support more Redistribution? New Explanations from Economics Research"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf"
+  book_edited: "Combating Inequality: Rethinking Policies to Reduce Inequality in Advanced Economies"
+  editors: "Dani Rodrik and Olivier Blanchard, MIT University Press"
+  year: "2021"
+
+# 2020
+
+- title: "Disparities in Coronavirus 2019 Reported Incidence, Knowledge, and Behavior Among US Adults"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alsan_2020_oi_200469.pdf"
+  book: "JAMA Network Open"
+  coauthors: "Marcella Alsan, David Yang, and David Cutler"
+  year: "2020"
+
+- title: "Taxation and Innovation: What Do We Know?"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27109.pdf"
+  book: "NBER Tax Policy and the Economy [also NBER Working Paper 27109]"
+  coauthors: "Ufuk Akcigit"
+  year: "2020"
+  abstract: >
+    Tax policies are a wide array of tools, commonly used by governments to influence the economy. In this paper, we review the many margins through which tax policies can affect innovation, the main driver of economic growth in the long-run. These margins include the impact of tax policy on i) the quantity and quality of innovation; ii) the geographic mobility of innovation and inventors across U.S. states and countries; iii) the declining business dynamism in the U.S., firm entry, and productivity; iv) the quality composition of firms, inventors, and teams; and v) the direction of research effort, e.g., toward applied versus basic research, or toward dirty versus clean technologies. We give ideas drawn from research on how the  design of policy can allow policy makers to foster the most productive firms without wasting public funds on less productive ones.
