@@ -8,6 +8,13 @@ weight = 0
 
 Here is some selected media coverage of my research. 
 
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
+
 ### 2022
 
 The Richard Musgrave Lecture *"Social Economics Surveys and Experiments"* [[Video]](https://www.youtube.com/watch?v=zpr7euxqv5w)
