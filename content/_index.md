@@ -13,6 +13,21 @@ I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the
 
 Here is my [Full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_jan2022.pdf), and my [Research Summary](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf). To learn more about people’s understanding, perceptions and views of public policies, visit the [Social Economics Lab website](http://socialeconomicslab.org/). To learn more about my research in “Taxation and Innovation” here is a short [focus piece](https://www.nber.org/reporter/2018number3/taxation-and-innovation). 
 
+## Latest Research
+
+
+
+ **Understanding of Trade** [[Current Draft (March 2022)]](https://scholar.harvard.edu/files/stantcheva/files/understanding_trade.pdf)  
+      *Harvard University Working Paper*
+
+ **Eliciting People's First-Order Concerns: Text Analysis of Open-Ended Survey Questions** (with Beatrice Ferrario) [[Article]](https://scholar.harvard.edu/files/stantcheva/files/text_analysis_of_open-ended_questions.pdf)  
+      *American Economic Association Papers and Proceedings (Forthcoming)* 
+
+ **Immigration and Redistribution** (with Alberto Alesina and Armando Miano) [[Article]](https://scholar.harvard.edu/files/stantcheva/files/0alesina_miano_stantcheva_immigration_restud.pdf)  
+      *Review of Economic Studies (Forthcoming) [also NBER Working Paper 24733]* 
+        
+
+
 ## Contact
 
 **Email:** [sstantcheva@fas.harvard.edu](sstantcheva@fas.harvard.edu)  
