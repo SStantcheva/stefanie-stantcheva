@@ -15,8 +15,11 @@ Here is my [Full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstan
 
 ## Latest Research
 
-
-
+<!-- <details open>
+<summary>Click here to display!</summary>
+<br>
+ -->
+ 
  **Understanding of Trade** [[Current Draft (March 2022)]](https://scholar.harvard.edu/files/stantcheva/files/understanding_trade.pdf)  
       *Harvard University Working Paper*
 
@@ -25,6 +28,9 @@ Here is my [Full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstan
 
  **Immigration and Redistribution** (with Alberto Alesina and Armando Miano) [[Article]](https://scholar.harvard.edu/files/stantcheva/files/0alesina_miano_stantcheva_immigration_restud.pdf)  
       *Review of Economic Studies (Forthcoming) [also NBER Working Paper 24733]* 
+
+<!-- </details>
+ -->
         
 
 

@@ -9,6 +9,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [author]
 name = "Stefanie Stantcheva"
 
+[markup] # needed to add html in .md
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 title = "Nathaniel Ropes Professor of Political Economy,"
 institution = "Harvard University"

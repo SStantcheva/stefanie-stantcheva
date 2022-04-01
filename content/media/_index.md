@@ -8,12 +8,6 @@ weight = 0
 
 Here is some selected media coverage of my research. 
 
-<details open>
-<summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
-</details>
-
 
 ### 2022
 
