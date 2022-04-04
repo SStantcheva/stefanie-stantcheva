@@ -11,6 +11,8 @@ Here is some selected media coverage of my research.
 
 ### 2022
 
+Econofact *"How People Form, and Change Their Opinions on Economics"* [[Podcast]](https://econofact.org/podcast/how-people-form-and-change-their-opinions-on-economics)
+
 The Richard Musgrave Lecture *"Social Economics Surveys and Experiments"* [[Video]](https://www.youtube.com/watch?v=zpr7euxqv5w)
 
 Econimate *"Social Positions & Fairness Views on Inequality"* [[Video]](https://www.youtube.com/watch?v=PLYpEt6t4cc)
