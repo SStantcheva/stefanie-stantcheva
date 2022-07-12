@@ -6,11 +6,15 @@ weight = 0
 
 ## Broader Audience Writing
 
-This page features pieces based on my research and that of others and that are intended for a non-academic audience. 
+This page features pieces based on my research and that of others and that are intended for a non-academic audience.
+
+**2022:**
+
+Conseil d'Analyse Économique *"Les Français et les politiques climatiques"* with Antoine Dechezleprêtre and Adrien Fabre: [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/politiques_climatiques.pdf)
 
 **2021:**
 
-Conseil d'Analyse Economique *"Repenser l'héritage"* with Clément Dherbécourt, Gabrielle Fack and Camille Landais : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/repenser_lheritage.pdf) [[Slides, in French]](https://scholar.harvard.edu/files/stantcheva/files/repenser_lheritage_slides.pdf)
+Conseil d'Analyse Économique *"Repenser l'héritage"* with Clément Dherbécourt, Gabrielle Fack and Camille Landais : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/repenser_lheritage.pdf) [[Slides, in French]](https://scholar.harvard.edu/files/stantcheva/files/repenser_lheritage_slides.pdf)
 
 Project Syndicate *"Inside America's Polarized Views on Race"* : [[Article]](https://www.project-syndicate.org/commentary/us-polarized-views-on-racial-inequities-by-stefanie-stantcheva-2021-12)
 
