@@ -10,7 +10,7 @@ Here is some selected media coverage of my research.
 
 
 ### 2022
-the New Bazaar *"What do we think?"*[[Podcast]](https://www.bazaaraudio.com/the-new-bazaar/what-do-we-think)
+the New Bazaar *"What do we think?" *[[Podcast]](https://www.bazaaraudio.com/the-new-bazaar/what-do-we-think)
 
 Le Grand Journal de l'Eco *"Climat: Les Français prêts à faire plus?"* [[Video, in French]](https://www.bfmtv.com/economie/replay-emissions/le-grand-journal-de-l-eco/climat-les-francais-prets-a-faire-plus-12-07_VN-202207120668.html) 
 
