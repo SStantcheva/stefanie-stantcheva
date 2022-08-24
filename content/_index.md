@@ -16,7 +16,7 @@ Here is my [Full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstan
 
 ## Contact
 
-**Email:** [sstantcheva@fas.harvard.edu](sstantcheva@fas.harvard.edu)  
+**Email:** sstantcheva@fas.harvard.edu
 **Adress:** 
 Department of Economics  
 Littauer Center 232  
@@ -24,7 +24,7 @@ Harvard University
 Cambridge, MA  02138  
 
 **Staff Support:** Ann M. Richards    
-**Email:** [ann_richards@harvard.edu](ann_richards@harvard.edu)  
+**Email:** ann_richards@harvard.edu 
 **Tel.:** 617-496-3960  
 
 
