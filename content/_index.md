@@ -24,7 +24,7 @@ Harvard University
 Cambridge, MA  02138  
 
 **Staff Support:** Ann M. Richards
-**Email:** [ann_richards@harvard.edu](michael_oneil@harvard.edu)  
+**Email:** [ann_richards@harvard.edu](ann_richards@harvard.edu)  
 **Tel.:** 617-496-3960  
 
 
