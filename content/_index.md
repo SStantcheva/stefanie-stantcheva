@@ -23,9 +23,9 @@ Littauer Center 232
 Harvard University  
 Cambridge, MA  02138  
 
-**Staff Support:** Michael O'Neil  
-**Email:** [michael_oneil@fas.harvard.edu](michael_oneil@fas.harvard.edu)  
-**Tel.:** 617-496-2606  
+**Staff Support:** Ann M. Richards
+**Email:** [ann_richards@harvard.edu](michael_oneil@harvard.edu)  
+**Tel.:** 617-496-3960  
 
 
 **Website:** This website was built using Hugo. Feel free to repurpose its code, which you can find on [GitHub](https://github.com/cschesch/stefanie-stantcheva).
