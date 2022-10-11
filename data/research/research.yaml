@@ -278,7 +278,7 @@ publications:
 - title: "Taxation and Migration: Evidence and Policy Implications"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/jep.34.2.119.pdf"
   book: "Journal of Economic Perspectives Spring 2020 34(2): 119-142 [also NBER Working Paper 25740]"
-  coauthors: "Henrik Kleven, Camille Landais and Mathilde Munoz"
+  coauthors: "Henrik Kleven, Camille Landais, and Mathilde Munoz"
   year: "2020"
   abstract: >
     In this article, we review a growing empirical literature on the effects of personal taxation on the geographic mobility of people and discuss its policy implications. We start by laying out the empirical challenges that prevented progress in this area until recently, and then discuss how recent work have made use of new data sources and quasi-experimental approaches to credibly estimate migration responses. This body of work has shown that certain segments of the labor market, especially high-income workers and professions with little location-specific human capital, may be quite responsive to taxes in their location decisions. When considering the implications for tax policy design, we distinguish between uncoordinated and coordinated tax policy. We highlight the importance of recognizing that mobility elasticities are not exogenous, structural parameters. They can vary greatly depending on the population being analyzed, the size of the tax jurisdiction, the extent of tax policy coordination, and a range of non-tax policies. While migration responses add to the efficiency costs of redistributing income, we caution against over-using the recent evidence of (sizeable) mobility responses to taxes as an argument for less redistribution in a globalized world.
@@ -292,6 +292,12 @@ publications:
       text: "Slides"
   abstract: >
     Americans are polarized not only in their views on policy issues and attitudes towards government and society, but also in their perceptions of the same, factual reality. In this paper we conceptualize how to think about the "polarization of reality’’ and review recent papers that show that Republicans and Democrats (as well as Trump and non-Trump voters since 2016) view the same reality through a very different lens. Perhaps as a result, they hold different views about policies and what should be done to address different economic and social issues. We also show that providing information leads to different reassessments of reality and different responses along the policy support margin, depending on one's political leanings. This is not about having different attitudes about economic or social phenomena or policies that could justifiably be viewed differently from different angles. What is striking is to have different perceptions of realities that can be factually checked.
+- title: "Disparities in Coronavirus 2019 Reported Incidence, Knowledge, and Behavior Among US Adults" 
+  pdflink: "https://socialeconomicslab.org/racial-disparities-in-covid-19-knowledge-behaviors-and-symptom-incidence/"
+  book: "JAMA Network Open Network 3(6)" 
+  coauthors: "Marcella Alsan, David Yang, and David Cutler"
+  year: "2020"
+ 
 # 2018
 
 - title: "A Simpler Theory of Optimal Capital Taxation"
