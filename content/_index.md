@@ -16,7 +16,7 @@ Here is my [Full CV](https://scholar.harvard.edu/files/stantcheva/files/cv_sstan
 
 ## Contact
 
-**Adress:** 
+**Address:** 
 Department of Economics  
 Littauer Center 232  
 Harvard University  
