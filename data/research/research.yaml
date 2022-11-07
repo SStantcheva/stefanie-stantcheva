@@ -8,9 +8,6 @@ workingpapers:
   year: "2022" 
   abstract: >
      We examine the causes and consequences of an important cultural and psychological trait: the extent to which one views the world in zero-sum terms -- i.e., that benefits to one person or group tend to come at the cost of others. We implement a survey among approximately 15,000 individuals living in the United States that measures zero-sum thinking, political and policy views, and a rich set of characteristics about their ancestry. We find that a more zero-sum view is strongly correlated with several policy views about the importance of government, the value of redistributive policies, the impact of immigration, and one's political orientation. We find that zero-sum thinking can be explained by experiences of an individual's ancestors (parents and grandparents), including the amount of intergenerational upward mobility they experienced, the degree of economic hardship they suffered, whether they immigrated to the United States or were exposed to more immigrants, and whether they had experiences with enslavement. These findings underscore the importance of psychological traits, and how they are transmitted inter-generationally, in explaining current political divides in the United States.
-
-     
-    
 - title: "Fighting Climate Change: International Attitudes Toward Climate Policies [UPDATED! September 2022]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/international_attitudes_toward_climate_change_sept22.pdf"
   coauthors: "Antoine Dechezleprêtre, Adrien Fabre, Tobias Kruse, Bluebery Planterose, and Ana Sanchez Chico"
@@ -55,7 +52,7 @@ workingpapers:
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/bks_position_fairness.pdf"
   book: "NBER Working Paper 28099 [Conditionally accepted at the Review of Economic Studies]"
   coauthors: "Claus Thustrup Kreiner and Kristoffer Balle Hvidberg"
-  year: "2021"
+  year: "2022"
   links:
   presscoverage:
     - url: "https://voxeu.org/article/how-social-position-shapes-views-fairness"
@@ -71,10 +68,26 @@ workingpapers:
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27972.pdf"
   book: "NBER Working Paper 27972 [Revise and Resubmit at the AEJ: Applied Economics]"
   coauthors: "Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Joyce Kim, and David Yang"
-  year: "2021"
+  year: "2022"
   abstract: >
     Major crises — from terrorist attacks to epidemic outbreaks — bring the trade-off between individual civil liberties and societal well-being into sharp relief. In this paper, we study how willing citizens are to restrict civil liberties to improve public health conditions in the context of the COVID-19 pandemic. We design and conduct representative surveys involving approximately 550,000 responses across 15 countries, including China and the United States, during many months of the COVID-19 pandemic, from March 2020 until January 2021. We document significant heterogeneity across countries and demographic groups in willingness to sacrifice rights for public welfare. Citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country, as are those with prior experience in communist regimes. Leveraging naturally-occurring variation as well as experimental approaches, we estimate that a one standard deviation increase in health security concerns increases willingness to sacrifice civil liberties by approximately 68%-83% of the difference between the average Chinese and U.S. citizen. Stated preferences correlate with observed behavior including demand for tracing apps, donations, and petitions.
 
+- title: "Tax Simplicity or Simplicity of Evasion? Evidence from Self-Employment Taxes in France [UPDATED! November 2022]"
+  pdflink: "https://www.maximegravoueille.com/research/AALGS.pdf"
+  book: "NBER Working Paper 24049"
+  coauthors: "Ufuk Akcigit, Philippe Aghion, Maxime Gravoueille, and Mathieu Lequien"
+  year: "2022"
+  links:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_princeton_v3.pdf"
+      text: "Slides"
+  presscoverage:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/washington_post.pdf"
+      text: "Washington Post"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/phobie_administrative_une_marque_pleine_davenir_-_liberation.pdf"
+      text: "Liberation"
+  abstract: > 
+     We exploit individual panel information from introducing of new and simpler tax regimes for the self-employed in France, in order to assess the extent to which individuals’ shift towards the new regimes is driven by a quest for tax simplicity, and the extent to which the demand for tax simplicity is itself at least partly driven by tax evasion motives. We find evidence of a quest for tax simplicity from observing a significant amount of bunching at the eligibility thresholds for the simpler self-employment tax regimes and from the fact that bunching is increasing in the degree of simplicity of the self-employment regime. We also argue that tax evasion plays an important role in accounting for individuals’ attraction towards simpler tax regimes. Finally, we quantitatively assess the importance of simplicity and evasion motives for choosing a simpler self-employment regime. More precisely, we combine bunching estimates and a structural model to jointly estimate the real income elasticities, the value of tax simplicity, and the evasion elasticity. We find that the parameters values which generate the best fit with the observed bunching across different tax brackets and years, imply noticeable preference for tax simplicity with a sizeable evasion elasticity behind it, and a negligible real income elasticity
+   
 - title: "Understanding Economic Policies: What do people know and learn?"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/understanding_economics_wp.pdf"
   book: "Harvard University Working Paper"
@@ -111,21 +124,7 @@ workingpapers:
       text: "Slides"
   abstract: >
     An inventor's own knowledge is a key input in the innovation process. This knowledge can be built by interacting with and learning from others. This paper uses a new large-scale panel dataset on European inventors matched to their employers and patents. We document key empirical facts on inventors' productivity over the life cycle, inventors' research teams, and interactions with other inventors. Among others, most patents are the result of collaborative work. Interactions with better inventors are very strongly correlated with higher subsequent productivity. These facts motivate the main ingredients of our new innovation-led endogenous growth model, in which innovations are produced by heterogeneous research teams of inventors using inventor knowledge. The evolution of an inventor's knowledge is explained through the lens of a diffusion model in which inventors can learn in two ways: By interacting with others at an endogenously chosen rate; and from an external, age-dependent source that captures alternative learning channels, such as learning-by-doing. Thus, our knowledge diffusion model nests inside the innovation-based endogenous growth model. We estimate the model, which fits the data very closely, and use it to perform several policy exercises, such as quantifying the large importance of interactions for growth, studying the effects of reducing interaction costs (e.g., through IT or infrastructure), and comparing the learning and innovation processes of different countries.
-- title: "Tax Simplicity and Heterogeneous Learning."
-  pdflink: "https://www.dropbox.com/s/frkj1jrvm1dee8r/Tax_Simplicity.pdf?dl=0"
-  book: "NBER Working Paper 24049"
-  coauthors: "Ufuk Akcigit, Philippe Aghion and Mathieu Lequien"
-  year: "2017"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_princeton_v3.pdf"
-      text: "Slides"
-  presscoverage:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/washington_post.pdf"
-      text: "Washington Post"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/phobie_administrative_une_marque_pleine_davenir_-_liberation.pdf"
-      text: "Liberation"
-  abstract: >
-    We study how strongly individuals respond to tax simplicity and how they learn about the complexities of the tax system.  We focus on the self-employed, who can more easily adjust to tax incentives and whose responses directly stem from their own understanding of the tax system. We use new French tax returns data from 1994 to 2012. France serves as a good quasi-laboratory: it has three fiscal regimes -- or modes of taxation-- for the self-employed, which differ in their monetary tax incentives and in their tax simplicity. Two key features are that, first, these regimes are subject to eligibility thresholds; we find large excess masses (bunching) right below the latter. Second, the regimes impact different agents heterogeneously and have changed extensively over time. Taken together, these two key elements give us measures of tax responses (the bunching) as well as the variation needed to jointly estimate a value of tax simplicity and taxable income elasticities. They also give us an opportunity to study how individuals learn about and respond over time to changing policy parameters. We estimate a large value for tax simplicity of up to 650 euros per year per individual depending on the regime and activity. We also find sizable costs of tax complexity; agents are not immediately able to understand what the right regime choice is, leave significant money on the table, and learn over time. The cost of complexity is "regressive" in that it affects mostly the uneducated, low income, and low skill agents. Agents who can be viewed as more informed and knowledgable (e.g., the more educated or high-skilled) are more likely to make the correct regime choice and to learn faster.
+
 - title: "Learning and (or) Doing: Human Capital Investments and Optimal Taxation"
   pdflink: "https://www.dropbox.com/s/a8maioib60xh05a/SStantcheva_Training.pdf?dl=0"
   book: "NBER Working Paper 21381"
