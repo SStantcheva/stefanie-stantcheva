@@ -10,6 +10,8 @@ Here is some selected media coverage of my research.
 
 
 ### 2022
+L'Usine Nouvelle *"Aidons les ménages à s'équiper en technos bas carbone"* [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/usine_nouvelle_entretien.pdf)
+
 IMF *"Getting into People's Heads"* [[Article]](https://www.imf.org/en/Publications/fandd/issues/2022/09/PIE-Getting-into-people-heads-Stefanie-Stantcheva) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/imf-people-economics-stantcheva.pdf)
 
 The New Bazaar *"What do we think?"* [[Podcast]](https://www.bazaaraudio.com/the-new-bazaar/what-do-we-think)
