@@ -14,6 +14,8 @@ Conseil d'Analyse Économique *"Les Français et les politiques climatiques"* (F
 
 **2021:**
 
+The MIT Press Reader *"Why People Vote Against Redistributive Policies That Would Benefit Them"* : [[Article]](https://thereader.mitpress.mit.edu/why-do-we-not-support-redistribution/)
+
 Conseil d'Analyse Économique *"Repenser l'héritage"* with Clément Dherbécourt, Gabrielle Fack and Camille Landais : [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/repenser_lheritage.pdf) [[Slides, in French]](https://scholar.harvard.edu/files/stantcheva/files/repenser_lheritage_slides.pdf)
 
 Project Syndicate *"Inside America's Polarized Views on Race"* : [[Article]](https://www.project-syndicate.org/commentary/us-polarized-views-on-racial-inequities-by-stefanie-stantcheva-2021-12)
