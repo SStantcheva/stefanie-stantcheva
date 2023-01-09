@@ -58,23 +58,7 @@ workingpapers:
   year: "2021" 
   abstract: > 
     Using new large-scale survey and experimental data, we investigate how respondents perceive racial inequities between Black and white Americans, what they believe causes them, and what interventions, if any, they think should be implemented to reduce them. We intentionally oversample Black respondents, cover many cities in the US, and survey both adults and very young people aged 13 to 17. In the experimental parts, we consider the causal impact of information on racial inequities (such as the evolution of the Black-white earnings gap or the differences in mobility for Black and white children) and explanations for these inequities (i.e., the deep-seated roots and long-lasting consequences of systemic racism) on respondents’ views. Although there is heterogeneity in how respondents perceive the magnitude of current racial gaps in economic conditions and opportunities, the biggest discrepancies are in how they explain them. There is a stark partisan gap among white respondents, particularly in the perceived causes of racial inequities and what should be done about them. White Democrats and Black respondents are much more likely to attribute racial inequities to adverse past and present circumstances and want to act on them with race-targeted and general redistribution policies. At the same time, white Republicans are more likely to attribute racial gaps to individual actions. These views are already deeply entrenched in teenagers based on their race and their parents’ political affiliation. A policy decomposition shows that the perceived causes of racial inequities correlate most strongly with support for race-targeted or general redistribution policies, a finding confirmed by the experimental results. 
-  
-- title: "Social Positions and Fairness Views on Inequality [UPDATED! July 2022]"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/bks_position_fairness.pdf"
-  book: "NBER Working Paper 28099 [Conditionally accepted at the Review of Economic Studies]"
-  coauthors: "Claus Thustrup Kreiner and Kristoffer Balle Hvidberg"
-  year: "2022"
-  links:
-  presscoverage:
-    - url: "https://voxeu.org/article/how-social-position-shapes-views-fairness"
-      text: "VoxEU"
-    - url: "https://www.nber.org/digest-202103/determinants-views-fairness-inequality"
-      text: "NBER Digest"
-    - url: "https://www.marketplace.org/2021/03/25/research-suggests-were-misperceiving-the-inequality-around-us/"
-      text: "Marketplace"  
-  abstract: >
-   We link survey data on Danish people’s perceived income positions and fairness views on inequality within various reference groups to administrative records on their reference groups, income histories, and life events. People are, on average, well-informed about the income levels of their reference groups. Yet, lower-ranked respondents in all groups tend to overestimate their own position among others because they believe others’ incomes are lower than is the case, while the opposite holds for higher-ranked respondents. Misperceptions of positions in reference groups relate to proximity to other individuals, transparency norms, and visible signals of income. People view inequalities within their co-workers and education groups as significantly more unfair than overall inequality, yet underestimate inequality the most exactly within these groups. Views on the fairness of inequalities are strongly correlated with an individual’s current position, move with shocks like unemployment or promotions, and change when experimentally showing people their actual positions. However, the higher perceived unfairness of income differences within co-workers and education groups stays unchanged. The theoretical framework shows that this can have important implications for redistribution policy. 
-    
+     
 - title: "Civil Liberties in Times of Crisis [UPDATED! August 2022]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27972.pdf"
   book: "NBER Working Paper 27972 [Revise and Resubmit at the AEJ: Applied Economics]"
@@ -152,6 +136,22 @@ workingpapers:
   abstract: >
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
+  #2023
+- title: "Social Positions and Fairness Views on Inequality"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/ms31343.pdf"
+  book: "Forthcoming"
+  coauthors: "Claus Thustrup Kreiner and Kristoffer Balle Hvidberg"
+  year: "2023"
+  presscoverage:
+    - url: "https://voxeu.org/article/how-social-position-shapes-views-fairness"
+      text: "VoxEU"
+    - url: "https://www.nber.org/digest-202103/determinants-views-fairness-inequality"
+      text: "NBER Digest"
+    - url: "https://www.marketplace.org/2021/03/25/research-suggests-were-misperceiving-the-inequality-around-us/"
+      text: "Marketplace"  
+  abstract: >
+    We link survey data on Danish people’s perceived income positions and fairness views on inequality within various reference groups to administrative records on their reference groups, income histories, and life events. People are, on average, wellinformed about the income levels of their reference groups. Yet, lower-ranked respondents in all groups tend to overestimate their own position among others because they believe others’ incomes are lower than they actually are, whereas the opposite holds true for higher-ranked respondents. Misperceptions of positions in reference groups relate to proximity to other individuals, transparency norms, and visible signals of income. People view inequalities within their co-workers and education groups as significantly more unfair than overall inequality, yet underestimate inequality the most exactly within these groups. Views on the fairness of inequalities are strongly correlated with an individual’s current position, move with shocks like unemployment or promotions, and change when experimentally informing people about their actual positions. However, the higher perceived unfairness of income differences within co-workers and education groups stays unchanged. The theoretical framework shows that this can have important implications for redistribution policy.
+
   #2022
 - title: "How to Run Surveys: A guide to creating your identifying variation and revealing the invisible"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/How_to_run_surveys_Stantcheva.pdf"
