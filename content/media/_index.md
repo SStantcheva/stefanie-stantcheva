@@ -10,15 +10,19 @@ Here is some selected media coverage of my research.
 
 
 ### 2022
-L'Usine Nouvelle *"Aidons les ménages à s'équiper en technos bas carbone"* [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/usine_nouvelle_entretien.pdf)
+ELLE Canada *"ELLE 100: Women That Are Changing the World"* [[Article]](https://www.ellecanada.com/culture/society/elle-100-women-that-are-changing-the-world) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/elle_100.pdf)
+
+L'Usine Nouvelle *"Aidons les ménages à s'équiper en technos bas carbone"* [[PDF, in French]](https://scholar.harvard.edu/files/stantcheva/files/usine_nouvelle_entretien.pdf)
 
 IMF *"Getting into People's Heads"* [[Article]](https://www.imf.org/en/Publications/fandd/issues/2022/09/PIE-Getting-into-people-heads-Stefanie-Stantcheva) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/imf-people-economics-stantcheva.pdf)
 
 The New Bazaar *"What do we think?"* [[Podcast]](https://www.bazaaraudio.com/the-new-bazaar/what-do-we-think)
 
+Econofact *"How People Form, and Change Their Opinions on Economics"* [[Podcast]](https://econofact.org/podcast/how-people-form-and-change-their-opinions-on-economics)
+
 Le Grand Journal de l'Eco *"Climat: Les Français prêts à faire plus?"* [[Video, in French]](https://www.bfmtv.com/economie/replay-emissions/le-grand-journal-de-l-eco/climat-les-francais-prets-a-faire-plus-12-07_VN-202207120668.html) 
 
-Econofact *"How People Form, and Change Their Opinions on Economics"* [[Podcast]](https://econofact.org/podcast/how-people-form-and-change-their-opinions-on-economics)
+The Royal Economic Society *"Economic Journal Lecture"* [[Video]](https://www.youtube.com/watch?v=9riYYRMIlgg)
 
 The Richard Musgrave Lecture *"Social Economics Surveys and Experiments"* [[Video]](https://www.youtube.com/watch?v=zpr7euxqv5w)
 

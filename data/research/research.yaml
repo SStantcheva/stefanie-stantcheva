@@ -1,17 +1,6 @@
 #worksinprogress:
 
 workingpapers:
-- title: "Zero-Sum Thinking and the Roots of U.S. Political Divides [NEW! November 2022]" 
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/zero_sum_us_political_divides.pdf"
-  coauthors: "Sahil Chinoy, Nathan Nunn,  and Sandra Sequeira" 
-  book: "Harvard University Working Paper"
-  year: "2022" 
-  abstract: >
-     We examine the causes and consequences of an important cultural and psychological trait: the extent to which one views the world in zero-sum terms -- i.e., that benefits to one person or group tend to come at the cost of others. We implement a survey among approximately 15,000 individuals living in the United States that measures zero-sum thinking, political and policy views, and a rich set of characteristics about their ancestry. We find that a more zero-sum view is strongly correlated with several policy views about the importance of government, the value of redistributive policies, the impact of immigration, and one's political orientation. We find that zero-sum thinking can be explained by experiences of an individual's ancestors (parents and grandparents), including the amount of intergenerational upward mobility they experienced, the degree of economic hardship they suffered, whether they immigrated to the United States or were exposed to more immigrants, and whether they had experiences with enslavement. These findings underscore the importance of psychological traits, and how they are transmitted inter-generationally, in explaining current political divides in the United States.
-  links:
-    - url: "https://www.dropbox.com/s/2j27riyiz75a85q/NBER_Mobility_2022_v4.pdf?dl=0"
-      text: "Mobility slides"
-   
 - title: "Tax Design, Information, and Elasticities: Evidence from the French Wealth Tax [SLIDES only, September 2022]" 
   pdflink: "https://www.dropbox.com/s/byd6d9ownjdf9fc/Wealth_Tax_France_Slides.pdf?dl=0"
   coauthors: "Bertrand Garbinti, Jonathan Goupille-Lebret, Mathilde Munoz, and Gabriel Zucman" 
@@ -59,14 +48,6 @@ workingpapers:
   abstract: > 
     Using new large-scale survey and experimental data, we investigate how respondents perceive racial inequities between Black and white Americans, what they believe causes them, and what interventions, if any, they think should be implemented to reduce them. We intentionally oversample Black respondents, cover many cities in the US, and survey both adults and very young people aged 13 to 17. In the experimental parts, we consider the causal impact of information on racial inequities (such as the evolution of the Black-white earnings gap or the differences in mobility for Black and white children) and explanations for these inequities (i.e., the deep-seated roots and long-lasting consequences of systemic racism) on respondents’ views. Although there is heterogeneity in how respondents perceive the magnitude of current racial gaps in economic conditions and opportunities, the biggest discrepancies are in how they explain them. There is a stark partisan gap among white respondents, particularly in the perceived causes of racial inequities and what should be done about them. White Democrats and Black respondents are much more likely to attribute racial inequities to adverse past and present circumstances and want to act on them with race-targeted and general redistribution policies. At the same time, white Republicans are more likely to attribute racial gaps to individual actions. These views are already deeply entrenched in teenagers based on their race and their parents’ political affiliation. A policy decomposition shows that the perceived causes of racial inequities correlate most strongly with support for race-targeted or general redistribution policies, a finding confirmed by the experimental results. 
      
-- title: "Civil Liberties in Times of Crisis [UPDATED! August 2022]"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27972.pdf"
-  book: "NBER Working Paper 27972 [Revise and Resubmit at the AEJ: Applied Economics]"
-  coauthors: "Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Joyce Kim, and David Yang"
-  year: "2022"
-  abstract: >
-    Major crises — from terrorist attacks to epidemic outbreaks — bring the trade-off between individual civil liberties and societal well-being into sharp relief. In this paper, we study how willing citizens are to restrict civil liberties to improve public health conditions in the context of the COVID-19 pandemic. We design and conduct representative surveys involving approximately 550,000 responses across 15 countries, including China and the United States, during many months of the COVID-19 pandemic, from March 2020 until January 2021. We document significant heterogeneity across countries and demographic groups in willingness to sacrifice rights for public welfare. Citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country, as are those with prior experience in communist regimes. Leveraging naturally-occurring variation as well as experimental approaches, we estimate that a one standard deviation increase in health security concerns increases willingness to sacrifice civil liberties by approximately 68%-83% of the difference between the average Chinese and U.S. citizen. Stated preferences correlate with observed behavior including demand for tracing apps, donations, and petitions.
-
 - title: "Tax Simplicity or Simplicity of Evasion? Evidence from Self-Employment Taxes in France [UPDATED! November 2022]"
   pdflink: "https://www.maximegravoueille.com/research/AALGS.pdf"
   book: "NBER Working Paper 24049"
@@ -139,7 +120,7 @@ publications:
   #2023
 - title: "Social Positions and Fairness Views on Inequality"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/ms31343.pdf"
-  book: "Forthcoming"
+  book: "Forthcoming at the Review of Economic Studies"
   coauthors: "Claus Thustrup Kreiner and Kristoffer Balle Hvidberg"
   year: "2023"
   presscoverage:
@@ -150,8 +131,27 @@ publications:
     - url: "https://www.marketplace.org/2021/03/25/research-suggests-were-misperceiving-the-inequality-around-us/"
       text: "Marketplace"  
   abstract: >
-    We link survey data on Danish people’s perceived income positions and fairness views on inequality within various reference groups to administrative records on their reference groups, income histories, and life events. People are, on average, wellinformed about the income levels of their reference groups. Yet, lower-ranked respondents in all groups tend to overestimate their own position among others because they believe others’ incomes are lower than they actually are, whereas the opposite holds true for higher-ranked respondents. Misperceptions of positions in reference groups relate to proximity to other individuals, transparency norms, and visible signals of income. People view inequalities within their co-workers and education groups as significantly more unfair than overall inequality, yet underestimate inequality the most exactly within these groups. Views on the fairness of inequalities are strongly correlated with an individual’s current position, move with shocks like unemployment or promotions, and change when experimentally informing people about their actual positions. However, the higher perceived unfairness of income differences within co-workers and education groups stays unchanged. The theoretical framework shows that this can have important implications for redistribution policy.
+    We link survey data on Danish people’s perceived income positions and fairness views on inequality within various reference groups to administrative records on their reference groups, income histories, and life events. People are, on average, well informed about the income levels of their reference groups. Yet, lower-ranked respondents in all groups tend to overestimate their own position among others because they believe others’ incomes are lower than they actually are, whereas the opposite holds true for higher-ranked respondents. Misperceptions of positions in reference groups relate to proximity to other individuals, transparency norms, and visible signals of income. People view inequalities within their co-workers and education groups as significantly more unfair than overall inequality, yet underestimate inequality the most exactly within these groups. Views on the fairness of inequalities are strongly correlated with an individual’s current position, move with shocks like unemployment or promotions, and change when experimentally informing people about their actual positions. However, the higher perceived unfairness of income differences within co-workers and education groups stays unchanged. The theoretical framework shows that this can have important implications for redistribution policy.
 
+- title: "Civil Liberties in Times of Crisis"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/aejapp-2021-0736_manuscript.pdf"
+  book: "Forthcoming at the AEJ: Applied Economics"
+  coauthors: "Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Joyce Kim, and David Yang"
+  year: "2023"
+  links:
+  - url: "https://scholar.harvard.edu/files/stantcheva/files/aejapp-2021-0736_onlineappendix.pdf"
+    text: "Online Appendix"
+  abstract: >
+    Major crises — from terrorist attacks to epidemic outbreaks — bring the trade-off between individual civil liberties and societal well-being into sharp relief. In this paper, we study how willing citizens are to restrict civil liberties to improve public health conditions in the context of the COVID-19 pandemic. We design and conduct representative surveys involving approximately 550,000 responses across 15 countries, including China and the United States, during many months of the COVID-19 pandemic, from March 2020 until January 2021. We document significant heterogeneity across countries and demographic groups in willingness to sacrifice rights for public welfare. Citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country, as are those with prior experience in communist regimes. Leveraging naturally occurring variation as well as experimental approaches, we estimate that a one standard deviation increase in health security concerns increases willingness to sacrifice civil liberties by approximately 68%-83% of the difference between the average Chinese and U.S. citizen. Stated preferences correlate with observed behavior including demand for tracing apps, donations, and petitions.
+
+- title: "Zero-Sum Thinking and the Roots of U.S. Political Divides" 
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/zero_sum_us_political_divides.pdf"
+  coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
+  book: "AEA Papers and Proceedings"
+  year: "2023" 
+  abstract: >
+     We examine the causes and consequences of an important cultural and psychological trait: the extent to which one views the world in zero-sum terms -- i.e., that benefits to one person or group tend to come at the cost of others. We implement a survey among approximately 15,000 individuals living in the United States that measures zero-sum thinking, political and policy views, and a rich set of characteristics about their ancestry. We find that a more zero-sum view is strongly correlated with several policy views about the importance of government, the value of redistributive policies, the impact of immigration, and one's political orientation. We find that zero-sum thinking can be explained by experiences of an individual's ancestors (parents and grandparents), including the amount of intergenerational upward mobility they experienced, the degree of economic hardship they suffered, whether they immigrated to the United States or were exposed to more immigrants, and whether they had experiences with enslavement. These findings underscore the importance of psychological traits, and how they are transmitted inter-generationally, in explaining current political divides in the United States.
+   
   #2022
 - title: "How to Run Surveys: A guide to creating your identifying variation and revealing the invisible"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/How_to_run_surveys_Stantcheva.pdf"
