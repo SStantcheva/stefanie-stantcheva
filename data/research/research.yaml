@@ -1,6 +1,14 @@
 #worksinprogress:
 
 workingpapers:
+
+- title: "Zero-Sum Thinking and the Roots of U.S. Political Divides [NEW! November 2022]" 
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/zero_sum_us_political_divides.pdf"
+  coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
+  book: "Harvard University Working Paper"
+  year: "2022" 
+  abstract: >
+     We examine the causes and consequences of an important cultural and psychological trait: the extent to which one views the world in zero-sum terms -- i.e., that benefits to one person or group tend to come at the cost of others. We implement a survey among approximately 15,000 individuals living in the United States that measures zero-sum thinking, political and policy views, and a rich set of characteristics about their ancestry. We find that a more zero-sum view is strongly correlated with several policy views about the importance of government, the value of redistributive policies, the impact of immigration, and one's political orientation. We find that zero-sum thinking can be explained by experiences of an individual's ancestors (parents and grandparents), including the amount of intergenerational upward mobility they experienced, the degree of economic hardship they suffered, whether they immigrated to the United States or were exposed to more immigrants, and whether they had experiences with enslavement. These findings underscore the importance of psychological traits, and how they are transmitted inter-generationally, in explaining current political divides in the United States.
 - title: "Tax Design, Information, and Elasticities: Evidence from the French Wealth Tax [SLIDES only, September 2022]" 
   pdflink: "https://www.dropbox.com/s/byd6d9ownjdf9fc/Wealth_Tax_France_Slides.pdf?dl=0"
   coauthors: "Bertrand Garbinti, Jonathan Goupille-Lebret, Mathilde Munoz, and Gabriel Zucman" 
@@ -144,13 +152,11 @@ publications:
   abstract: >
     Major crises — from terrorist attacks to epidemic outbreaks — bring the trade-off between individual civil liberties and societal well-being into sharp relief. In this paper, we study how willing citizens are to restrict civil liberties to improve public health conditions in the context of the COVID-19 pandemic. We design and conduct representative surveys involving approximately 550,000 responses across 15 countries, including China and the United States, during many months of the COVID-19 pandemic, from March 2020 until January 2021. We document significant heterogeneity across countries and demographic groups in willingness to sacrifice rights for public welfare. Citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country, as are those with prior experience in communist regimes. Leveraging naturally occurring variation as well as experimental approaches, we estimate that a one standard deviation increase in health security concerns increases willingness to sacrifice civil liberties by approximately 68%-83% of the difference between the average Chinese and U.S. citizen. Stated preferences correlate with observed behavior including demand for tracing apps, donations, and petitions.
 
-- title: "Zero-Sum Thinking and the Roots of U.S. Political Divides" 
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/zero_sum_us_political_divides.pdf"
-  coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
+- title: "The Health of Democracies during the Pandemic: Results from a Randomized Survey Experiment" 
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/civil_lib_new_withappendix.pdf"
+  coauthors: "Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Minjeong Joyce Kim, and David Y. Yang" 
   book: "AEA Papers and Proceedings"
   year: "2023" 
-  abstract: >
-     We examine the causes and consequences of an important cultural and psychological trait: the extent to which one views the world in zero-sum terms -- i.e., that benefits to one person or group tend to come at the cost of others. We implement a survey among approximately 15,000 individuals living in the United States that measures zero-sum thinking, political and policy views, and a rich set of characteristics about their ancestry. We find that a more zero-sum view is strongly correlated with several policy views about the importance of government, the value of redistributive policies, the impact of immigration, and one's political orientation. We find that zero-sum thinking can be explained by experiences of an individual's ancestors (parents and grandparents), including the amount of intergenerational upward mobility they experienced, the degree of economic hardship they suffered, whether they immigrated to the United States or were exposed to more immigrants, and whether they had experiences with enslavement. These findings underscore the importance of psychological traits, and how they are transmitted inter-generationally, in explaining current political divides in the United States.
    
   #2022
 - title: "How to Run Surveys: A guide to creating your identifying variation and revealing the invisible"
