@@ -10,6 +10,9 @@ Here is some selected media coverage of my research.
 
 
 ### 2022
+
+NBER Keynote *"Mobility: Facts, Perceptions, and Policy"* [[Video]](https://www.youtube.com/watch?v=9NVXCbSU464)
+
 ELLE Canada *"ELLE 100: Women That Are Changing the World"* [[Article]](https://www.ellecanada.com/culture/society/elle-100-women-that-are-changing-the-world) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/elle_100.pdf)
 
 L'Usine Nouvelle *"Aidons les ménages à s'équiper en technos bas carbone"* [[PDF, in French]](https://scholar.harvard.edu/files/stantcheva/files/usine_nouvelle_entretien.pdf)
