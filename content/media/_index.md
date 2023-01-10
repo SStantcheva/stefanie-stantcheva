@@ -27,6 +27,8 @@ Le Grand Journal de l'Eco *"Climat: Les Français prêts à faire plus?"* [[Vide
 
 The Royal Economic Society *"Economic Journal Lecture"* [[Video]](https://www.youtube.com/watch?v=9riYYRMIlgg)
 
+Econimate *"Social Positions & Fairness Views on Inequality"* [[Video]](https://www.youtube.com/watch?v=PLYpEt6t4cc)
+
 The Richard Musgrave Lecture *"Social Economics Surveys and Experiments"* [[Video]](https://www.youtube.com/watch?v=zpr7euxqv5w)
 
 Econimate *"Social Positions & Fairness Views on Inequality"* [[Video]](https://www.youtube.com/watch?v=PLYpEt6t4cc)
