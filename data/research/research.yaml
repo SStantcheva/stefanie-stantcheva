@@ -2,6 +2,18 @@
 
 workingpapers:
 
+- title: "Wealth and Property Taxation in the United States [UPDATED! February 2023]"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/dray_landais_stantcheva_wealth_property_tax.pdf"
+  coauthors: "Sacha Dray and Camille Landais"
+  book: "Harvard University Working Paper"
+  year: "2022" 
+  links:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/oa_dray_landais_stantcheva_wealth_property_tax.pdf"
+      text: "Online Appendix"
+    - url: "https://www.dropbox.com/s/p774vnscto6mp2d/DLS_2022_10_NBER_v6.pdf?dl=0"
+      text: "Slides"
+  abstract: >
+    We study the history and geography of wealth accumulation in the US, using newly collected historical property tax records since the early 1800s. The US General Property Tax was a comprehensive tax on all types of property (real, personal, and financial), making it one of the first “wealth taxes.” Drawing on many historical records, we construct long-run, consistent, and high-frequency wealth series at the city, county, state, and national levels. We first document the long-term evolution of household wealth in the US since the early 1800s. The US experienced extraordinary wealth accumulation after the Civil war and until the Great Depression. Second, we show that spatial inequality in the US was large and highly persistent since the mid-1800s, in large part driven by Southern states. Before the Civil war, enslaved people were assessed as personal property of the enslavers, which is both morally abhorrent and implies wrongly counting forced labor income as capital. The regional distribution of wealth and the effects of the Civil war appear very different if enslaved people are not included in the property measure. Third, we investigate the determinants of long-term wealth growth and capital accumulation. Among others, we find that counties with a higher share of enslaved property before the Civil War or higher levels of wealth inequality experienced lower subsequent long-run growth in property. Finally, we highlight the importance of local public policies, notably spending on education and property taxes, for long-term capital accumulation. Using variation in property tax rates for more than 300 municipalities, we also find significant elasticities of the local capital stock, driven by extensive (migration) margin response and capitalization of property taxes into the value of local assets. 
 - title: "Zero-Sum Thinking and the Roots of U.S. Political Divides [NEW! January 2023]" 
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/zero_sum_us_political_divides.pdf"
   coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
@@ -23,19 +35,6 @@ workingpapers:
   year: "2022" 
   abstract: > 
     Using new surveys on more than 40,000 respondents in twenty countries that account for 72% of global CO2 emissions, we study the understanding of and attitudes toward climate change and climate policies. We show that, across countries, support for climate policies hinges on three key perceptions centered around the effectiveness of the policies in reducing emissions (effectiveness concerns), their distributional impacts on lower-income households (inequality concerns), and their impact on the respondents’ household (self-interest). We show experimentally that information specifically addressing these key concerns can substantially increase the support for climate policies in many countries. Explaining how policies work and who can benefit from them is critical to foster policy support, whereas simply informing people about the impacts of climate change is not effective. Furthermore, we identify several socioeconomic and lifestyle factors – most notably education, political leanings, and availability of public transportation – that are significantly correlated with both policy views and overall reasoning and beliefs about climate policies. However, it is difficult to predict beliefs or policy views based on these characteristics only.
-
-- title: "Wealth and Property Taxation in the United States [UPDATED! February 2023]"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/dray_landais_stantcheva_wealth_property_tax.pdf"
-  coauthors: "Sacha Dray and Camille Landais"
-  book: "Harvard University Working Paper"
-  year: "2022" 
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/oa_dray_landais_stantcheva_wealth_property_tax.pdf"
-      text: "Online Appendix"
-    - url: "https://www.dropbox.com/s/p774vnscto6mp2d/DLS_2022_10_NBER_v6.pdf?dl=0"
-      text: "Slides"
-  abstract: >
-    We study the history and geography of wealth accumulation in the US, using newly collected historical property tax records since the early 1800s. The property tax in the US was a comprehensive tax on all kinds of properties (real estate, personal property, and financial wealth), making it one of the first “wealth taxes.” Drawing on a multitude of historical records, we construct wealth series at the city, county, and state levels over time offering a consistent, high-frequency, and long-term database of wealth in the US. We first document the long-term evolution of household wealth in the US since the early 1800s, showing that the US experience an extraordinary spur of wealth accumulation after the Civil war and until the Great Depression. Before the Civil war, enslaved people were assessed as personal property of the enslavers, which is both morally abhorrent and implies wrongly counting forced labor income flows as capital. The regional distribution of wealth and the effects of the Civil war look very different if we do not count enslaved people as property. Second, we study the spatial inequality in the US over the long run. The initial distribution of property and subsequent growth over 60 years are strongly correlated with geographic, economic, and demographic factors. In particular, wealth inequality has a robust negative correlation with growth in property over the long run. Finally, we study the role of public policy, specifically the property tax (i.e., a “wealth tax”) on local capital accumulation, using the large and long variation in property tax rates across more than 300 municipalities. We find significant elasticities on the intensive and extensive (migration) margins, as well as evidence for tax competition between cities
 - title: "Understanding of Trade [UPDATED! May 2022]"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/understanding_trade_stantcheva.pdf"
   book: "NBER Working Paper 30040"
