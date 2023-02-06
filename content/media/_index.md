@@ -11,7 +11,7 @@ Here is some selected media coverage of my research.
 
 ### 2022
 
-NBER Keynote *"Mobility: Facts, Perceptions, and Policy"* [[Video]](https://www.youtube.com/watch?v=9NVXCbSU464)
+NBER Keynote *"Mobility: Facts, Perceptions, and Policy"* [[Video]](https://www.youtube.com/watch?v=9NVXCbSU464) [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/nber_mobility_2022_v4b.pdf)
 
 ELLE Canada *"ELLE 100: Women That Are Changing the World"* [[Article]](https://www.ellecanada.com/culture/society/elle-100-women-that-are-changing-the-world) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/elle_100.pdf)
 
