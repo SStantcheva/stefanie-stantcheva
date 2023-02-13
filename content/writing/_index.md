@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2022:**
 
+Surveys for Economic Research: Understanding How People Think [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/faculty_lunch_2023.pdf) 
+
 Conseil d'Analyse Économique *"Les Français et les politiques climatiques"* (French version) and *"The French and Climate Policies"* (English version) with Antoine Dechezleprêtre and Adrien Fabre: [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/politiques_climatiques.pdf) [[Article, in English]](https://scholar.harvard.edu/files/stantcheva/files/politiques_climatiques_en.pdf)
 
 **2021:**
