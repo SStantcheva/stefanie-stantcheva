@@ -2,14 +2,12 @@
 
 workingpapers:
 
-- title: "Wealth and Property Taxation in the United States [UPDATED! February 2023]"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/dray_landais_stantcheva_wealth_property_tax.pdf"
+- title: "Wealth and Property Taxation in the United States [UPDATED! March 2023]"
+  pdflink: "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/dray_landais_stantcheva_wealth_property_tax_us.pdf"
   coauthors: "Sacha Dray and Camille Landais"
   book: "Harvard University Working Paper"
   year: "2022" 
   links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/oa_dray_landais_stantcheva_wealth_property_tax.pdf"
-      text: "Online Appendix"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/wealth_property_tax_slides.pdf"
       text: "Slides"
   abstract: >
