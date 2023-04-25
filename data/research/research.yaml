@@ -3,7 +3,7 @@
 workingpapers:
 
 - title: "Tax Design, Information, and Elasticities: Evidence from the French Wealth Tax [UPDATED! April 2023]" 
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/wealth_tax_france.pdf" 
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/wealth_tax_france.pdf?1" 
   coauthors: "Bertrand Garbinti, Jonathan Goupille-Lebret, Mathilde Munoz, and Gabriel Zucman" 
   book: "Harvard University Working Paper"
   year: "2022" 
@@ -13,7 +13,7 @@ workingpapers:
   abstract: >
       We study a French wealth tax system reform that starkly reduced the information taxpayers with certain wealth levels had to report to the tax authority. We develop a new dynamic bunching approach that permits estimating the average response to the reform, the share of compliers, and the LATE and leverage exhaustive administrative wealth and income tax data. We find large responses of the wealth tax base to the switch to a lower-information regime, equal to a 0.5 percentage points reduction in the annual wealth growth rate of treated taxpayers each year after the reform (equivalent to 20% of the control group’s wealth growth rate). We show that reduced wealth growth rates are likely due to increased misreporting and evasion facilitated by the lower reporting requirements, as suggested by the sharp responses in self-reported wealth but the lack of response in third-party-reported labor and capital incomes. The wealth tax base becomes more elastic in the low-information regime, illustrating the role of policy choices related to reporting and information for tax base elasticities.
 - title: "Wealth and Property Taxation in the United States [UPDATED! March 2023]"
-  pdflink: "https://scholar.harvard.edu/stantcheva/files/dray_landais_stantcheva_wealth_property_tax_us.pdf"
+  pdflink: "https://scholar.harvard.edu/stantcheva/files/dray_landais_stantcheva_wealth_property_tax_us.pdf?1"
   coauthors: "Sacha Dray and Camille Landais"
   book: "NBER Working Paper 31080"
   year: "2023" 
@@ -23,7 +23,7 @@ workingpapers:
   abstract: >
     We study the history and geography of wealth accumulation in the US, using newly collected historical property tax records since the early 1800s. The US General Property Tax was a comprehensive tax on all types of property (real, personal, and financial), making it one of the first ``wealth taxes.'' Drawing on many historical records, we construct long-run, consistent, high-frequency wealth series at the county, state, and national levels. We first document the long-term evolution of household wealth in the US since the early 1800s. The US experienced extraordinary wealth accumulation after the Civil war and until the Great Depression. Second, we reveal that spatial inequality in the US has been large and highly persistent since the mid-1800s, driven mainly by Southern states, whose long-run divergence from the rest of the US predated the Civil War. Before the Civil war, enslaved people were assessed as personal property of the enslavers, representing almost one-half of total taxable property in Southern states. This system is morally abhorrent and implies wrongly counting forced labor income as capital. The regional distribution of wealth and the effects of the Civil war appear very different if enslaved people are not included in the property measure. Third, we investigate the determinants of long-term wealth growth and capital accumulation. Among others, we find that counties with a higher share of enslaved property before the Civil War or higher levels of wealth inequality experienced lower subsequent long-run growth in property. 
 - title: "Zero-Sum Thinking and the Roots of U.S. Political Divides [NEW! January 2023]" 
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/zero_sum_us_political_divides.pdf"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/zero_sum_us_political_divides.pdf?1"
   coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
   book: "Harvard University Working Paper"
   year: "2022" 
@@ -33,14 +33,14 @@ workingpapers:
   abstract: >
      We examine the causes and consequences of an important cultural and psychological trait: the extent to which one views the world in zero-sum terms -- i.e., that benefits to one person or group tend to come at the cost of others. We implement a survey among approximately 15,000 individuals living in the United States that measures zero-sum thinking, political and policy views, and a rich set of characteristics about their ancestry. We find that a more zero-sum view is strongly correlated with several policy views about the importance of government, the value of redistributive policies, the impact of immigration, and one's political orientation. We find that zero-sum thinking can be explained by experiences of an individual's ancestors (parents and grandparents), including the amount of intergenerational upward mobility they experienced, the degree of economic hardship they suffered, whether they immigrated to the United States or were exposed to more immigrants, and whether they had experiences with enslavement. These findings underscore the importance of psychological traits, and how they are transmitted inter-generationally, in explaining current political divides in the United States.
 - title: "Fighting Climate Change: International Attitudes Toward Climate Policies [UPDATED! April 2023]"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/international_attitudes_toward_climate_change.pdf"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/international_attitudes_toward_climate_change.pdf?1"
   coauthors: "Antoine Dechezleprêtre, Adrien Fabre, Tobias Kruse, Bluebery Planterose, and Ana Sanchez Chico"
   book: "NBER Working Paper 30265"
   year: "2022" 
   abstract: > 
     This paper studies how people across the world perceive and understand climate change and climate policies, which factors determine their support for climate action, and what type of information shifts their policy views. We design and run new large-scale surveys on more than 40,000 respondents in 20 countries, covering the major greenhouse gas emitters in developed and developing economies. We thus provide new, comprehensive, international microdata on people’s perceptions, understanding, and policy views related to climate change, combined with detailed background information on their socioeconomic characteristics, energy use, and lifestyles. We show that, across countries, support for climate policies hinges on three key perceptions centered around the effectiveness of the policies in reducing emissions (effectiveness concerns), their distributional impacts on lower-income households (inequality concerns), and their impact on the respondents’ household (self-interest). In the experimental part, we show randomly selected subsamples pedagogical videos on either the impacts of climate change in their country or how major climate policies work – their effectiveness in reducing emissions and their distributional implications. Explaining how policies work and who can benefit from them is critical to fostering policy support, whereas simply informing people about climate change’s impacts is ineffective.
 - title: "Understanding of Trade [UPDATED! April 2023]"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/understanding_trade_stantcheva.pdf"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/understanding_trade_stantcheva.pdf?1"
   book: "NBER Working Paper 30040"
   year: "2022"
   links:
@@ -49,7 +49,7 @@ workingpapers:
   abstract: >
    This paper sheds new light on two questions: How do people perceive and understand trade and trade policy, and which factors shape their support for different trade policies? Regarding the first question, an extensive body of research has documented the efficiency gains from trade and its distributional impacts on different groups of workers, firms, and consumers, but we lack evidence on how people perceive these various effects of trade. On the second question, trade involves many trade-offs, which people need to balance when forming their views on trade policy. They need to weigh the impacts on themselves as consumers and workers, their self-interest and broader impacts on others and society, and efficiency and equity concerns. Which of these considerations matters most to people? Using new large-scale surveys and experiments, I highlight three main findings. First, while earlier work has established that consumer gains from trade are diffuse and job losses are concentrated, I directly show the impact of these two considerations on people’s views about trade. I find that perceived job risks matter more for policy views than perceived consumer gains. Second, beyond their own material self-interest, people care about the broader efficiency gains and adverse distributional consequences from trade. Support for free trade is best predicted by the belief that trade generates efficiency gains. Concerns about the adverse distributional consequences of trade do not necessarily reduce support for free trade: instead, they increase support for compensatory redistribution. These results also highlight the importance of compensatory redistribution as an indissociable part of trade policy in people's minds. Third, personal exposure to trade shapes policy views directly (through self-interest) and indirectly by changing people's perceptions of trade's broader efficiency and distributional impacts.
 - title: "Perceptions of Racial Gaps, their Causes, and Ways to Reduce Them"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_ferroni_stantcheva_perceptions_racial_gaps.pdf"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_ferroni_stantcheva_perceptions_racial_gaps.pdf?1"
   book: "NBER Working Paper 29245"
   coauthors: "Alberto Alesina and Matteo Ferroni"
   year: "2021" 
