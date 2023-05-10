@@ -95,12 +95,18 @@ workingpapers:
   coauthors: "Philippe Aghion, Vlad Ciornohuz and Maxime Gravoueille"
   year: "2019"
   abstract: >
-- title: "Anatomy of Inequality in France"
-  pdflink: "https://www.dropbox.com/s/atkdc9f3vqixisy/Anatomy_Inequality_2019.pdf?dl=0"
+- title: "Anatomy of Inequality and Income Dynamics in France [UPDATED! May 2023]"
+  pdflink: "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/anatomy_inequality_france.pdf?1"
   book: "Working Paper"
   coauthors: "Philippe Aghion, Vlad Ciornohuz and Maxime Gravoueille"
   year: "2019"
+  links:
+    - url: "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/anatomy_inequality_france_oa.pdf?1"
+      text: "Online Appendix"
+    - url: "https://www.dropbox.com/s/atkdc9f3vqixisy/Anatomy_Inequality_2019.pdf?dl=0"
+      text: "Old 2019 Version"
   abstract: >
+      This paper examines income inequality and dynamics in France, using exhaustive administrative panel data. We find that the market income distribution is highly unequal, with the top 1% receiving around 6% of the income. Income mobility is characterized by strong persistence at all income levels and for all age groups. We propose a non-parametric frame- work that accounts for differences in income risk along the market income distribution, revealing significant differences in income growth moments. Our findings indicate that the distribution of growth rates has high variance, excess skewness and is fat-tailed. In particular, we find a U-shaped pattern for income dispersion along the income distribution. We also investigate the role of redistribution as an insurance tool against income risk and find that transfers are particularly pivotal in reducing income risk for the lower part of the income distribution. We show substantial heterogeneity in income risk across locations, education and occupation groups, and the share of capital in total income. Our study provides new insights into the factors driving income inequality and dynamics in France and highlights the importance of the social-fiscal system in mitigating income risk.
 - title: "Dancing with the Stars: Innovation through Interactions"
   pdflink: "https://www.dropbox.com/s/khxnw544zm2rg3s/Dancing_with_the_Stars.pdf?dl=0"
   book: "NBER Working Paper 24466 [Revise and Resubmit at Econometrica]"
