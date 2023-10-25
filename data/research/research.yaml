@@ -27,6 +27,9 @@ workingpapers:
   coauthors: "Antoine Dechezleprêtre, Adrien Fabre, Tobias Kruse, Bluebery Planterose, and Ana Sanchez Chico"
   book: "NBER Working Paper 30265 [Revise and Resubmit at the American Economic Review]"
   year: "2022" 
+  links:
+    - url: "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/Climate_change_Attitudes_Slides.pdf"
+      text: "Climate Change Slides"
   abstract: > 
     This paper studies how people across the world perceive and understand climate change and climate policies, which factors determine their support for climate action, and what type of information shifts their policy views. We design and run new large-scale surveys on more than 40,000 respondents in 20 countries, covering the major greenhouse gas emitters in developed and developing economies. We thus provide new, comprehensive, international microdata on people’s perceptions, understanding, and policy views related to climate change, combined with detailed background information on their socioeconomic characteristics, energy use, and lifestyles. We show that, across countries, support for climate policies hinges on three key perceptions centered around the effectiveness of the policies in reducing emissions (effectiveness concerns), their distributional impacts on lower-income households (inequality concerns), and their impact on the respondents’ household (self-interest). In the experimental part, we show randomly selected subsamples pedagogical videos on either the impacts of climate change in their country or how major climate policies work – their effectiveness in reducing emissions and their distributional implications. Explaining how policies work and who can benefit from them is critical to fostering policy support, whereas simply informing people about climate change’s impacts is ineffective.
 - title: "Understanding of Trade [UPDATED! August 2023]"
