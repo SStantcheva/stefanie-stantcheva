@@ -11,7 +11,7 @@ I study the **taxation** of firms and individuals, as well as **how people under
 
 I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the Harvard Society of Fellows 2014-2016 before joining the Harvard Department of Economics in July 2016. I am currently co-editor of the Quarterly Journal of Economics. 
 
-Here is my [Full CV](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/stefanie_stantchevaupdated.pdf), and my [Research Summary](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf). To learn more about people’s understanding, perceptions and views of public policies, visit the [Social Economics Lab website](http://socialeconomicslab.org/). To learn more about my research in “Taxation and Innovation” here is a short [focus piece](https://www.nber.org/reporter/2018number3/taxation-and-innovation). 
+Here is my [Full CV](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_nov2023.pdf.pdf), and my [Research Summary](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf). To learn more about people’s understanding, perceptions and views of public policies, visit the [Social Economics Lab website](http://socialeconomicslab.org/). To learn more about my research in “Taxation and Innovation” here is a short [focus piece](https://www.nber.org/reporter/2018number3/taxation-and-innovation). 
 
 
 ## Contact
