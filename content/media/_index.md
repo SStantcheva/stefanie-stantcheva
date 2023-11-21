@@ -11,6 +11,14 @@ Here is some selected media coverage of my research.
 ### 2023
 WZB Berlin Social Science Center *"WZB honors Daron Acemoglu for his research on prosperity and political stability"* [[Article]](https://www.wzb.eu/en/press-release/wzb-honors-daron-acemoglu-for-his-research-on-prosperity-and-political-stability) [[Radio Interview, in German]](https://twitter.com/WZB_Berlin/status/1725517395299864885)
 
+Reuters *"Germany, France hold unprecedented cabinet retreat to oil cranky EU motor"* [[Article]](https://www.reuters.com/world/europe/germany-france-hold-unprecedented-cabinet-retreat-oil-creaky-eu-motor-2023-10-09/#:~:text=BERLIN%2C%20Oct%209%20(Reuters),energy%2C%20industry%20and%20defence%20policy)
+
+Financial Times *"Are we destined for a zero-sum future"* [[Article]](https://www.ft.com/content/980cbbe2-0f5d-4330-872d-c7a9d6a97bf6)
+
+Le Point *"Stefanie Stantcheva: la future star de l'économie, c'est elle!"* [[Article, in French]](https://www.lepoint.fr/economie/stefanie-stantcheva-la-future-star-de-l-economie-c-est-elle-29-09-2023-2537356_28.php#11)
+
+Frankfurter Allgemeine *"Dein Gewinn ist mein Verlust"* [[Article, in German]](https://zeitung.faz.net/fas/wirtschaft/2023-10-08/d8fe485da3f0a340fd8676dc2ebfb717/?popup=user.lf-ns)
+
 ### 2022
 
 NBER Keynote *"Mobility: Facts, Perceptions, and Policy"* [[Video]](https://www.youtube.com/watch?v=9NVXCbSU464) [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/nber_mobility_2022_v4b.pdf)
