@@ -13,7 +13,7 @@ WZB Berlin Social Science Center *"WZB honors Daron Acemoglu for his research on
 
 Reuters *"Germany, France hold unprecedented cabinet retreat to oil cranky EU motor"* [[Article]](https://www.reuters.com/world/europe/germany-france-hold-unprecedented-cabinet-retreat-oil-creaky-eu-motor-2023-10-09/#:~:text=BERLIN%2C%20Oct%209%20(Reuters),energy%2C%20industry%20and%20defence%20policy)
 
-Financial Times *"Are we destined for a zero-sum future"* [[Article]](https://www.ft.com/content/980cbbe2-0f5d-4330-872d-c7a9d6a97bf6)
+Financial Times *"Are we destined for a zero-sum future?"* [[Article]](https://www.ft.com/content/980cbbe2-0f5d-4330-872d-c7a9d6a97bf6)
 
 Le Point *"Stefanie Stantcheva: la future star de l'économie, c'est elle!"* [[Article, in French]](https://www.lepoint.fr/economie/stefanie-stantcheva-la-future-star-de-l-economie-c-est-elle-29-09-2023-2537356_28.php#11)
 
