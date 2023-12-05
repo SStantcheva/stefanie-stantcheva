@@ -424,8 +424,8 @@ publications:
       text: "Online Appendix"
     - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_may2016.pdf"
       text: "Slides"
-    - url: "https://www.aeaweb.org/journals/dataset?id=10.1257/aer.20150237"
-      text: "Replication Package"
+    - url:  "https://www.aeaweb.org/journals/dataset?id=10.1257/aer.20150237"
+      text:  "Replication Package"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/nber_digest.pdf"
       text: "NBER Digest"
