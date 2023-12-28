@@ -1,14 +1,13 @@
-
 relativeURLs = true
 googleAnalytics = "UA-159072578-1"
-title = "Natalia Bermúdez"
+title = "Stefanie Stantcheva"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [author]
-name = "Natalia Bermúdez"
+name = "Stefanie Stantcheva"
 
 [markup] # needed to add html in .md
   [markup.goldmark]
@@ -16,9 +15,8 @@ name = "Natalia Bermúdez"
       unsafe = true
 
 [params]
-title = "Ph.D. Candidate in Economics "
-institution = "IRES/LIDAM, UCLOuvain and Department of Economics, UGent"
-logo = "P1120239.jpg"
-Twitter = "nati_ber"
-Email = "natalia.bermudez@uclouvain.be"
-Email = "natalia.bermudez@ugent.be"
+title = "Nathaniel Ropes Professor of Political Economy,"
+institution = "Harvard University"
+logo = "Stefanie_Stantcheva_headshot_signed_fil-3.jpg"
+Twitter = "S_Stantcheva"
+Email = "sstantcheva@fas.harvard.edu"
