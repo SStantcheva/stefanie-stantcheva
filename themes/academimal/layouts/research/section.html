@@ -147,8 +147,10 @@ You should also edit side bar
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
+
+        {{ with .coauthors }}<span style="margin:5px 0px 5px 0px;">(with {{ . }}){{ end }}</span> <em>{{ .book }}, {{ .year }} </em>
         
-        {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }}){{ end }} <em>{{ .book }}, {{ .year }} </em></p>
+        <!-- {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }}){{ end }} <em>{{ .book }}, {{ .year }} </em></p> -->
 
         {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
 
