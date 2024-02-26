@@ -235,10 +235,8 @@ publications:
   coauthors: "Beatrice Ferrario"
   year: "2022"
   links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_textanalysis.pdf"
-      text: "Slides"
-    - url: "https://socialeconomicslab.org/resources-and-data/"
-      text: "Data and codes"
+    - url: "https://socialeconomicslab.org/research/publications/eliciting-peoples-first-order-concerns/"
+      text: "Online Appendix, Slides, Resources and Data, and Questionnaire"
   abstract: >
     This paper illustrates the design and use of open-ended survey questions as a way of eliciting people's first-order concerns on policies. Multiple choice questions are the backbone of most surveys, but they may prime respondents to select answer options that they would not naturally have thought about, and they may omit relevant options. Open-ended questions that do not constrain respondents with specific answer choices are a valuable tool for eliciting first-order thinking. We discuss three text analysis methods to analyze open-ended questions' answers. To illustrate how to apply these methods, we provide evidence from large-scale surveys on income and estate taxation. We show the that key concerns relate mostly to distribution issues, fairness, and government, rather than to efficiency concerns. There are large partisan gaps in the first-order concerns on policies.
 
@@ -278,7 +276,7 @@ publications:
   abstract: >
     This article analyzes the specific and critical role of trust in scientists on both the support for and compliance with nonpharmaceutical interventions (NPIs) during the COVID-19 pandemic. We exploit large-scale, longitudinal, and representative surveys for 12 countries over the period from March to December 2020, and we complement the analysis with experimental data. We find that trust in scientists is the key driving force behind individual support for and compliance with NPIs and for favorable attitudes toward vaccination. The effect of trust in government is more ambiguous and tends to diminish support for and compliance with NPIs in countries where the recommendations from scientists and the government were not aligned. Trust in others also has seemingly paradoxical effects: in countries where social trust is high, the support for NPIs is low due to higher expectations that others will voluntary social distance. Our individual-level longitudinal data also allows us to evaluate the effects of within-person changes in trust over the pandemic: we show that trust levels and, in particular, trust in scientists have changed dramatically for individuals and within countries, with important subsequent effects on compliant behavior and support for NPIs. Such findings point out the challenging but critical need to maintain trust in scientists during a lasting pandemic that strains citizens and governments.
 
-- title: "Understanding Tax Policy: How do people Reason?"
+- title: "Understanding Tax Policy: How do People Reason?"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_understanding_taxes_qje.pdf"
   book: "Quarterly Journal of Economics 136(4): 2309–2369"
   year: "2021"
@@ -308,7 +306,7 @@ publications:
   year: "2020"
   links:
     - url: "https://socialeconomicslab.org/research/publications/diversity-immigration-and-redistribution/"
-      text: "Online Appendix, Slides, Questionnaire, Resources and Data, and Video Treatments"
+      text: "Online Appendix, and Slides"
   abstract: >
     This paper provides a simple conceptual framework that captures how different perceptions, attitudes, and biases about immigrants or minorities can shape preferences for redistribution and reviews the empirical evidence on the effects of increasing racial diversity and immigration on support for redistribution.
 - title: "Dynamic Taxation"
