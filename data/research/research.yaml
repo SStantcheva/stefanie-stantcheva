@@ -358,7 +358,7 @@ publications:
       text: "Slides"
   abstract: >
     This paper develops a theory of optimal capital taxation that expresses optimal tax formulas in sufficient statistics. We first consider a simple model with utility functions linear in consumption and featuring heterogeneous utility for wealth. In this case, there are no transitional dynamics, the steady-state is reached immediately and has finite elasticities of capital with respect to the net-of-tax rate. This allows for a tractable optimal tax analysis with formulas expressed in terms of empirical elasticities and social preferences that can address many important policy questions. These formulas can easily be taken to the data to simulate optimal taxes, which we do using U.S. tax return data on labor and capital incomes. Second, we show how these results can be extended to the case with concave utility for consumption. The same types of formulas carry over by appropriately defining elasticities. We show that one can recover all the results from the simpler model using a new and non standard steady state approach that respects individual preferences even with a fully general utility function or uncertainty. 
-- title: "Intergenerational Mobility and Support for Redistribution"
+- title: "Intergenerational Mobility and Preferences for Redistribution"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/mobility_alesina_stantcheva_teso.pdf"
   book: "American Economic Review 108(2): 521-554"
   coauthors: "Alberto Alesina and Edoardo Teso"
@@ -366,8 +366,6 @@ publications:
   links:
     - url: "https://socialeconomicslab.org/research/publications/intergenerational-mobility-and-support-for-redistribution/"
       text: "Online Appendix, Slides, Questionnaire and Resources and Data"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_mobility_redistribution_frenchnationalassembly_june2019.pdf"
-      text: "Slides for the French National Assembly (June 2019)"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/americans_have_been_lying_to_themselves_about_the_economy_for_way_too_long_-_the_washington_post.pdf"
       text: "Washington Post"
