@@ -139,7 +139,7 @@ You should also edit side bar
     <br>
 
     <h2 id="Publications">Publications</h2>
-    <div style="margin-top:-25px;"></div>
+    <!--  <div style="margin-top:-25px;"></div>  -->
     {{ with .publications }}
     {{range . }}
     {{ $.Scratch.Add "count" 1 }} 
@@ -148,8 +148,6 @@ You should also edit side bar
 
 
     <!-- {{ if ne .year ($.Scratch.Get "curyear") }}<br><h3>{{ .year }}</h3>{{ $.Scratch.Set "curyear" .year}}{{ end }} -->
-
-    <p></p>
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
@@ -191,7 +189,7 @@ You should also edit side bar
 
 
    <h2 id="PolicyPapers">Book Chapters & Policy Papers</h2>
-    <div style="margin-top:-25px;"></div>
+   <!-- <div style="margin-top:-25px;"></div>  -->
     {{ with .policypapers }}
     {{range . }}
     {{ $.Scratch.Add "count" 1 }} 
@@ -200,8 +198,6 @@ You should also edit side bar
 
 
     <!-- {{ if ne .year ($.Scratch.Get "curyear") }}<br><h3>{{ .year }}</h3>{{ $.Scratch.Set "curyear" .year}}{{ end }} -->
-  
-    <p></p>
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
