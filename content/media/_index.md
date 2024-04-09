@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+Financial Times *"Central banks lower the bar for rate cuts"* [[Article]](https://www.ft.com/content/5d3c4b84-0156-4572-aea8-ef939b8b36d5)
+
 New York Times *"Good Economy, Negative Vibes: The Story Continues"* [[Article]](https://www.nytimes.com/2024/04/08/opinion/economy-vibes.html)
 
 The Wall Street Journal *"What’s Wrong With the Economy? It’s You, Not the Data"* [[Article]](https://www.wsj.com/economy/consumers/whats-wrong-with-the-economy-its-you-not-the-data-cfa911e6)
