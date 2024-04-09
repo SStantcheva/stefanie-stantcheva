@@ -11,7 +11,7 @@ Here is some selected media coverage of my research.
 ### 2024
 New York Times *"Good Economy, Negative Vibes: The Story Continues"* [[Article]](https://www.nytimes.com/2024/04/08/opinion/economy-vibes.html)
 
-The Wall Street  *"What’s Wrong With the Economy? It’s You, Not the Data"* [[Article]](https://www.wsj.com/economy/consumers/whats-wrong-with-the-economy-its-you-not-the-data-cfa911e6)
+The Wall Street Journal *"What’s Wrong With the Economy? It’s You, Not the Data"* [[Article]](https://www.wsj.com/economy/consumers/whats-wrong-with-the-economy-its-you-not-the-data-cfa911e6)
 
 Frankfurter Allgemeine Zeitung *"Warum die Inflation so unpopulär ist"* [[Article]](https://www.faz.net/aktuell/wirtschaft/warum-die-inflation-so-unpopulaer-ist-19633981.html)
 
