@@ -9,7 +9,7 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
-Forbers *"Why Do People Hate Inflation? New Research Uncovers Key Attitudes"* [[Article]] (https://www.forbes.com/sites/katebahn/2024/04/18/why-do-people-hate-inflation/?sh=79aff2d01631)
+Forbers *"Why Do People Hate Inflation? New Research Uncovers Key Attitudes"*  [[Article]](https://www.forbes.com/sites/katebahn/2024/04/18/why-do-people-hate-inflation/?sh=79aff2d01631)
 
 Independent *"Why do voters think crime is up and the economy is bad when the data says otherwise?"* [[Article]](https://www.independent.co.uk/news/world/americas/us-politics/crime-economy-inflation-murder-rates-b2527910.html)
 
