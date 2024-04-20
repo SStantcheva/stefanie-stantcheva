@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+Forbes *"How Zero-Sum Thinking May Affect Attitudes About Taxes"*  [[Article]](https://www.forbes.com/sites/howardgleckman/2024/04/19/how-zero-sum-thinking-may-affect-attitudes-about-taxes/?sh=47c0a0e1bb75)
+
 Forbes *"Why Do People Hate Inflation? New Research Uncovers Key Attitudes"*  [[Article]](https://www.forbes.com/sites/katebahn/2024/04/18/why-do-people-hate-inflation/?sh=79aff2d01631)
 
 Independent *"Why do voters think crime is up and the economy is bad when the data says otherwise?"* [[Article]](https://www.independent.co.uk/news/world/americas/us-politics/crime-economy-inflation-murder-rates-b2527910.html)
