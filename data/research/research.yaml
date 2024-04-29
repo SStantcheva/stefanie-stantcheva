@@ -88,7 +88,7 @@ workingpapers:
   book: "NBER Working Paper 31333"
   year: "2023" 
   links: 
-    - url: "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/wealth_tax_france_oa.pdf"
+    - url: "https://www.dropbox.com/s/byd6d9ownjdf9fc/Wealth_Tax_France_Slides.pdf?dl=0"
       text: "Slides"
   abstract: >
       Using exhaustive administrative wealth and income tax data, we study a French wealth tax reform that scaled back information reporting requirements below a certain wealth threshold. We develop a dynamic bunching approach that permits estimating the average response to the reform, the share of compliers, and the LATE. Reported wealth declines sharply in response to the reform and annual wealth growth rates are on average 20% lower among affected taxpayers. This decline appears due to increased evasion facilitated by the lower reporting requirements, as suggested by the fall in self-reported wealth but the lack of response in third-party-reported labor and capital incomes. By contrast, the elasticities to tax rates estimated are very small and insignificant. This illustrates the critical role of information reporting policies in shaping taxpayers’ behavior.
