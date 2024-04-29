@@ -85,12 +85,9 @@ workingpapers:
 
 - title: "Tax Simplicity or Simplicity of Evasion? Evidence from Self-Employment Taxes in France [UPDATED! April 2024]"
   pdflink: "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/taxsimplicity_agls_full.pdf"
-  book: ""
+  book: "NBER Working Paper"
   coauthors: "Philippe Aghion, Maxime Gravoueille, and Mathieu Lequien"
-  year: ""
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_princeton_v3.pdf"
-      text: "Slides"
+  year: "2022"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/washington_post.pdf"
       text: "Washington Post"
