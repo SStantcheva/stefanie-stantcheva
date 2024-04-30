@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+The Economist *"Is inflation morally wrong?"*  [[Article]](https://www.economist.com/finance-and-economics/2024/04/25/is-inflation-morally-wrong)
+
 Forbes *"How Zero-Sum Thinking May Affect Attitudes About Taxes"*  [[Article]](https://www.forbes.com/sites/howardgleckman/2024/04/19/how-zero-sum-thinking-may-affect-attitudes-about-taxes/?sh=47c0a0e1bb75)
 
 Forbes *"Why Do People Hate Inflation? New Research Uncovers Key Attitudes"*  [[Article]](https://www.forbes.com/sites/katebahn/2024/04/18/why-do-people-hate-inflation/?sh=79aff2d01631)
