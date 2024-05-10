@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+Brookings Podcast on Economic Activity *"What do Americans think about inflation?"* [[Podcast]](https://www.brookings.edu/articles/what-do-americans-think-about-inflation/)
+
 The Economist *"Is inflation morally wrong?"*  [[Article]](https://www.economist.com/finance-and-economics/2024/04/25/is-inflation-morally-wrong) [[PDF]](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/economist_is_inflation_morally_wrong.pdf)
 
 Forbes *"How Zero-Sum Thinking May Affect Attitudes About Taxes"*  [[Article]](https://www.forbes.com/sites/howardgleckman/2024/04/19/how-zero-sum-thinking-may-affect-attitudes-about-taxes/?sh=47c0a0e1bb75)
