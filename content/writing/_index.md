@@ -8,6 +8,10 @@ weight = 0
 
 This page features pieces based on my research and that of others and that are intended for a non-academic audience.
 
+**2024:**
+
+Economica-Coase Lecture 2024 at LSE: [[Recording]](https://echo360.org.uk/media/2fd0745a-818b-427f-9f11-453d2d10f9c3/public) [[Slides]](https://socialeconomicslab.org/wp-content/uploads/2024/05/Coase_lecture_v2.pdf) 
+
 **2022:**
 
 Surveys for Economic Research: Understanding How People Think [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/faculty_lunch_2023.pdf) 
