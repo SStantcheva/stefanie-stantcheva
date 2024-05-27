@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+New York Times *"No, Americans Are Not Completely Stupid About Inflation"* [[Article]](https://www.nytimes.com/2024/05/27/opinion/inflation-economics-stefanie-stantcheva.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb)
+
 Brookings Podcast on Economic Activity *"What do Americans think about inflation?"* [[Podcast]](https://www.brookings.edu/articles/what-do-americans-think-about-inflation/)
 
 The Economist *"Is inflation morally wrong?"*  [[Article]](https://www.economist.com/finance-and-economics/2024/04/25/is-inflation-morally-wrong) [[PDF]](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/economist_is_inflation_morally_wrong.pdf)
