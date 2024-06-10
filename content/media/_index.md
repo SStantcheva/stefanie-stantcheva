@@ -9,6 +9,10 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+The Guardian *"Is the US economy doing well? It depends if you ask a Democrat or a Republican"* [[Article]](https://www.theguardian.com/us-news/article/2024/jun/09/is-economy-good-bad-republican-democrat)
+
+The Wall Street Journal *"Americans Really, Really Hate Inflation—and That’s a Big Problem for the Fed"* [[Article]](https://www.wsj.com/economy/central-banking/americans-inflation-target-fed-c1fc7857?st=pv3hw03acty5eeu)
+
 New York Times *"No, Americans Are Not Completely Stupid About Inflation"* [[Article]](https://www.nytimes.com/2024/05/27/opinion/inflation-economics-stefanie-stantcheva.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb)
 
 Brookings Podcast on Economic Activity *"What do Americans think about inflation?"* [[Podcast]](https://www.brookings.edu/articles/what-do-americans-think-about-inflation/)
