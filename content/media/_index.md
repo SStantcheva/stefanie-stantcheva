@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+Financial Times *"Is a recession worse than inflation"* [[Article]](https://www.ft.com/content/38f35dcc-16c9-41bf-8447-2afecd187de2) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/06/Is-a-recession-worse-than-inflation.pdf)
+
 The Guardian *"Is the US economy doing well? It depends if you ask a Democrat or a Republican"* [[Article]](https://www.theguardian.com/us-news/article/2024/jun/09/is-economy-good-bad-republican-democrat)
 
 The Wall Street Journal *"Americans Really, Really Hate Inflation—and That’s a Big Problem for the Fed"* [[Article]](https://www.wsj.com/economy/central-banking/americans-inflation-target-fed-c1fc7857?st=pv3hw03acty5eeu)
