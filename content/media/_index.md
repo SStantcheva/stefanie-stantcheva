@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+New York Times *"The Matrix of Consumer Discontent"* [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/07/Opinion-Why-Are-People-Unhappy-About-a-Strong-Economy-The-New-York-Times.pdf)
+
 Financial Times *"How much cash would it take for you to quit your job?"* [[Article]](https://www.ft.com/content/85fa4497-ddbc-4b2f-86ed-6c83ee3c5180) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/07/How-much-cash-would-it-take-for-you-to-quit-your-job.pdf)
 
 Financial Times *"Is a recession worse than inflation?"* [[Article]](https://www.ft.com/content/38f35dcc-16c9-41bf-8447-2afecd187de2) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/06/Is-a-recession-worse-than-inflation.pdf)
