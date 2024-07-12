@@ -170,6 +170,17 @@ workingpapers:
   abstract: >
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
+  #2024
+- title: "Why do We Dislike Inflation?"
+  pdflink: "https://socialeconomicslab.org/why_dislike_inflation/"
+  book: "Spring 2024 Brookings Papers on Economic Activity (BPEA) issue"
+  year: "2024"
+  links:
+    - url: "https://socialeconomicslab.org/research/working-papers/why-do-we-dislike-inflation/"
+      text: "Online Appendix, Questionnaire, Slides and Resources and Data"
+  abstract: > 
+    This paper provides new evidence on a long-standing question asked by Shiller (1997): Why do we dislike inflation? I conducted two surveys on representative samples of the US population to elicit people’s perceptions about the impacts of inflation and their reactions to it. The predominant reason for people’s aversion to inflation is the widespread belief that it diminishes their buying power, as neither personal nor general wage increases seem to match the pace of rising prices. As a result, respondents report having to make costly adjustments in their budgets and behaviors, especially among lower-income groups. Inflation also provokes stress, emotional responses, and a sense of inequity, as the wages of high-income individuals are perceived to grow more rapidly amidst inflation. Many respondents believe that firms have considerable discretion in setting wages, opting not to raise them in order to boost profits, rather than being compelled by market dynamics. The potential positive associations of inflation, such as with reduced unemployment or enhanced economic activity, are typically not recognized by respondents. Inflation ranks high in priority among various economic and social issues, with respondents blaming the government and businesses for it. I also highlight a substantial polarization in attitudes towards inflation along partisan lines, as well as across income groups.
+  
   #2023
 - title: "Immigration and Redistribution"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/0alesina_miano_stantcheva_immigration_restud.pdf"
