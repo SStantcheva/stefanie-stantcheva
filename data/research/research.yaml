@@ -98,6 +98,9 @@ workingpapers:
   book: "NBER Working Paper"
   coauthors: "Philippe Aghion, Maxime Gravoueille, and Matthieu Lequien"
   year: "2022"
+  links: 
+    - url: "https://x.com/S_Stantcheva/status/1810998481957306403"
+      text: "Summary Twitter Thread"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/washington_post.pdf"
       text: "Washington Post"
@@ -154,6 +157,8 @@ workingpapers:
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/acmss_dec2018.pdf"
       text: "Slides"
+    - url: "https://x.com/s_stantcheva/status/1182993050244653057?lang=ca"
+      text: "Summary Video"
   abstract: >
     An inventor's own knowledge is a key input in the innovation process. This knowledge can be built by interacting with and learning from others. This paper uses a new large-scale panel dataset on European inventors matched to their employers and patents. We document key empirical facts on inventors' productivity over the life cycle, inventors' research teams, and interactions with other inventors. Among others, most patents are the result of collaborative work. Interactions with better inventors are very strongly correlated with higher subsequent productivity. These facts motivate the main ingredients of our new innovation-led endogenous growth model, in which innovations are produced by heterogeneous research teams of inventors using inventor knowledge. The evolution of an inventor's knowledge is explained through the lens of a diffusion model in which inventors can learn in two ways: By interacting with others at an endogenously chosen rate; and from an external, age-dependent source that captures alternative learning channels, such as learning-by-doing. Thus, our knowledge diffusion model nests inside the innovation-based endogenous growth model. We estimate the model, which fits the data very closely, and use it to perform several policy exercises, such as quantifying the large importance of interactions for growth, studying the effects of reducing interaction costs (e.g., through IT or infrastructure), and comparing the learning and innovation processes of different countries.
 
@@ -292,6 +297,8 @@ publications:
       text: "Online Appendix"
     - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SR410I"
       text: "Data and codes"
+    - url: "https://x.com/S_Stantcheva/status/1468679556009807886"
+      text: "Summary Twitter Thread"
   presscoverage:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/taxation_and_innovation_in_the_20th_century_vox_cepr_policy_portal.pdf"
       text: "VoxEU"
@@ -325,6 +332,9 @@ publications:
   book: "Journal of International Economics 130: 103452"
   coauthors: "Yazan Al-Karablieh and Evangelos Koumanakos"
   year: "2021"
+  links:
+    - url: "https://x.com/S_Stantcheva/status/1299660848324136960?s=20"
+      text: "Summary Twitter Thread"
   abstract: > 
     We use a new dataset of the universe of Greek corporate tax returns to study a voluntary tax compliance program for small firms. This “self-assessment” program prescribed target taxable profit margins (the ratio of taxable profits to revenues) for different types of activities. Firms that reported profit margins above these targets in a given year were exempt from audits in that year. We find that the firms that take up the program report significantly larger taxable profits than non-eligible firms, with some evidence for longer-lasting effects on tax reporting. Firms that take up the program for more years exhibit stronger effects. We also find that firms can easily and substantially manipulate reported revenue (decreasing it by up to 40%) to help meet prescribed profit margins without paying more in taxes. Overall, the program increased tax revenues collected from small firms, but points to a very large level of baseline under-reporting of profits and the ease of manipulating reported revenues.
 
@@ -347,6 +357,8 @@ publications:
   links:
     - url: "https://scholar.harvard.edu/files/stantcheva/files/appendix_dynamic_taxation.pdf"
       text: "Online Appendix"
+    - url: "https://x.com/S_Stantcheva/status/1220097439832502273"
+      text: "Summary Twitter Thread"
   abstract: >
     This paper reviews recent advances in the study of dynamic taxation, considering three main approaches: the dynamic Mirrlees, the parametric Ramsey, and the sufficient statistics approaches. In the first approach, agents' heterogeneous abilities to earn income are private information and evolve stochastically over time. Dynamic taxes are not ex ante restricted and are set for redistribution and insurance considerations. Capital is taxed only in order to improve incentives to work. Human capital is optimally subsidized if it reduces post-tax inequality and risk on balance. The Ramsey approach specifies ex ante restricted tax instruments and adopts quantitative methods, which allows it to consider more complex and realistic economies. Capital taxes are optimal when age-dependent labor income taxes are not possible. The newer and tractable sufficient statistics approach derives robust tax formulas that depend on estimable elasticities and features of the income distributions. It simplifies the transitional dynamics thanks to a newly defined criterion, the "utility-based steady state approach" that prevents the government from exploiting sluggish responses in the short-run. Capital taxes are here based on the standard equity-efficiency trade-off. 
 
@@ -531,6 +543,9 @@ policypapers:
   book: "Innovation and Public Policy, Chapter 6 [also NBER Working Paper 27109]"
   coauthors: "Ufuk Akcigit"
   year: "2022"
+  links:
+    - url: "https://x.com/S_Stantcheva/status/1259509994199932928?s=20"
+      text: "Summary Twitter Thread"
   abstract: >
     Tax policies are a wide array of tools, commonly used by governments to influence the economy. In this paper, we review the many margins through which tax policies can affect innovation, the main driver of economic growth in the long-run. These margins include the impact of tax policy on i) the quantity and quality of innovation; ii) the geographic mobility of innovation and inventors across U.S. states and countries; iii) the declining business dynamism in the U.S., firm entry, and productivity; iv) the quality composition of firms, inventors, and teams; and v) the direction of research effort, e.g., toward applied versus basic research, or toward dirty versus clean technologies. We give ideas drawn from research on how the  design of policy can allow policy makers to foster the most productive firms without wasting public funds on less productive ones.
 
@@ -593,6 +608,9 @@ policypapers:
   book: "Oxford Review of Economic Policy 37(4): 824–837"
   coauthors: "Dani Rodrik"
   year: "2021"
+  links: 
+    - url: "https://x.com/S_Stantcheva/status/1471877129327501314"
+      text: "Summary Twitter Thread"
   abstract: >
     I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, i.e., the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the "Redistribution" and the "Efficiency" treatments) or that bring the two together and focus on the trade-off (the "Economist" treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps, not just in the final policy views, but also at every step of the reasoning about the underlying mechanisms of taxes. Democrats and Republicans' divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
 
