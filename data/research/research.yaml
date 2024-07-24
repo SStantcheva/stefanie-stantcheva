@@ -21,6 +21,8 @@ workingpapers:
   links:
     - url: "https://socialeconomicslab.org/research/working-papers/peoples-understanding-of-inflation/"
       text: "Online Appendix, Questionnaire and Slides"
+    - url: "https://x.com/S_Stantcheva/status/1792540000224981097"
+      text: "Summary Twitter Thread"
   abstract: > 
     This paper studies people’s understanding of inflation—their perceived causes, consequences, trade-offs—and the policies supported to mitigate its effects. We design a new, detailed online survey based on the rich existing literature in economics with two experimental components—a conjoint experiment and an information experiment—to examine how well public views align with established economic theories. Our key findings show that the major perceived causes of inflation include government actions, such as increased foreign aid and warrelated expenditures, alongside rises in production costs attributed to recent events like the COVID-19 pandemic, oil price fluctuations, and supply chain disruptions. Respondents anticipate many negative consequences of inflation but the most noted one is the increased complexity and difficulty in household decision-making. Partisan differences emerge distinctly, with Republicans more likely to attribute inflation to government policies and foresee broader negative outcomes, whereas Democrats anticipate greater inequality effects. Inflation is perceived as an unambiguously negative phenomenon without any potential positive economic correlates. Notably, there is a widespread belief that managing inflation can be achieved without significant trade-offs, such as reducing economic activity or increasing unemployment. These perceptions are hard to move experimentally. In terms of policy responses, there is resistance to monetary tightening, consistent with the perceived absence of trade-offs and the belief that it is unnecessary to reduce economic activity to fight inflation. The widespread misconception that inflation rises following increases in interest rates even leads to support for rate cuts to reduce inflation. There is a clear preference for policies that are perceived to have other benefits, such as reducing government debt in progressive ways or increasing corporate taxes, and for support for vulnerable households, despite potential inflationary effects.
 
@@ -32,6 +34,8 @@ workingpapers:
   links:
     - url: "https://socialeconomicslab.org/research/working-papers/the-how-and-why-of-household-reactions-to-income-shocks/"
       text: "Online Appendix, and Questionnaire"
+    - url: "https://x.com/S_Stantcheva/status/1760752308189553107"
+      text: "Summary Twitter Thread"
   abstract: > 
     This paper studies how and why households adjust their spending, saving, and borrowing in response to transitory income shocks. We leverage new large-scale survey data to first quantitatively assess households' intertemporal marginal propensities to consume (MPCs) and deleverage (MPDs) (the ``how"), and second to dive into the motivations and decision-making processes across households (the ``why"). The combination of the quantitative estimation of household response dynamics with a qualitative exploration of the mental models employed during financial decisions provides a more complete view of household behavior. Our findings are as follows. First, we validate the reliability of surveys in predicting actual economic behaviors using a new approach called cross-validation, which compares the responses to hypothetical financial scenarios with observed actions from past studies. Participants' predicted reactions closely align with real-life behaviors. Second, we show that MPCs are significantly higher immediately following an income shock and diminish over time, with cumulative MPCs over a year showing significant variability. However, MPDs play a critical role in household financial adjustments and display significantly more cross-sectional heterogeneity. Neither is easily explained by socioeconomic or financial characteristics alone, and the explanatory power is improved by adding psychological factors, past experiences, and expectations. Third, using specifically-designed survey questions, we find that there is a broad range of motivations behind households' financial decisions and identify four household types using machine learning: Strongly Constrained, Precautionary, Quasi-Smoothers, and Spenders. Similar financial actions stem from diverse reasons, challenging the predictability of financial behavior solely based on socioeconomic and financial characteristics. Finally, we use our findings to address some puzzles in household finance. 
 
@@ -56,6 +60,8 @@ workingpapers:
   links:
     - url: "https://socialeconomicslab.org/research/working-papers/zero-sum-thinking-and-the-roots-of-u-s-political-divides/"
       text: "Online Appendix, Questionnaire, and Slides"
+    - url: "https://x.com/s_stantcheva/status/1703765533571616809?s=46"
+      text: "Summary Twitter Thread"
   abstract: >
     We investigate the origins and implications of zero-sum thinking — the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of a representative sample of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Furthermore, zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement.
 
@@ -69,6 +75,8 @@ workingpapers:
       text: "Online Appendix, Questionnaire, Slides, Resources and Data, and Video Treatments"
     - url: "https://www.dropbox.com/scl/fi/6asfqugwj27cfk92bd84d/Stantcheva_Talk_PEIF_March2024.pdf?rlkey=h8yxsjl1jr85fpwoeu555vzkv&dl=0"
       text: "Slides"
+    - url: "https://twitter.com/s_stantcheva/status/1549744980243222529?s=21&t=YVKnoRgyaFg8ENM_fhXDhA"
+      text: "Summary Twitter Thread"
   abstract: > 
     This paper explores global perceptions and understanding of climate change and policies, examining factors that influence support for climate action and the impact of different types of information. We conduct large-scale surveys with 40,000 respondents from 20 countries, providing new international data on attitudes towards climate change and respondents’ socioeconomic backgrounds and lifestyles. We identify three key perceptions affecting policy support: perceived effectiveness of policies in reducing emissions, their impact on low-income households, and their effect on respondents’ households (self-interest). Educational videos clarifying policy mechanisms increase support for climate policies; those merely highlighting climate change’s impacts do not.
 
@@ -79,6 +87,8 @@ workingpapers:
   links:
     - url: "https://socialeconomicslab.org/research/working-papers/understanding-of-trade/"
       text: "Online Appendix, Questionnaire, Slides, and Video Treatments"
+    - url: "https://x.com/S_Stantcheva/status/1670718523713245189"
+      text: "Summary Twitter Thread"
   abstract: >
     This paper sheds new light on two questions: How do people perceive and understand trade and trade policy, and what shapes their support for different trade policies? Despite extensive research documenting the efficiency gains from trade and its distributional impacts on different groups of workers, firms, and consumers, we still need to uncover how people perceive these various effects of trade. Trade involves many trade-offs. When forming their views on trade policy, people have to balance their roles as consumers and workers, consider both personal and broader economic and societal impacts, and evaluate concerns of efficiency and equity. Which of these considerations matters most? Using new large-scale surveys and experiments, I highlight three main findings. First, while earlier work has established that consumer gains from trade are diffuse and job losses are concentrated, I directly show the impact of these two considerations on people’s views about trade. I find that perceived job risks matter more for policy views than perceived consumer gains. Second, beyond their own material self-interest, people care about the broader efficiency gains and adverse distributional consequences from trade. Support for free trade is best predicted by the belief that trade generates efficiency gains. Concerns about the adverse distributional consequences of trade do not necessarily reduce support for free trade: instead, they increase support for compensatory redistribution. These results also highlight the importance of compensatory redistribution as an indissociable part of trade policy in people’s minds. Third, personal exposure to trade shapes policy views in two ways: directly (through self-interest) and indirectly by changing people’s perceptions of trade’s broader efficiency and distributional implications.
 
@@ -90,6 +100,8 @@ workingpapers:
   links:
     - url: "https://socialeconomicslab.org/research/working-papers/perceptions-of-racial-gaps-their-causes-and-ways-to-reduce-them/"
       text: "Online Appendix, Questionnaire, Slides, and Video Treatments"
+    - url: "https://twitter.com/S_Stantcheva/status/1441394243566817281"
+      text: "Summary Twitter Thread"
   abstract: > 
     This paper studies how beliefs about racial inequalities and their causes vary and shape support for race-targeted and redistribution policies among Black and white Americans, including both adults and teenagers. We collect original large-scale survey data to provide new evidence on perceptions, attitudes, and policy views on racial issues and study the causal impact of information on policy views. We highlight significant heterogeneity along racial and partisan lines in perceived racial gaps in income and mobility. Yet, the biggest discrepancies are in how people explain the existence of these gaps, i.e., their perceived causes. White Democratic and Black respondents are much more likely to attribute racial inequities to systemic factors, such as adverse past and present circumstances, and want to act on them with race-targeted and general redistribution policies. White Republicans are more likely to attribute racial gaps to individual-based factors, such as individual effort or actions. These views are already deeply entrenched in teenagers, based on their race and their parents' political affiliation. A policy decomposition shows that the perceived causes of racial inequities are the strongest predictors of support for race-targeted or redistribution policies, a finding confirmed by the experimental results.
 
@@ -186,6 +198,8 @@ publications:
   links:
     - url: "https://socialeconomicslab.org/research/working-papers/why-do-we-dislike-inflation/"
       text: "Online Appendix, Questionnaire, Slides and Resources and Data"
+    - url: "https://x.com/S_Stantcheva/status/1774800430792339835"
+      text: "Summary Twitter Thread"
   abstract: > 
     This paper provides new evidence on a long-standing question asked by Shiller (1997): Why do we dislike inflation? I conducted two surveys on representative samples of the US population to elicit people’s perceptions about the impacts of inflation and their reactions to it. The predominant reason for people’s aversion to inflation is the widespread belief that it diminishes their buying power, as neither personal nor general wage increases seem to match the pace of rising prices. As a result, respondents report having to make costly adjustments in their budgets and behaviors, especially among lower-income groups. Inflation also provokes stress, emotional responses, and a sense of inequity, as the wages of high-income individuals are perceived to grow more rapidly amidst inflation. Many respondents believe that firms have considerable discretion in setting wages, opting not to raise them in order to boost profits, rather than being compelled by market dynamics. The potential positive associations of inflation, such as with reduced unemployment or enhanced economic activity, are typically not recognized by respondents. Inflation ranks high in priority among various economic and social issues, with respondents blaming the government and businesses for it. I also highlight a substantial polarization in attitudes towards inflation along partisan lines, as well as across income groups.
   
@@ -219,7 +233,9 @@ publications:
   year: "2023"
   links:
     - url: "https://socialeconomicslab.org/research/publications/social-positions-and-fairness-views-on-inequality/"
-      text: "Online Appendix, Questionnaire, and Video Treatments"  
+      text: "Online Appendix, Questionnaire, and Video Treatments"
+    - url: "https://twitter.com/S_Stantcheva/status/1328674584598548480"
+      text: "Summary Twitter Thread"
   presscoverage:
     - url: "https://voxeu.org/article/how-social-position-shapes-views-fairness"
       text: "VoxEU"
@@ -240,6 +256,8 @@ publications:
   links:
   - url: "https://socialeconomicslab.org/research/publications/civil-liberties-in-times-of-crisis/"
     text: "Online Appendix, Questionnaire, and Resources and Data"
+  - url: "https://twitter.com/S_Stantcheva/status/1318163957325103104"
+    text: "Summary Twitter Thread"
   abstract: >
     Major crises — from terrorist attacks to epidemic outbreaks — bring the trade-off between individual civil liberties and societal well-being into sharp relief. In this paper, we study how willing citizens are to restrict civil liberties to improve public health conditions in the context of the COVID-19 pandemic. We design and conduct representative surveys involving approximately 550,000 responses across 15 countries, including China and the United States, during many months of the COVID-19 pandemic, from March 2020 until January 2021. We document significant heterogeneity across countries and demographic groups in willingness to sacrifice rights for public welfare. Citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country, as are those with prior experience in communist regimes. Leveraging naturally occurring variation as well as experimental approaches, we estimate that a one standard deviation increase in health security concerns increases willingness to sacrifice civil liberties by approximately 68%-83% of the difference between the average Chinese and U.S. citizen. Stated preferences correlate with observed behavior including demand for tracing apps, donations, and petitions.
 
@@ -260,6 +278,8 @@ publications:
   links:
     - url: "https://socialeconomicslab.org/research/publications/how-to-run-surveys-a-guide-to-creating-your-own-identifying-variation-and-revealing-the-invisible/"
       text: "Online Appendix, Slides, and Resources and Data"
+    - url: "https://x.com/S_Stantcheva/status/1577671501817315330"
+      text: "Summary Twitter Thread"
   abstract: >
     Surveys are an essential approach for eliciting otherwise invisible factors such as perceptions, knowledge and beliefs, attitudes, and reasoning. These factors are critical determinants of social, economic, and political outcomes. Surveys are not merely a research tool. They are also not only a way of collecting data. Instead, they involve creating the process that will generate the data. This allows the researcher to create their own identifying and controlled variation. Thanks to the rise of mobile technologies and platforms, surveys offer valuable opportunities to study either broadly representative samples or focus on specific groups. This paper offers guidance on the complete survey process, from the design of the questions and experiments to the recruitment of respondents and the collection of data to the analysis of survey responses. It covers issues related to the sampling process, selection and attrition, attention and carelessness, survey question design and measurement, response biases, and survey experiments.
 
@@ -284,6 +304,8 @@ publications:
   links:
     - url: "https://socialeconomicslab.org/research/publications/eliciting-peoples-first-order-concerns/"
       text: "Online Appendix, Slides, Resources and Data, and Questionnaire"
+    - url: "https://twitter.com/S_Stantcheva/status/1485631842246090756"
+      text: "Summary Twitter Thread"
   abstract: >
     This paper illustrates the design and use of open-ended survey questions as a way of eliciting people's first-order concerns on policies. Multiple choice questions are the backbone of most surveys, but they may prime respondents to select answer options that they would not naturally have thought about, and they may omit relevant options. Open-ended questions that do not constrain respondents with specific answer choices are a valuable tool for eliciting first-order thinking. We discuss three text analysis methods to analyze open-ended questions' answers. To illustrate how to apply these methods, we provide evidence from large-scale surveys on income and estate taxation. We show the that key concerns relate mostly to distribution issues, fairness, and government, rather than to efficiency concerns. There are large partisan gaps in the first-order concerns on policies.
 
@@ -311,6 +333,9 @@ publications:
   coauthors: "Yann Algan, Daniel Cohen, Eva Davoine and Martial Foucault"
   book: "Proceedings of the National Academy of Sciences 118(40)"
   year: "2021"
+  links: 
+    - url: "https://x.com/S_Stantcheva/status/1445418476076773381"
+      text: "Summary Twitter Thread"
   abstract: >
     This article analyzes the specific and critical role of trust in scientists on both the support for and compliance with nonpharmaceutical interventions (NPIs) during the COVID-19 pandemic. We exploit large-scale, longitudinal, and representative surveys for 12 countries over the period from March to December 2020, and we complement the analysis with experimental data. We find that trust in scientists is the key driving force behind individual support for and compliance with NPIs and for favorable attitudes toward vaccination. The effect of trust in government is more ambiguous and tends to diminish support for and compliance with NPIs in countries where the recommendations from scientists and the government were not aligned. Trust in others also has seemingly paradoxical effects: in countries where social trust is high, the support for NPIs is low due to higher expectations that others will voluntary social distance. Our individual-level longitudinal data also allows us to evaluate the effects of within-person changes in trust over the pandemic: we show that trust levels and, in particular, trust in scientists have changed dramatically for individuals and within countries, with important subsequent effects on compliant behavior and support for NPIs. Such findings point out the challenging but critical need to maintain trust in scientists during a lasting pandemic that strains citizens and governments.
 
@@ -321,6 +346,8 @@ publications:
   links:
     - url: "https://socialeconomicslab.org/research/publications/understanding-tax-policy-how-do-people-reason/"
       text: "Online Appendix, Questionnaire, Resources and Data, and Video Treatments"
+    - url: "https://x.com/S_Stantcheva/status/1295706790836019200"
+      text: "Summary Twitter Thread"
   abstract: >
     I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. Using large-scale social economics surveys issued to representative U.S. samples and associated experiments, I elicit respondents’ factual knowledge about tax policy and the income or wealth distributions. Most important, I study their understanding of the mechanisms of tax policy and the reasoning that underlies their policy views. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, that is, the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with broader views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the Redistribution and the Efficiency treatments) or that bring the two together and focus on the trade-off (the Economist treatment). The Redistribution and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps in both the final policy views and at every step of the reasoning about the underlying mechanisms of taxes. Democrats’ and Republicans’ divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
 
