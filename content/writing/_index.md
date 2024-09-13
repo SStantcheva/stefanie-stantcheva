@@ -14,6 +14,18 @@ Society for Economic Dynamics 2024 Keynote: [[Recording]](https://www.youtube.co
 
 Economica-Coase Lecture 2024 at LSE: [[Recording]](https://echo360.org.uk/media/2fd0745a-818b-427f-9f11-453d2d10f9c3/public) [[Slides]](https://socialeconomicslab.org/wp-content/uploads/2024/05/Coase_lecture_v2.pdf) 
 
+Challenges *"Comment réformer en profondeur la taxation des héritages pour accroître l’égalité des chances"* : [[Article, in French]](https://www.challenges.fr/idees/comment-reformer-en-profondeur-la-taxation-des-heritages-pour-accroitre-l-egalite-des-chances_891347)
+
+Challenges *"Inégalités : pourquoi avons-nous une mauvaise perception de nos revenus"* : [[Article, in French]](https://www.challenges.fr/idees/inegalites-pourquoi-avons-nous-une-mauvaise-perception-de-nos-revenus_882357)
+
+**2023:**
+
+Challenges *"Les leçons déterminantes de Claudia Goldin, prix Nobel d'économie, sur le travail des femmes"* : [[Article, in French]](https://www.challenges.fr/idees/les-lecons-determinantes-de-claudia-goldin-prix-nobel-deconomie-sur-le-travail-des-femmes_871201)
+
+Challenges *"Inégalités de revenus en France : pourquoi certains s'en sortent mieux que d'autres"* : [[Article, in French]](https://www.challenges.fr/idees/inegalites-de-revenus-en-france-pourquoi-certains-sen-sortent-mieux-que-dautres_855575)
+
+Challenges *"Comment une vision du monde "à somme nulle" peut impacter la politique et la société"* : [[Article, in French]](https://www.challenges.fr/idees/comment-une-vision-du-monde-a-somme-nulle-peut-impacter-la-politique-et-la-societe_846663)
+
 **2022:**
 
 Surveys for Economic Research: Understanding How People Think [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/faculty_lunch_2023.pdf) 
