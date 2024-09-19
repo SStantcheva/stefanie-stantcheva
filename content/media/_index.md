@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+Marketplace Morning Report *"Interest rates, inflation and the American consumer"* [[Podcast]](https://www.marketplace.org/shows/make-me-smart/interest-rates-inflation-and-the-american-consumer/)
+
 New York Times *"The Matrix of Consumer Discontent"* [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/07/Opinion-Why-Are-People-Unhappy-About-a-Strong-Economy-The-New-York-Times.pdf)
 
 Financial Times *"How much cash would it take for you to quit your job?"* [[Article]](https://www.ft.com/content/85fa4497-ddbc-4b2f-86ed-6c83ee3c5180) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/07/How-much-cash-would-it-take-for-you-to-quit-your-job.pdf)
