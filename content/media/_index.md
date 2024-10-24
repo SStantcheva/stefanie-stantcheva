@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+The Wall Street Journal *"Inflation Has Cooled, but Americans Are Still Seething Over Prices"* [[Article]](https://www.wsj.com/economy/consumers/us-inflation-price-hike-psychology-c8a3f69b?st=34eR24&reflink=article_copyURL_share) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/10/Inflation-Has-Cooled-but-Americans-Are-Still-Seething-Over-Prices-WSJ.pdf)
+
 Marketplace Morning Report *"Interest rates, inflation and the American consumer"* [[Podcast]](https://www.marketplace.org/shows/make-me-smart/interest-rates-inflation-and-the-american-consumer/)
 
 New York Times *"The Matrix of Consumer Discontent"* [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/07/Opinion-Why-Are-People-Unhappy-About-a-Strong-Economy-The-New-York-Times.pdf)
