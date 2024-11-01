@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+Financial Times *"US inflation is down. Could it still be Kamala Harris’s downfall?"* [[Article]](https://www.ft.com/content/71a69438-c18f-4e06-ab4a-d4091399defa) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/11/US-inflation-is-down.-Could-it-still-be-Kamala-Harriss-downfall.pdf)
+
 New York Times *"Wages Have Outpaced Inflation. But Not for Everyone."* [[Article]](https://www.nytimes.com/2024/10/28/business/economy/inflation-wages-pay-salaries.html?smid=nytcore-ios-share&referringSource=articleShare) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/10/Have-Paychecks-Kept-Up-With-the-Cost-of-Living-The-New-York-Times.pdf)
 
 The Wall Street Journal *"Inflation Has Cooled, but Americans Are Still Seething Over Prices"* [[Article]](https://www.wsj.com/economy/consumers/us-inflation-price-hike-psychology-c8a3f69b?st=34eR24&reflink=article_copyURL_share) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/10/Inflation-Has-Cooled-but-Americans-Are-Still-Seething-Over-Prices-WSJ.pdf)
