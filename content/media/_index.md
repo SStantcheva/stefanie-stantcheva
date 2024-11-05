@@ -9,6 +9,10 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
+Reuters *"Despite sharp decline, inflation remains a sore point for Harris"* [[Article]](https://www.reuters.com/world/us/despite-sharp-decline-inflation-remains-sore-point-harris-2024-11-04/) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/11/Despite-sharp-decline-inflation-remains-a-sore-point-for-Harris-Reuters.pdf)
+
+The Guardian *"If the US is heading for a soft landing, why do people feel so hard up?"* [[Article]](https://www.theguardian.com/us-news/2024/nov/04/america-economy-election-voters) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/11/If-the-US-is-heading-for-a-soft-landing-why-do-people-feel-so-hard-up-US-elections-2024-The-Gu.pdf)
+
 Financial Times *"US inflation is down. Could it still be Kamala Harris’s downfall?"* [[Article]](https://www.ft.com/content/71a69438-c18f-4e06-ab4a-d4091399defa) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/11/US-inflation-is-down.-Could-it-still-be-Kamala-Harriss-downfall.pdf)
 
 New York Times *"Wages Have Outpaced Inflation. But Not for Everyone."* [[Article]](https://www.nytimes.com/2024/10/28/business/economy/inflation-wages-pay-salaries.html?smid=nytcore-ios-share&referringSource=articleShare) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/10/Have-Paychecks-Kept-Up-With-the-Cost-of-Living-The-New-York-Times.pdf)
