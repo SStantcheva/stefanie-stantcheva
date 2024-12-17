@@ -9,8 +9,6 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2024
-American Institute for Boys and Men *"Beyond zero-sum thinking on gender"* [[Commentary]](https://aibm.org/commentary/beyond-zero-sum-thinking-on-gender/)
-
 Reuters *"Despite sharp decline, inflation remains a sore point for Harris"* [[Article]](https://www.reuters.com/world/us/despite-sharp-decline-inflation-remains-sore-point-harris-2024-11-04/) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/11/Despite-sharp-decline-inflation-remains-a-sore-point-for-Harris-Reuters.pdf)
 
 The Guardian *"If the US is heading for a soft landing, why do people feel so hard up?"* [[Article]](https://www.theguardian.com/us-news/2024/nov/04/america-economy-election-voters) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/11/If-the-US-is-heading-for-a-soft-landing-why-do-people-feel-so-hard-up-US-elections-2024-The-Gu.pdf)
