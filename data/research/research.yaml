@@ -2,16 +2,17 @@
 
 workingpapers:
 
-- title: "Measuring What Is Top of Mind [NEW April 2024!]"
-  pdflink: "https://socialeconomicslab.org/measuring_whats_top_of_mind/"
+- title: "Understanding Economic Behavior Using Open-ended Survey Data [UPDATED! December 2024]"
+  pdflink: "https://socialeconomicslab.org/econ_behavior_open_ended_data/"
   coauthors: "Ingar Haaland, Christopher Roth and Johannes Wohlfart" 
-  book: "Harvard University Working Paper"
+  book: "NBER Working Paper 32421 [Revise and Resubmit at the Journal of Economic Literature]"
   year: "2024"
+  note: "An earlier version of this paper was circulated under the title “Measuring What Is Top of Mind”"
   links: 
     - url: "https://www.dropbox.com/scl/fi/8whsj7kyhvg7pjvykgmgb/Comin_lecture_June_2024.pdf?rlkey=vmqo48kawop7c3imu5wu6cjww&dl=0"
       text: "Lecture slides"
   abstract: > 
-   We survey the recent literature in economics measuring what is on top of people’s minds using open-ended questions. We first provide an overview of studies in political economy, macroeconomics, finance, labor economics, and behavioral economics that have employed such measurement. We next describe different ways of measuring the considerations that are on top of people’s minds. We also provide an overview of methods to annotate and analyze such data. Next, we discuss different types of applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. Our review highlights the potential of using open-ended questions to gain a deeper understanding of mechanisms underlying observed choices and expectations.
+   We survey the recent literature in economics using open-ended survey data to uncover mechanisms behind economic beliefs and behaviors. We first provide an overview of different applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. We next describe different ways of eliciting open-ended responses, including single-item open-ended questions, speech recordings, and AI-powered qualitative interviews. Subsequently, we discuss methods to annotate and analyze such data with a focus on recent advances in large language models. Our review concludes with a discussion of promising avenues for future research.
 
 - title: "People’s Understanding of Inflation [UPDATED! June 2024]"
   pdflink: "https://socialeconomicslab.org/understanding_inflation_bns/"
