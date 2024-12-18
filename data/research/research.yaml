@@ -14,19 +14,6 @@ workingpapers:
   abstract: > 
    We survey the recent literature in economics using open-ended survey data to uncover mechanisms behind economic beliefs and behaviors. We first provide an overview of different applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. We next describe different ways of eliciting open-ended responses, including single-item open-ended questions, speech recordings, and AI-powered qualitative interviews. Subsequently, we discuss methods to annotate and analyze such data with a focus on recent advances in large language models. Our review concludes with a discussion of promising avenues for future research.
 
-- title: "People’s Understanding of Inflation [UPDATED! June 2024]"
-  pdflink: "https://socialeconomicslab.org/understanding_inflation_bns/"
-  coauthors: "Alberto Binetti and Francesco Nuzzi" 
-  book: "Harvard University Working Paper"
-  year: "2024"
-  links:
-    - url: "https://socialeconomicslab.org/research/working-papers/peoples-understanding-of-inflation/"
-      text: "Online Appendix, Questionnaire and Slides"
-    - url: "https://x.com/S_Stantcheva/status/1792540000224981097"
-      text: "Summary Twitter Thread"
-  abstract: > 
-    This paper studies people’s understanding of inflation—their perceived causes, consequences, trade-offs—and the policies supported to mitigate its effects. We design a new, detailed online survey based on the rich existing literature in economics with two experimental components—a conjoint experiment and an information experiment—to examine how well public views align with established economic theories. Our key findings show that the major perceived causes of inflation include government actions, such as increased foreign aid and warrelated expenditures, alongside rises in production costs attributed to recent events like the COVID-19 pandemic, oil price fluctuations, and supply chain disruptions. Respondents anticipate many negative consequences of inflation but the most noted one is the increased complexity and difficulty in household decision-making. Partisan differences emerge distinctly, with Republicans more likely to attribute inflation to government policies and foresee broader negative outcomes, whereas Democrats anticipate greater inequality effects. Inflation is perceived as an unambiguously negative phenomenon without any potential positive economic correlates. Notably, there is a widespread belief that managing inflation can be achieved without significant trade-offs, such as reducing economic activity or increasing unemployment. These perceptions are hard to move experimentally. In terms of policy responses, there is resistance to monetary tightening, consistent with the perceived absence of trade-offs and the belief that it is unnecessary to reduce economic activity to fight inflation. The widespread misconception that inflation rises following increases in interest rates even leads to support for rate cuts to reduce inflation. There is a clear preference for policies that are perceived to have other benefits, such as reducing government debt in progressive ways or increasing corporate taxes, and for support for vulnerable households, despite potential inflationary effects.
-
 - title: "The How and Why of Household Reactions to Income Shocks [UPDATED! July 2024]"
   pdflink: "https://socialeconomicslab.org/how_and_why_of_reactions_to_shocks/"
   coauthors: "Roberto Colarieti and Pierfrancesco Mei" 
@@ -192,6 +179,19 @@ workingpapers:
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
   #2024
+- title: "People’s Understanding of Inflation"
+  pdflink: "https://socialeconomicslab.org/understanding_inflation_bns/"
+  coauthors: "Alberto Binetti and Francesco Nuzzi" 
+  book: "Journal of Monetary Economics 148: 103652"
+  year: "2024"
+  links:
+    - url: "https://socialeconomicslab.org/research/working-papers/peoples-understanding-of-inflation/"
+      text: "Online Appendix, Questionnaire and Slides"
+    - url: "https://x.com/S_Stantcheva/status/1792540000224981097"
+      text: "Summary Twitter Thread"
+  abstract: > 
+    This paper studies people’s understanding of inflation—their perceived causes, consequences, trade-offs-and the policies supported to mitigate its effects. We design a new, detailed online survey based on the rich existing literature in economics with two experimental components — a conjoint experiment and an information experiment — to examine how well public views align with established economic theories. Our key findings show that the major perceived causes of inflation include government actions, such as increased foreign aid and war-related expenditures, alongside rises in production costs attributed to recent events like the COVID-19 pandemic, oil price fluctuations, and supply chain disruptions. Respondents anticipate many negative consequences of inflation but the most noted one is the increased complexity and difficulty in household decision-making. Partisan differences emerge distinctly, with Republicans more likely to attribute inflation to government policies and foresee broader negative outcomes, whereas Democrats anticipate greater inequality effects. Inflation is perceived as an unambiguously negative phenomenon without any potential positive economic correlates. Notably, there is a widespread belief that managing inflation can be achieved without significant trade-offs, such as reducing economic activity or increasing unemployment. These perceptions are hard to move experimentally. In terms of policy responses, there is resistance to monetary tightening, consistent with the perceived absence of trade-offs and the belief that it is unnecessary to reduce economic activity to fight inflation. The widespread misconception that inflation rises following increases in interest rates even leads to support for rate cuts to reduce inflation. There is a clear preference for policies that are perceived to have other benefits, such as reducing government debt in progressive ways or increasing corporate taxes, and for support for vulnerable households, despite potential inflationary effects.
+
 - title: "Why do We Dislike Inflation?"
   pdflink: "https://socialeconomicslab.org/why_dislike_inflation/"
   book: "Spring 2024 Brookings Papers on Economic Activity (BPEA) issue"
