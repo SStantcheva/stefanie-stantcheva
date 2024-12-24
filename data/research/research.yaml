@@ -53,21 +53,6 @@ workingpapers:
   abstract: >
     We investigate the origins and implications of zero-sum thinking — the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of a representative sample of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Furthermore, zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement.
 
-- title: "Fighting Climate Change: International Attitudes Toward Climate Policies [UPDATED! November 2024]"
-  pdflink: "https://socialeconomicslab.org/international_attitudes_toward_climate_change/"
-  coauthors: "Antoine Dechezleprêtre, Adrien Fabre, Tobias Kruse, Bluebery Planterose, and Ana Sanchez Chico"
-  book: "NBER Working Paper 30265 [Conditionally Accepted at the American Economic Review]"
-  year: "2022" 
-  links:
-    - url: "https://socialeconomicslab.org/research/working-papers/fighting-climate-change-international-attitudes-toward-climate-policies/"
-      text: "Online Appendix, Questionnaire, Slides, Resources and Data, and Video Treatments"
-    - url: "https://www.dropbox.com/scl/fi/6asfqugwj27cfk92bd84d/Stantcheva_Talk_PEIF_March2024.pdf?rlkey=h8yxsjl1jr85fpwoeu555vzkv&dl=0"
-      text: "Slides"
-    - url: "https://twitter.com/s_stantcheva/status/1549744980243222529?s=21&t=YVKnoRgyaFg8ENM_fhXDhA"
-      text: "Summary Twitter Thread"
-  abstract: > 
-    This paper explores global perceptions and understanding of climate change and policies, examining factors that influence support for climate action and the impact of different types of information. We conduct large-scale surveys with 40,000 respondents from 20 countries, providing new international data on attitudes towards climate change and respondents’ socioeconomic backgrounds and lifestyles. We identify three key perceptions affecting policy support: perceived effectiveness of policies in reducing emissions, their impact on low-income households, and their effect on respondents’ households (self-interest). Educational videos clarifying policy mechanisms increase support for climate policies; those merely highlighting climate change’s impacts do not.
-
 - title: "Understanding of Trade [UPDATED! August 2023]"
   pdflink: "https://socialeconomicslab.org/understanding_trade/"
   book: "NBER Working Paper 30040 [Revise and Resubmit at the Review of Economic Studies]"
@@ -179,6 +164,21 @@ workingpapers:
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
   #2024
+- title: "Fighting Climate Change: International Attitudes Toward Climate Policies"
+  pdflink: "https://socialeconomicslab.org/international_attitudes_toward_climate_change/"
+  coauthors: "Antoine Dechezleprêtre, Adrien Fabre, Tobias Kruse, Bluebery Planterose, and Ana Sanchez Chico"
+  book: "American Economic Review"
+  year: "Forthcoming" 
+  links:
+    - url: "https://socialeconomicslab.org/research/working-papers/fighting-climate-change-international-attitudes-toward-climate-policies/"
+      text: "Online Appendix, Questionnaire, Slides, Resources and Data, and Video Treatments"
+    - url: "https://www.dropbox.com/scl/fi/6asfqugwj27cfk92bd84d/Stantcheva_Talk_PEIF_March2024.pdf?rlkey=h8yxsjl1jr85fpwoeu555vzkv&dl=0"
+      text: "Slides"
+    - url: "https://twitter.com/s_stantcheva/status/1549744980243222529?s=21&t=YVKnoRgyaFg8ENM_fhXDhA"
+      text: "Summary Twitter Thread"
+  abstract: > 
+    This paper explores global perceptions and understanding of climate change and policies, examining factors that influence support for climate action and the impact of different types of information. We conduct large-scale surveys with 40,000 respondents from 20 countries, providing new international data on attitudes towards climate change and respondents’ socioeconomic backgrounds and lifestyles. We identify three key perceptions affecting policy support: perceived effectiveness of policies in reducing emissions, their impact on low-income households, and their effect on respondents’ households (self-interest). Educational videos clarifying policy mechanisms increase support for climate policies; those merely highlighting climate change’s impacts do not.
+
 - title: "People’s Understanding of Inflation"
   pdflink: "https://socialeconomicslab.org/understanding_inflation_bns/"
   coauthors: "Alberto Binetti and Francesco Nuzzi" 
