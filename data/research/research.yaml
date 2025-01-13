@@ -163,6 +163,14 @@ workingpapers:
   abstract: >
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
+  #2025
+- title: "Perceptions, Mindsets and Beliefs Shaping Policy Views (2024 Economica-Coase Lecture)"
+  pdflink: "https://socialeconomicslab.org/stantcheva_economica_coase_lecture/"
+  book: "Economica"
+  year: "Forthcoming" 
+  links:
+    - url: "https://echo360.org.uk/media/2fd0745a-818b-427f-9f11-453d2d10f9c3/public"
+      text: "Recording of the Coase Lecture"  
   #2024
 - title: "Fighting Climate Change: International Attitudes Toward Climate Policies"
   pdflink: "https://socialeconomicslab.org/international_attitudes_toward_climate_change/"
