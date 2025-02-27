@@ -8,6 +8,8 @@ weight = 0
 
 Here is some selected media coverage of my research. 
 ### 2025
+Harvard Voices on Climate Change *"Public Opinion and Climate Policy"*: [[Video]](https://www.youtube.com/watch?v=wH82-1xi2to)
+
 The Christian Science Monitor *"Inflation’s lasting pressure: A hotel worker’s story shows the struggle"* [[Article]](https://www.csmonitor.com/Business/2025/0203/inflation-pay-economy-union?icid=rss)
 
 The Wall Street Journal *"Inflation Is Down to 3%. Why That Isn’t Good Enough."* [[Article]](https://www.wsj.com/economy/inflation-is-down-to-3-why-that-isnt-good-enough-884c1136?st=2X8eM6&reflink=article_copyURL_share) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2025/02/Inflation-Is-Down-to-3.-Why-That-Isnt-Good-Enough.-WSJ.pdf)
