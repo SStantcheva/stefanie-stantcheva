@@ -11,7 +11,7 @@ I study the **taxation** of firms and individuals, as well as **how people under
 
 I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the Harvard Society of Fellows 2014-2016 before joining the Harvard Department of Economics in July 2016. I am currently co-editor of the Quarterly Journal of Economics. 
 
-[Full CV](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_feb2025.pdf)
+[Full CV](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_mar2025.pdf)
 
 Current [Research Statement](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/ss_research_statement.pdf)
 
