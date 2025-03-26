@@ -35,7 +35,7 @@ workingpapers:
   abstract: > 
    We survey the recent literature in economics using open-ended survey data to uncover mechanisms behind economic beliefs and behaviors. We first provide an overview of different applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. We next describe different ways of eliciting open-ended responses, including single-item open-ended questions, speech recordings, and AI-powered qualitative interviews. Subsequently, we discuss methods to annotate and analyze such data with a focus on recent advances in large language models. Our review concludes with a discussion of promising avenues for future research.
 
-- title: "The How and Why of Household Reactions to Income Shocks [UPDATED! July 2024]"
+- title: "The How and Why of Household Reactions to Income Shocks [UPDATED! March 2025]"
   pdflink: "https://socialeconomicslab.org/how_and_why_of_reactions_to_shocks/"
   coauthors: "Roberto Colarieti and Pierfrancesco Mei" 
   book: "NBER Working Paper 32191"
