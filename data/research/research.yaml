@@ -23,15 +23,6 @@ workingpapers:
   abstract: > 
    This paper investigates the growing role of emotions in shaping policy views. Analyzing social citizens' media postings and political party messaging over a large variety of policy issues from 2013 to 2024, we document a sharp rise in negative emotions, particularly anger. Content generating anger drives significantly more engagement. We then conduct two nationwide online experiments in the U.S, exposing participants to video treatments that induce positive or negative emotions to measure their causal effects on policy views. The results show that negative emotions increase support for protectionism, restrictive immigration policies, redistribution, and climate policies but do not reinforce populist attitudes. In contrast, positive emotions have little effect on policy preferences but reduce populist inclinations. Finally, distinguishing between fear and anger, we find that anger exerts a much stronger influence on citizens’ policy views, in line with its growing presence in the political rhetoric.
 
-- title: "Understanding Economic Behavior Using Open-ended Survey Data [UPDATED! December 2024]"
-  pdflink: "https://socialeconomicslab.org/econ_behavior_open_ended_data/"
-  coauthors: "Ingar Haaland, Christopher Roth, and Johannes Wohlfart" 
-  book: "NBER Working Paper 32421 [Revise and Resubmit at the Journal of Economic Literature]"
-  year: "2024"
-  note: "An earlier version of this paper was circulated under the title “Measuring What Is Top of Mind”"
-  abstract: > 
-   We survey the recent literature in economics using open-ended survey data to uncover mechanisms behind economic beliefs and behaviors. We first provide an overview of different applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. We next describe different ways of eliciting open-ended responses, including single-item open-ended questions, speech recordings, and AI-powered qualitative interviews. Subsequently, we discuss methods to annotate and analyze such data with a focus on recent advances in large language models. Our review concludes with a discussion of promising avenues for future research.
-
 - title: "The How and Why of Household Reactions to Income Shocks [UPDATED! March 2025]"
   pdflink: "https://socialeconomicslab.org/how_and_why_of_reactions_to_shocks/"
   coauthors: "Roberto Colarieti and Pierfrancesco Mei" 
@@ -183,6 +174,15 @@ workingpapers:
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
   #2025
+- title: "Understanding Economic Behavior Using Open-ended Survey Data"
+  pdflink: "https://socialeconomicslab.org/econ_behavior_open_ended_data/"
+  coauthors: "Ingar Haaland, Christopher Roth, and Johannes Wohlfart" 
+  book: "Journal of Economic Literature"
+  year: "Forthcoming"
+  note: "An earlier version of this paper was circulated under the title “Measuring What Is Top of Mind”"
+  abstract: > 
+   We survey the recent literature in economics using open-ended survey data to uncover mechanisms behind economic beliefs and behaviors. We first provide an overview of different applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. We next describe different ways of eliciting open-ended responses, including single-item open-ended questions, speech recordings, and AI-powered qualitative interviews. Subsequently, we discuss methods to annotate and analyze such data with a focus on recent advances in large language models. Our review concludes with a discussion of promising avenues for future research.
+  
 - title: "Perceptions, Mindsets and Beliefs Shaping Policy Views (2024 Economica-Coase Lecture)"
   pdflink: "https://socialeconomicslab.org/stantcheva_economica_coase_lecture/"
   book: "Economica"
