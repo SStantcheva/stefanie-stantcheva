@@ -29,13 +29,13 @@ b<h1 class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">{{ .Site.Title
 <p class="sidebar">
 	<img src="{{ "/icons/twitter-white.png" | relURL }}" class="octicons">
 <a class="sidebar" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
-@{s-stantcheva.bsky.social}
+@{{ .Site.Params.Twitter }}
 </a></p>
 
 <p class="sidebar">
 	<img src="{{ "/icons/bluesky-logo_white.jpeg" | relURL }}" class="octicons">
 <a class="sidebar" href="https://bsky.app/profile/s-stantcheva.bsky.social" target="_blank">
-@{{ .Site.Params.Twitter }}
+@{s-stantcheva.bsky.social}
 </a></p>
 
 {{ with .Site.Params.logo }}
