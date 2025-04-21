@@ -8,7 +8,9 @@ weight = 0
 
 Here is some selected media coverage of my research. 
 ### 2025
-Harvard Voices on Climate Change *"Public Opinion and Climate Policy"*: [[Video]](https://www.youtube.com/watch?v=wH82-1xi2to)
+Harvard Magazine *"Democrats, Republicans, and Zero-Sum Thinking"* [[Article]](https://www.harvardmagazine.com/2025/04/harvard-research-republicans-democrats-zero-sum-thinking) [[Video]](https://www.youtube.com/watch?v=e16o_j1tvXk)
+
+Harvard Voices on Climate Change *"Public Opinion and Climate Policy"* [[Video]](https://www.youtube.com/watch?v=wH82-1xi2to)
 
 The Christian Science Monitor *"Inflation’s lasting pressure: A hotel worker’s story shows the struggle"* [[Article]](https://www.csmonitor.com/Business/2025/0203/inflation-pay-economy-union?icid=rss)
 
