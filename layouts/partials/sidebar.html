@@ -32,6 +32,12 @@ b<h1 class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">{{ .Site.Title
 @{{ .Site.Params.Twitter }}
 </a></p>
 
+<p class="sidebar">
+	<img src="{{ "/icons/bluesky-logo_white.jpeg" | relURL }}" class="octicons">
+<a class="sidebar" href="https://bsky.app/profile/s-stantcheva.bsky.social" target="_blank">
+@{{ .Site.Params.Twitter }}
+</a></p>
+
 {{ with .Site.Params.logo }}
 {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
 <img src="{{ . | relURL }}" alt="Logo" style="padding-bottom: 3em;"/>
