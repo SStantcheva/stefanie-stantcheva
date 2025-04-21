@@ -6,7 +6,7 @@ title = "Homepage"
 
 I am the Nathaniel Ropes Professor of Political Economy at Harvard and founder and director of the [Social Economics Lab](http://socialeconomicslab.org/).
 
-I study the **taxation** of firms and individuals, as well as **how people understand, perceive, and form their attitudes** towards economic issues and policies. My recent work explores people’s attitudes towards taxation, trade, immigration, climate change, and social mobility using **large-scale Social Economic Surveys and Experiments**. 
+I study the **taxation** of firms and individuals, as well as **how people understand, perceive, and form their attitudes** towards economic issues and policies. My recent work explores people’s attitudes towards taxation, trade, immigration, climate change, and social mobility using **large-scale Social Economics Surveys and Experiments**. 
 
 I have also studied the long-lasting effects of tax policy – on innovation, education, and wealth. Some examples include how R&D policies can be improved to foster innovation, how income and corporate taxes have shaped innovation over the 20th century, and how student loans can be structured to improve access to education. 
 
