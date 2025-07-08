@@ -8,6 +8,10 @@ weight = 0
 
 This page features pieces based on my research and that of others and that are intended for a non-academic audience.
 
+**2025:**
+
+The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
+
 **2024:**
 
 American Institute for Boys and Men *"Beyond zero-sum thinking on gender"* [[Commentary]](https://aibm.org/commentary/beyond-zero-sum-thinking-on-gender/)
