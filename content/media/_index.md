@@ -7,6 +7,7 @@ weight = 0
 ## Media
 
 Here is some selected media coverage of my research. 
+
 ### 2025
 The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
 
