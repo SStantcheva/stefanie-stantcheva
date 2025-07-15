@@ -10,6 +10,8 @@ This page features pieces based on my research and that of others and that are i
 
 **2025:**
 
+NBER talk *"Taxation and Innovation"* [[PDF]](https://socialeconomicslab.org/taxation_innovation_nber2025/)
+
 The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
 
 **2024:**
