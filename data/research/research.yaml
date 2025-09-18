@@ -1,6 +1,17 @@
 #worksinprogress:
 
 workingpapers:
+- title: "How Americans Think About Health Care and Insurance [NEW! September 2025]"
+  pdflink: "https://socialeconomicslab.org/understanding_health/"
+  coauthors: "Gregory Tham" 
+  book: "Harvard University Working Paper"
+  year: "2025"
+  links: 
+    - url: "https://socialeconomicslab.org/research/working-papers/how-americans-think-about-health-care-and-insurance/"
+      text: "Paper and Slides"
+  abstract: > 
+   This paper investigates how Americans perceive and reason about health insurance policies through two large-scale surveys and experiments conducted in 2019 and 2025. We elicit open-ended considerations, measure factual knowledge, and examine policy views on redistribution, fairness, and efficiency. While respondents broadly agree on the benefits of expanded coverage, cost concerns dominate, and partisan divides remain sharp. Our experiments show that abstract efficiency- and equity-based arguments have limited effects on policy preferences. By contrast, concrete information about existing programs, especially Medicaid, significantly increases support for their expansion, suggesting program-specific communication may be a powerful tool for shaping public opinion.
+
 - title: "The 2025 US Tariffs: Perceptions, Understanding, and Policy Views [NEW! July 2025]"
   pdflink: "https://socialeconomicslab.org/trade_tariffs_survey/"
   coauthors: "Gregory Tham" 
