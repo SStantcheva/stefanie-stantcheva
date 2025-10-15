@@ -694,25 +694,25 @@ policypapers:
     I study how people understand, reason, and learn about two major tax policies: income taxation and estate taxation. I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. In decomposing policy views, I find that support for income and estate taxes is most strongly correlated with social preferences, i.e., the perceived benefits of redistribution and concerns around the fairness of inequality and taxation, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the "Redistribution" and the "Efficiency" treatments) or that bring the two together and focus on the trade-off (the "Economist" treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive income or estate taxes, while the Efficiency treatment has no effect. There are large partisan gaps, not just in the final policy views, but also at every step of the reasoning about the underlying mechanisms of taxes. Democrats and Republicans' divergences in tax policy views can ultimately be traced back to different normative criteria (social preferences) and views of the government, rather than to different perceptions of the efficiency implications of taxation.
 
 - title: "Economic Inequality and Insecurity: Policies for an Inclusive Economy"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/rodrik_and_stantcheva_report_for_macron_commission.pdf"
+  pdflink: "https://stantcheva.scholars.harvard.edu/resource/rodrikandstantchevareportformacroncommissionpdf"
   book_edited: "Report Prepared for Commission Chaired by Olivier Blanchard and Jean Tirole on Major Future Economic Challenges, France"
   coauthors: "Dani Rodrik"
   year: "2021"
   other_text: "Additional Links"
   other:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-anglais-les_grands_defis_economiques-juin.pdf"
+    - url: "https://stantcheva.scholars.harvard.edu/resource/fs-2021-rapport-anglais-lesgrandsdefiseconomiques-juinpdf"
       text: "Full Report"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-anglais-synthese_et_chapitre_introductif-les_grands_defis_economiques-juin.pdf"
+    - url: "https://stantcheva.scholars.harvard.edu/resource/fs-2021-rapport-anglais-syntheseetchapitreintroductif-lesgrandsdefiseconomiques-juinpdf"
       text: "Summary"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-les_grands_defis_economiques-juin.pdf"
+    - url: "https://stantcheva.scholars.harvard.edu/resource/fs-2021-rapport-lesgrandsdefiseconomiques-juinpdf"
       text: "Full Report [French]"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/fs-2021-rapport-synthese_et_chapitre_introductif-les_grands_defis_economiques-juin.pdf"
+    - url: "https://stantcheva.scholars.harvard.edu/resource/fs-2021-rapport-syntheseetchapitreintroductif-lesgrandsdefiseconomiques-juinpdf"
       text: "Summary [French]"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/blanchard-tirole-annexes-22juin18h.pdf"
+    - url: "https://stantcheva.scholars.harvard.edu/resource/blanchard-tirole-annexes-22juin18hpdf"
       text: "Appendix"
 
 - title: "Why do we not Support more Redistribution? New Explanations from Economics Research"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf"
+  pdflink: "https://stantcheva.scholars.harvard.edu/resource/stantchevav2pdf"
   book_edited: "Combating Inequality: Rethinking Policies to Reduce Inequality in Advanced Economies"
   editors: "Dani Rodrik and Olivier Blanchard, MIT University Press"
   year: "2021"
@@ -720,7 +720,7 @@ policypapers:
 # 2020
 
 - title: "Disparities in Coronavirus 2019 Reported Incidence, Knowledge, and Behavior Among US Adults"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alsan_2020_oi_200469.pdf"
+  pdflink: "https://stantcheva.scholars.harvard.edu/resource/alsan2020oi200469pdf"
   book: "JAMA Network Open"
   coauthors: "Marcella Alsan, David Yang, and David Cutler"
   year: "2020"
