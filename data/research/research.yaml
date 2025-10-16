@@ -343,7 +343,7 @@ publications:
   links:
   - url: "https://stantcheva.scholars.harvard.edu/resource/akcigithanleystantchevardpoliciessmpdf"
     text: "Supplementary Material"
-  - url: "https://scholar.harvard.edu/files/stantcheva/files/optimal_taxation_and_rd_policies_-_replication_packet.zip"
+  - url: "https://www.dropbox.com/scl/fi/szy3ix6gme83xjr2vjbus/optimal_taxation_and_rd_policies_-_replication_packet.zip?dl=0&e=1&rlkey=9iwv48hq9jhx0g55489zsdqbo"
     text: "Data and codes"
   abstract: >
     We study the optimal design of corporate taxation and R&D policies as a dynamic mechanism design problem with spillovers. Firms have heterogeneous research productivity, and that research productivity is private information. There are non-internalized technological spillovers across firms, but the asymmetric information prevents the government from correcting them in the first best way. We highlight that key parameters for the optimal policies are (i) the relative complementarities between observable R&D investments, unobservable R&D inputs, and firm research productivity, (ii) the dispersion and persistence of firms’ research productivities, and (iii) the magnitude of technological spillovers across firms. We estimate our model using firm-level data matched to patent data and quantify the optimal policies. In the data, high research productivity firms get disproportionately higher returns to R&D investments than lower productivity firms. Very simple innovation policies, such as linear corporate taxes combined with a nonlinear R&D subsidy—which provides lower marginal subsidies at higher R&D levels—can do almost as well as the unrestricted optimal policies. Our formulas and theoretical and numerical methods are more broadly applicable to the provision of firm incentives in dynamic settings with asymmetric information and spillovers, and to firm taxation more generally.
@@ -586,7 +586,7 @@ publications:
   coauthors: "Thomas Piketty and Emmanuel Saez"
   year: "2014"
   links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/files_nberwp.zip"
+    - url: "https://www.dropbox.com/scl/fi/76n3h945x04mvfrmvd7v6/Files_nberwp.zip?dl=0&e=1&rlkey=paw2tzo9y7ylqpx95peliap0w"
       text: "Data"
   presscoverage:
     - url: "https://stantcheva.scholars.harvard.edu/resource/vox-piece-march-2019"
