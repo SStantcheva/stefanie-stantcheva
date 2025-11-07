@@ -73,19 +73,6 @@ workingpapers:
   abstract: >
     We study the history and geography of wealth accumulation in the US, using newly collected historical property tax records since the early 1800s. The US General Property Tax was a comprehensive tax on all types of property (real, personal, and financial), making it one of the first ``wealth taxes.'' Drawing on many historical records, we construct long-run, consistent, high-frequency wealth series at the county, state, and national levels. We first document the long-term evolution of household wealth in the US since the early 1800s. The US experienced extraordinary wealth accumulation after the Civil war and until the Great Depression. Second, we reveal that spatial inequality in the US has been large and highly persistent since the mid-1800s, driven mainly by Southern states, whose long-run divergence from the rest of the US predated the Civil War. Before the Civil war, enslaved people were assessed as personal property of the enslavers, representing almost one-half of total taxable property in Southern states. This system is morally abhorrent and implies wrongly counting forced labor income as capital. The regional distribution of wealth and the effects of the Civil war appear very different if enslaved people are not included in the property measure. Third, we investigate the determinants of long-term wealth growth and capital accumulation. Among others, we find that counties with a higher share of enslaved property before the Civil War or higher levels of wealth inequality experienced lower subsequent long-run growth in property. 
 
-- title: "Zero-Sum Thinking and the Roots of U.S. Political Differences [UPDATED! January 2025]" 
-  pdflink: "https://socialeconomicslab.org/zero_sum_political_divides/"
-  coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
-  book: "NBER Working Paper 31688 [Conditionally Accepted at the American Economic Review]"
-  year: "2023" 
-  links:
-    - url: "https://socialeconomicslab.org/research/working-papers/zero-sum-thinking-and-the-roots-of-u-s-political-divides/"
-      text: "Online Appendix, Questionnaire, and Slides"
-    - url: "https://x.com/s_stantcheva/status/1703765533571616809?s=46"
-      text: "Summary Twitter Thread"
-  abstract: >
-    We investigate the origins and implications of zero-sum thinking — the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of a representative sample of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Furthermore, zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement.
-
 - title: "Understanding of Trade [UPDATED! August 2023]"
   pdflink: "https://socialeconomicslab.org/understanding_trade/"
   book: "NBER Working Paper 30040 [Revise and Resubmit at the Review of Economic Studies]"
@@ -198,6 +185,19 @@ workingpapers:
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
   #2025
+- title: "Zero-Sum Thinking and the Roots of U.S. Political Differences [UPDATED! January 2025]" 
+  pdflink: "https://socialeconomicslab.org/zero_sum_political_divides/"
+  coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
+  book: "American Economic Review"
+  year: "Forthcoming" 
+  links:
+    - url: "https://socialeconomicslab.org/research/working-papers/zero-sum-thinking-and-the-roots-of-u-s-political-divides/"
+      text: "Online Appendix, Questionnaire, and Slides"
+    - url: "https://x.com/s_stantcheva/status/1703765533571616809?s=46"
+      text: "Summary Twitter Thread"
+  abstract: >
+    We investigate the origins and implications of zero-sum thinking — the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of a representative sample of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Furthermore, zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement.
+  
 - title: "Understanding Economic Behavior Using Open-ended Survey Data"
   pdflink: "https://socialeconomicslab.org/econ_behavior_open_ended_data/"
   coauthors: "Ingar Haaland, Christopher Roth, and Johannes Wohlfart" 
