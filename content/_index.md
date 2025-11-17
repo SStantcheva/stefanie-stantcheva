@@ -20,7 +20,7 @@ Current [Research Statement](https://scholar.harvard.edu/sites/scholar.harvard.e
 
 To learn more about people’s understanding, perceptions, and views of public policies, visit the [Social Economics Lab website](http://socialeconomicslab.org/). 
 
-Here is an older (2021) [Research Summary](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf) and a short [focus piece](https://www.nber.org/reporter/2018number3/taxation-and-innovation) about my research on “Taxation and Innovation."
+Here is an older (2021) [Research Summary](https://stantcheva.scholars.harvard.edu/resource/econdynamic2104pdf) and a short [focus piece](https://www.nber.org/reporter/2018number3/taxation-and-innovation) about my research on “Taxation and Innovation."
 
 
 ## Contact
