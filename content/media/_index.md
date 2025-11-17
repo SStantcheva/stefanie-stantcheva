@@ -221,7 +221,7 @@ Project Syndicate *"Prisoners of the American Dream"*: [[Article]](https://stant
 
 Stanford Policy Brief, Dec 2017: [[Policy Brief]](https://siepr.stanford.edu/research/publications/tax-reform-optimal-equation)
 
-NBER Summer Institute 2017 Interview: [[Video]](https://scholar.harvard.edu/files/stantcheva/files/nber_summer_2017_stantcheva_sequence.01.mp4)
+NBER Summer Institute 2017 Interview: [[Video]](https://stantcheva.scholars.harvard.edu/sites/g/files/omnuum7746/files/stantcheva/files/nber_summer_2017_stantcheva_sequence.01.mp4)
 
 ### 2016
 
