@@ -16,7 +16,7 @@ I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the
 
 [Full CV](https://stantcheva.scholars.harvard.edu/sites/g/files/omnuum7746/files/2025-08/CV_SStantcheva_Aug2025.pdf)
 
-Current [Research Statement](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/ss_research_statement.pdf)
+Current [Research Statement](https://stantcheva.scholars.harvard.edu/resource/ssresearchstatement)
 
 To learn more about people’s understanding, perceptions, and views of public policies, visit the [Social Economics Lab website](http://socialeconomicslab.org/). 
 
