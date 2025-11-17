@@ -50,7 +50,7 @@ New York Times *"No, Americans Are Not Completely Stupid About Inflation"* [[Art
 
 Brookings Podcast on Economic Activity *"What do Americans think about inflation?"* [[Podcast]](https://www.brookings.edu/articles/what-do-americans-think-about-inflation/)
 
-The Economist *"Is inflation morally wrong?"*  [[Article]](https://www.economist.com/finance-and-economics/2024/04/25/is-inflation-morally-wrong) [[PDF]](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/stantcheva/files/economist_is_inflation_morally_wrong.pdf)
+The Economist *"Is inflation morally wrong?"*  [[Article]](https://www.economist.com/finance-and-economics/2024/04/25/is-inflation-morally-wrong) [[PDF]](https://stantcheva.scholars.harvard.edu/resource/economistisinflationmorallywrongpdf)
 
 Forbes *"How Zero-Sum Thinking May Affect Attitudes About Taxes"*  [[Article]](https://www.forbes.com/sites/howardgleckman/2024/04/19/how-zero-sum-thinking-may-affect-attitudes-about-taxes/?sh=47c0a0e1bb75)
 
@@ -81,13 +81,13 @@ Frankfurter Allgemeine *"Dein Gewinn ist mein Verlust"* [[Article, in German]](h
 
 ### 2022
 
-NBER Keynote *"Mobility: Facts, Perceptions, and Policy"* [[Video]](https://www.youtube.com/watch?v=9NVXCbSU464) [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/nber_mobility_2022_v4b.pdf)
+NBER Keynote *"Mobility: Facts, Perceptions, and Policy"* [[Video]](https://www.youtube.com/watch?v=9NVXCbSU464) [[Slides]](https://stantcheva.scholars.harvard.edu/resource/nbermobility2022v4bpdf)
 
-ELLE Canada *"ELLE 100: Women That Are Changing the World"* [[Article]](https://www.ellecanada.com/culture/society/elle-100-women-that-are-changing-the-world) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/elle_100.pdf)
+ELLE Canada *"ELLE 100: Women That Are Changing the World"* [[Article]](https://www.ellecanada.com/culture/society/elle-100-women-that-are-changing-the-world) [[PDF]](https://stantcheva.scholars.harvard.edu/resource/elle100pdf)
 
-L'Usine Nouvelle *"Aidons les ménages à s'équiper en technos bas carbone"* [[PDF, in French]](https://scholar.harvard.edu/files/stantcheva/files/usine_nouvelle_entretien.pdf)
+L'Usine Nouvelle *"Aidons les ménages à s'équiper en technos bas carbone"* [[PDF, in French]](https://stantcheva.scholars.harvard.edu/resource/usinenouvelleentretienpdf)
 
-IMF *"Getting into People's Heads"* [[Article]](https://www.imf.org/en/Publications/fandd/issues/2022/09/PIE-Getting-into-people-heads-Stefanie-Stantcheva) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/imf-people-economics-stantcheva.pdf)
+IMF *"Getting into People's Heads"* [[Article]](https://www.imf.org/en/Publications/fandd/issues/2022/09/PIE-Getting-into-people-heads-Stefanie-Stantcheva) [[PDF]](https://stantcheva.scholars.harvard.edu/resource/imf-people-economics-stantchevapdf)
 
 The New Bazaar *"What do we think?"* [[Podcast]](https://www.bazaaraudio.com/the-new-bazaar/what-do-we-think)
 
@@ -111,17 +111,17 @@ Seventh Richard Goode Lecture at the IMF *"How Do People Think about the Economy
 
 LSE Talk *"Europe's Recovery Programs"* [[Podcast]](https://www.lse.ac.uk/lse-player?id=4705b793-c64c-4b20-98da-118517af9aba)
 
-Harvard Gazette *"U.S. Teens are Following their Parents into Racial Divide"* [[Article]](https://news.harvard.edu/gazette/story/2021/10/teens-following-parents-into-racial-divide-study-finds/) [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/u.s._teens_are_following_their_parents_into_racial_divide.pdf)
+Harvard Gazette *"U.S. Teens are Following their Parents into Racial Divide"* [[Article]](https://news.harvard.edu/gazette/story/2021/10/teens-following-parents-into-racial-divide-study-finds/) [[PDF]](https://stantcheva.scholars.harvard.edu/resource/usteensarefollowingtheirparentsintoracialdividepdf)
 
 The IFS Deaton Review *"What's Wrong with Inequality?"* [[Video]](https://www.youtube.com/watch?v=V4ekwZJd9-A&t=3411s)
 
 The IFS Deaton Review *"Major Economic Challenges: Inequality"* [[Video]](https://www.youtube.com/watch?v=hjC74dNvztY&t=1s)
 
-Les Echos *"Stefanie Stantcheva, la nouvelle star de l'économie"* [[Article, in French]](https://www.lesechos.fr/idees-debats/editos-analyses/stefanie-stantcheva-la-nouvelle-star-de-leconomie-1313763) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/lesechos_210510.pdf)
+Les Echos *"Stefanie Stantcheva, la nouvelle star de l'économie"* [[Article, in French]](https://www.lesechos.fr/idees-debats/editos-analyses/stefanie-stantcheva-la-nouvelle-star-de-leconomie-1313763) [[Full PDF]](https://stantcheva.scholars.harvard.edu/resource/lesechos210510pdf)
 
-EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/econ_dynamic_2104.pdf)
+EconomicDynamics Research Agenda *"Stefanie Stantcheva on Taxes, Transfers, and Redistribution"* [[Article]](https://www.economicdynamics.org/research-agenda-stantcheva2021/) [[Full PDF]](https://stantcheva.scholars.harvard.edu/resource/econdynamic2104pdf)
 
-Harvard Gazette *"Stantcheva Honored by Carnegie Corporation"* [[Article]](https://news.harvard.edu/gazette/story/2021/04/harvard-economics-professor-named-2021-andrew-carnegie-fellow/) [[Full PDF]](https://scholar.harvard.edu/files/stantcheva/files/2021_andrew_carnegie_fellow-harvard_gazette.pdf)
+Harvard Gazette *"Stantcheva Honored by Carnegie Corporation"* [[Article]](https://news.harvard.edu/gazette/story/2021/04/harvard-economics-professor-named-2021-andrew-carnegie-fellow/) [[Full PDF]](https://stantcheva.scholars.harvard.edu/resource/2021andrewcarnegiefellow-harvardgazettepdf)
 
 Carnegie Corporation of New York *"2021 Andrew Carnegie Fellows Recipient"*: [[Article]](https://www.carnegie.org/awards/honoree/stefanie-stantcheva/)
 
@@ -149,7 +149,7 @@ Vox EU Talks *"The Polarization of Reality"*: [[Podcast]](https://voxeu.org/vox-
 
 Deep Background with Noah Feldman *"The Economic Impact of COVID-19"*: [[Podcast]](https://www.pushkin.fm/episode/the-economic-impact-of-covid-19/)
 
-New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://scholar.harvard.edu/files/stantcheva/files/polarization_nytimes.pdf)
+New York Times *"Trump is Waiting and He is Ready"*: [[Article]](https://stantcheva.scholars.harvard.edu/resource/polarizationnytimespdf)
  
 NPR The Indicator *"Even the Facts are Polarized"*: [[Podcast]](https://www.npr.org/transcripts/802417653)
 
@@ -157,21 +157,21 @@ The Week *"The Lie of the Immigrant Welfare Queen"*: [[Article]](https://theweek
 
 Vox EU *"Can populist economics coexist with pro-immigrant policies?"*: [[Article]](https://www.vox.com/future-perfect/2020/1/15/21065368/immigration-misperceptions-taxes-spending-nativism-study-alesina-stantcheva)
 
-Bloomberg Opinion *"Why Hostility to Immigration Runs So Deep"*: [[Article]](https://scholar.harvard.edu/files/stantcheva/files/bloomberg.pdf)
+Bloomberg Opinion *"Why Hostility to Immigration Runs So Deep"*: [[Article]](https://stantcheva.scholars.harvard.edu/resource/bloombergpdf)
 
-ASSA The Deaton Review Session by Richard Blundell: [[Slides]](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_3.pdf)
+ASSA The Deaton Review Session by Richard Blundell: [[Slides]](https://stantcheva.scholars.harvard.edu/resource/assaslides2020)
 
 France Culture *"Entendez-vous l'éco?"*: [[Podcast, in French]](https://www.franceculture.fr/emissions/entendez-vous-leco/profession-economiste-33-a-la-recherche-du-juste-impot-avec-stefanie-stantcheva)
 
 ### 2019
 
-Le Monde *"Donner à chacun les moyens de mieux raisonner par soi-même"*: [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/finale.pdf)
+Le Monde *"Donner à chacun les moyens de mieux raisonner par soi-même"*: [[Article, in French]](https://stantcheva.scholars.harvard.edu/resource/finalepdf)
 
 Peterson Institute Conference on *"Combating Inequality"*, Session on *Taxing Capital*: [[Video]](https://www.youtube.com/watch?v=AbRSNO3-0Ik&feature=youtu.be&t=24535)
 
-De Standaard on the *Gaston Eyskens Chair 2019*: [[Article, in Dutch]](https://scholar.harvard.edu/files/stantcheva/files/ds_2019-10-26_stantcheva_gaston_eyskens_2019.jpg?m=1574690182) 
+De Standaard on the *Gaston Eyskens Chair 2019*: [[Article, in Dutch]](https://stantcheva.scholars.harvard.edu/sites/g/files/omnuum7746/files/stantcheva/files/ds_2019-10-26_stantcheva_gaston_eyskens_2019.jpg) 
 
-De Tijd *"Groene belasting werkt maar als je auto kan ruilen voor bus"*: [[Article, in Dutch]](https://scholar.harvard.edu/files/stantcheva/files/groene_belasting_werkt_maar_als_je_auto_kan_ruilen_voor_bus_de_tijd.pdf)
+De Tijd *"Groene belasting werkt maar als je auto kan ruilen voor bus"*: [[Article, in Dutch]](https://stantcheva.scholars.harvard.edu/resource/groenebelastingwerktmaaralsjeautokanruilenvoorbusdetijdpdf)
 
 Vanity Fair *"The 50 most Influential French People in the World in 2019"*: [[Article, in French]](https://www.vanityfair.fr/culture/people/story/les-50-francais-les-plus-influents-du-monde-en-2019/10676)
 
@@ -181,7 +181,7 @@ France Info *"L'invite eco"*:  [[Video, in French]](https://www.francetvinfo.fr/
 
 New York Times coverage of our paper *"Intergenerational Mobility and Support for Redistribution"*: [[Article]](https://www.nytimes.com/2019/07/04/business/economy/social-mobility-south.html?action=click&module=Top%20Stories&pgtype=Homepage)
 
-Society Magazine: [[Article, in French]](https://scholar.harvard.edu/files/stantcheva/files/010-011_society_110.pdf)
+Society Magazine: [[Article, in French]](https://stantcheva.scholars.harvard.edu/resource/010-011society110pdf)
 
 Rencontres Economiques de Aix Session *"La fiscalite est-elle decisive pour nos comportements?"*: [[Video, in French]](https://www.youtube.com/watch?time_continue=71&v=YqN3jqZi1ms)
 
