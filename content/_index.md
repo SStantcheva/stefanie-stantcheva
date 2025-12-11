@@ -14,7 +14,7 @@ I am the recipient of the 2025 John Bates Clark Medal, awarded each year to an A
 
 I received my Ph.D. in Economics from MIT in 2014 and was a junior fellow at the Harvard Society of Fellows 2014-2016 before joining the Harvard Department of Economics in July 2016. I am currently co-editor of the Quarterly Journal of Economics.
 
-[Full CV](https://stantcheva.scholars.harvard.edu/sites/g/files/omnuum7746/files/2025-08/CV_SStantcheva_Aug2025.pdf)
+[Full CV](https://stantcheva.scholars.harvard.edu/resource/cvsstantcheva)
 
 Current [Research Statement](https://stantcheva.scholars.harvard.edu/resource/ssresearchstatement)
 
