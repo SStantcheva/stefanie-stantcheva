@@ -9,9 +9,9 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2025
-World Economic Forum 2026 *"How Housing Became a Bottleneck" [[Video]](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/sessions/how-housing-became-a-bottleneck/)
+World Economic Forum 2026 *"How Housing Became a Bottleneck"* [[Video]](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/sessions/how-housing-became-a-bottleneck/)
 
-World Economic Forum 2026 *"Healthcare: Cost or Investment" [[Video]](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/sessions/healthcare-cost-or-investment/)
+World Economic Forum 2026 *"Healthcare: Cost or Investment"* [[Video]](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/sessions/healthcare-cost-or-investment/)
 
 la Repubblica *"Interview with la Repubblica on zero-sum thinking and research at the Social Economics Lab"* [[Article]](https://www.repubblica.it/economia/2026/01/19/news/intervista_stantchevadavos_economia_somma_zero-425103499/?ref=pay_amp) [[PDF, in Italian]](https://socialeconomicslab.org/la_repubblica_article/)
 
