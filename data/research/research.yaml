@@ -1,17 +1,6 @@
 #worksinprogress:
 
 workingpapers:
-- title: "How Americans Think About Health Care and Insurance [NEW! September 2025]"
-  pdflink: "https://socialeconomicslab.org/understanding_health/"
-  coauthors: "Beatrice Ferrario" 
-  book: "Harvard University Working Paper"
-  year: "2025"
-  links: 
-    - url: "https://socialeconomicslab.org/research/working-papers/how-americans-think-about-health-care-and-insurance/"
-      text: "Paper and Slides"
-  abstract: > 
-   This paper investigates how Americans perceive and reason about health insurance policies through two large-scale surveys and experiments conducted in 2019 and 2025. We elicit open-ended considerations, measure factual knowledge, and examine policy views on redistribution, fairness, and efficiency. While respondents broadly agree on the benefits of expanded coverage, cost concerns dominate, and partisan divides remain sharp. Our experiments show that abstract efficiency- and equity-based arguments have limited effects on policy preferences. By contrast, concrete information about existing programs, especially Medicaid, significantly increases support for their expansion, suggesting program-specific communication may be a powerful tool for shaping public opinion.
-
 - title: "The 2025 US Tariffs: Perceptions, Understanding, and Policy Views [NEW! July 2025]"
   pdflink: "https://socialeconomicslab.org/trade_tariffs_survey/"
   coauthors: "Gregory Tham" 
@@ -186,8 +175,20 @@ workingpapers:
   abstract: >
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
+  #2026
+- title: "How Americans Think About Health Care and Insurance"
+  pdflink: "https://socialeconomicslab.org/understanding_health/"
+  coauthors: "Beatrice Ferrario" 
+  book: "Tax Policy and The Economy, Volume 40"
+  year: "forthcoming"
+  links: 
+    - url: "https://socialeconomicslab.org/research/working-papers/how-americans-think-about-health-care-and-insurance/"
+      text: "Paper and Slides"
+  abstract: > 
+   This paper investigates how Americans perceive and reason about health insurance policies through two large-scale surveys and experiments conducted in 2019 and 2025. We elicit open-ended considerations, measure factual knowledge, and examine policy views on redistribution, fairness, and efficiency. While respondents broadly agree on the benefits of expanded coverage, cost concerns dominate, and partisan divides remain sharp. Our experiments show that abstract efficiency- and equity-based arguments have limited effects on policy preferences. By contrast, concrete information about existing programs, especially Medicaid, significantly increases support for their expansion, suggesting program-specific communication may be a powerful tool for shaping public opinion.
+
   #2025
-- title: "Zero-Sum Thinking and the Roots of U.S. Political Differences [UPDATED! January 2025]" 
+- title: "Zero-Sum Thinking and the Roots of U.S. Political Differences" 
   pdflink: "https://socialeconomicslab.org/zero_sum_political_divides/"
   coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
   book: "American Economic Review"
