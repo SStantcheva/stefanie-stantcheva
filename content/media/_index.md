@@ -9,6 +9,16 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2025
+World Economic Forum 2026 *"How Housing Became a Bottleneck" [[Video]](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/sessions/how-housing-became-a-bottleneck/)
+
+World Economic Forum 2026 *"Healthcare: Cost or Investment" [[Video]](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/sessions/healthcare-cost-or-investment/)
+
+la Repubblica *"Interview with la Repubblica on zero-sum thinking and research at the Social Economics Lab"* [[Article]](https://www.repubblica.it/economia/2026/01/19/news/intervista_stantchevadavos_economia_somma_zero-425103499/?ref=pay_amp) [[PDF, in Italian]](https://socialeconomicslab.org/la_repubblica_article/)
+
+NZZ *"Interview on Trade Policy and Zero-Sum Thinking"* [[Article]](https://www.nzz.ch/pro/harvard-oekonomin-das-nullsummendenken-ist-bei-juengeren-generationen-deutlich-staerker-ausgepraegt-als-bei-aelteren-ld.1916265) [[PDF, in German]](https://socialeconomicslab.org/nzz_article/)
+
+American Economic Association *2026 AEA Awards Ceremony* [[Video]](https://www.aeaweb.org/webcasts/2026/aea-awards)
+
 The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
 
 Financial Times *"The zero-sum mindset is no mystery"* [[Article]](https://on.ft.com/4jdTdP3) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2025/05/The-zero‑sum-mindset-is-no-mystery.pdf)
