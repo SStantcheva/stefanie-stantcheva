@@ -17,7 +17,7 @@ la Repubblica *"Interview with la Repubblica on zero-sum thinking and research a
 
 NZZ *"Interview on Trade Policy and Zero-Sum Thinking"* [[Article]](https://www.nzz.ch/pro/harvard-oekonomin-das-nullsummendenken-ist-bei-juengeren-generationen-deutlich-staerker-ausgepraegt-als-bei-aelteren-ld.1916265) [[PDF, in German]](https://socialeconomicslab.org/nzz_article/)
 
-American Economic Association *2026 AEA Awards Ceremony* [[Video]](https://www.aeaweb.org/webcasts/2026/aea-awards)
+American Economic Association *"2026 AEA Awards Ceremony"* [[Video]](https://www.aeaweb.org/webcasts/2026/aea-awards)
 
 The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
 
