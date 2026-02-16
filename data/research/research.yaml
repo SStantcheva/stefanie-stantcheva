@@ -204,8 +204,8 @@ publications:
 - title: "Understanding Economic Behavior Using Open-ended Survey Data"
   pdflink: "https://socialeconomicslab.org/econ_behavior_open_ended_data/"
   coauthors: "Ingar Haaland, Christopher Roth, and Johannes Wohlfart" 
-  book: "Journal of Economic Literature"
-  year: "Forthcoming"
+  book: "Journal of Economic Literature 63(4): 1244–80"
+  year: "2025"
   note: "An earlier version of this paper was circulated under the title “Measuring What Is Top of Mind”"
   abstract: > 
    We survey the recent literature in economics using open-ended survey data to uncover mechanisms behind economic beliefs and behaviors. We first provide an overview of different applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. We next describe different ways of eliciting open-ended responses, including single-item open-ended questions, speech recordings, and AI-powered qualitative interviews. Subsequently, we discuss methods to annotate and analyze such data with a focus on recent advances in large language models. Our review concludes with a discussion of promising avenues for future research.
