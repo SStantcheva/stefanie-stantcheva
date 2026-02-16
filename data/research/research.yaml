@@ -208,7 +208,7 @@ publications:
   year: "2025"
   note: "An earlier version of this paper was circulated under the title “Measuring What Is Top of Mind”"
   abstract: > 
-   We survey the recent literature in economics using open-ended survey data to uncover mechanisms behind economic beliefs and behaviors. We first provide an overview of different applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. We next describe different ways of eliciting open-ended responses, including single-item open-ended questions, speech recordings, and AI-powered qualitative interviews. Subsequently, we discuss methods to annotate and analyze such data with a focus on recent advances in large language models. Our review concludes with a discussion of promising avenues for future research.
+   We survey the recent literature in economics using open-ended survey data to uncover mechanisms behind economic beliefs and behaviors. We first provide an overview of different applications, including the measurement of motives, mental models, narratives, attention, information transmission, and recall. We next describe different ways of eliciting open-ended responses, including single-item open-ended questions, speech recordings, and artificial intelligence–powered qualitative interviews. Subsequently, we discuss methods to annotate and analyze such data with a focus on recent advances in large language models. Our review concludes with a discussion of promising avenues for future research.
   
 - title: "Perceptions, Mindsets and Beliefs Shaping Policy Views (2024 Economica-Coase Lecture)"
   pdflink: "https://socialeconomicslab.org/stantcheva_economica_coase_lecture/"
