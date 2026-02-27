@@ -187,12 +187,11 @@ publications:
   abstract: > 
    This paper investigates how Americans perceive and reason about health insurance policies through two large-scale surveys and experiments conducted in 2019 and 2025. We elicit open-ended considerations, measure factual knowledge, and examine policy views on redistribution, fairness, and efficiency. While respondents broadly agree on the benefits of expanded coverage, cost concerns dominate, and partisan divides remain sharp. Our experiments show that abstract efficiency- and equity-based arguments have limited effects on policy preferences. By contrast, concrete information about existing programs, especially Medicaid, significantly increases support for their expansion, suggesting program-specific communication may be a powerful tool for shaping public opinion.
 
-  #2025
 - title: "Zero-Sum Thinking and the Roots of U.S. Political Differences" 
   pdflink: "https://socialeconomicslab.org/zero_sum_political_divides/"
   coauthors: "Sahil Chinoy, Nathan Nunn, and Sandra Sequeira" 
   book: "American Economic Review"
-  year: "Forthcoming" 
+  year: "2026" 
   links:
     - url: "https://socialeconomicslab.org/research/working-papers/zero-sum-thinking-and-the-roots-of-u-s-political-divides/"
       text: "Online Appendix, Questionnaire, Replication Package and Slides"
@@ -200,7 +199,8 @@ publications:
       text: "Summary Twitter Thread"
   abstract: >
     We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 U.S. residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement.
-  
+
+  #2025
 - title: "Understanding Economic Behavior Using Open-ended Survey Data"
   pdflink: "https://socialeconomicslab.org/econ_behavior_open_ended_data/"
   coauthors: "Ingar Haaland, Christopher Roth, and Johannes Wohlfart" 
