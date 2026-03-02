@@ -8,7 +8,11 @@ weight = 0
 
 Here is some selected media coverage of my research. 
 
-### 2025
+### 2026
+Die Zeit *"Interview with Die Zeit on Inflation, Social Mobility, and Zero-Sum Thinking"* [[Article]](https://www.zeit.de/wirtschaft/2026-02/stefanie-stantcheva-usa-inflation-junge-menschen-ressourcen-knappheit) [[PDF, in German]](https://socialeconomicslab.org/socialmobility_inflation/)
+
+Stern *"Interview with Stern on How Americans Feel About the Economy and Zero-Sum Thinking"* [[Article]](https://www.stern.de/capital/usa-unter-trump--oekonomin-erklaert--was-amerikaner-wirklich-denken-37161232.html) [[PDF, in German]](https://socialeconomicslab.org/perception_economy_zerosum/)
+
 World Economic Forum 2026 *"How Housing Became a Bottleneck"* [[Video]](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/sessions/how-housing-became-a-bottleneck/)
 
 World Economic Forum 2026 *"Healthcare: Cost or Investment"* [[Video]](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/sessions/healthcare-cost-or-investment/)
@@ -19,6 +23,7 @@ NZZ *"Interview on Trade Policy and Zero-Sum Thinking"* [[Article]](https://www.
 
 American Economic Association *"2026 AEA Awards Ceremony"* [[Video]](https://www.aeaweb.org/webcasts/2026/aea-awards)
 
+### 2025
 The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
 
 Financial Times *"The zero-sum mindset is no mystery"* [[Article]](https://on.ft.com/4jdTdP3) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2025/05/The-zero‑sum-mindset-is-no-mystery.pdf)
