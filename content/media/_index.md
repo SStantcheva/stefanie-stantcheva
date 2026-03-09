@@ -9,7 +9,7 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2026
-Die Zeit *"Interview with Die Zeit on Inflation, Social Mobility, and Zero-Sum Thinking"* [[Article]](https://socialeconomicslab.org/stantcheva_inflation_-die_zeit/) [[PDF, in German]](https://socialeconomicslab.org/socialmobility_inflation/)
+Die Zeit *"Interview with Die Zeit on Inflation, Social Mobility, and Zero-Sum Thinking"* [[Article]](https://socialeconomicslab.org/stantcheva_inflation_-die_zeit/)
 
 Stern *"Interview with Stern on How Americans Feel About the Economy and Zero-Sum Thinking"* [[Article]](https://www.stern.de/capital/usa-unter-trump--oekonomin-erklaert--was-amerikaner-wirklich-denken-37161232.html) [[PDF, in German]](https://socialeconomicslab.org/perception_economy_zerosum/)
 
