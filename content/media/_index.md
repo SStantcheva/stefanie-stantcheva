@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2026
+Spiegel *"Interview with Spiegel on Redistribution and Zero-Sum Thinking"* [[Article]](https://www.spiegel.de/wirtschaft/soziales/verteilungsneid-was-mein-nachbar-schon-hat-kann-ich-selbst-nicht-mehr-ergattern-a-3bc397a8-e87f-41da-9cc0-0fe653633f47)[[PDF]](https://socialeconomicslab.org/stefanie_stantcheva_spiegel/)
+
 Die Zeit *"Interview with Die Zeit on Inflation, Social Mobility, and Zero-Sum Thinking"* [[Article]](https://socialeconomicslab.org/stantcheva_inflation_-die_zeit/)
 
 Stern *"Interview with Stern on How Americans Feel About the Economy and Zero-Sum Thinking"* [[Article]](https://www.stern.de/capital/usa-unter-trump--oekonomin-erklaert--was-amerikaner-wirklich-denken-37161232.html) [[PDF, in German]](https://socialeconomicslab.org/perception_economy_zerosum/)
