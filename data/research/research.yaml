@@ -51,21 +51,6 @@ workingpapers:
   abstract: > 
     This paper studies how and why households adjust their spending, saving, and borrowing in response to transitory income shocks. We leverage new large-scale survey data to first quantitatively assess households' intertemporal marginal propensities to consume (MPCs) and deleverage (MPDs) (the ``how"), and second to dive into the motivations and decision-making processes across households (the ``why"). The combination of the quantitative estimation of household response dynamics with a qualitative exploration of the mental models employed during financial decisions provides a more complete view of household behavior. Our findings are as follows. First, we validate the reliability of surveys in predicting actual economic behaviors using a new approach called cross-validation, which compares the responses to hypothetical financial scenarios with observed actions from past studies. Participants' predicted reactions closely align with real-life behaviors. Second, we show that MPCs are significantly higher immediately following an income shock and diminish over time, with cumulative MPCs over a year showing significant variability. However, MPDs play a critical role in household financial adjustments and display significantly more cross-sectional heterogeneity. Neither is easily explained by socioeconomic or financial characteristics alone, and the explanatory power is improved by adding psychological factors, past experiences, and expectations. Third, using specifically-designed survey questions, we find that there is a broad range of motivations behind households' financial decisions and identify four household types using machine learning: Strongly Constrained, Precautionary, Quasi-Smoothers, and Spenders. Similar financial actions stem from diverse reasons, challenging the predictability of financial behavior solely based on socioeconomic and financial characteristics. Finally, we use our findings to address some puzzles in household finance. 
 
-- title: "Wealth and Property Taxation in the United States [UPDATED! April 2026]"
-  pdflink: "https://stantcheva.scholars.harvard.edu/resource/draylandaisstantchevawealthpropertytaxuspdf"
-  coauthors: "Sacha Dray and Camille Landais"
-  book: "NBER Working Paper 31080 [Revise and Resubmit at the Quarterly Journal of Economics]"
-  year: "2023" 
-  links:
-    - url: "https://socialeconomicslab.org/oa_dray_landais_stantcheva_wealth_property_tax_us/"
-      text: "Online Appendix"
-    - url: "https://stantcheva.scholars.harvard.edu/resource/wealthpropertytaxslidespdf"
-      text: "Slides"
-    - url: "https://x.com/s_stantcheva/status/1674775169313775616?s=46"
-      text: "Summary Twitter Thread"
-  abstract: >
-    We study the history and geography of wealth accumulation in the US, using newly collected historical property tax records since the early 1800s. The US General Property Tax was a comprehensive tax on all types of property (real, personal, and financial), making it one of the first ``wealth taxes.'' Drawing on many historical records, we construct long-run, consistent, high-frequency wealth series at the county, state, and national levels. We first document the long-term evolution of household wealth in the US since the early 1800s. The US experienced extraordinary wealth accumulation after the Civil war and until the Great Depression. Second, we reveal that spatial inequality in the US has been large and highly persistent since the mid-1800s, driven mainly by Southern states, whose long-run divergence from the rest of the US predated the Civil War. Before the Civil war, enslaved people were assessed as personal property of the enslavers, representing almost one-half of total taxable property in Southern states. This system is morally abhorrent and implies wrongly counting forced labor income as capital. The regional distribution of wealth and the effects of the Civil war appear very different if enslaved people are not included in the property measure. Third, we investigate the determinants of long-term wealth growth and capital accumulation. Among others, we find that counties with a higher share of enslaved property before the Civil War or higher levels of wealth inequality experienced lower subsequent long-run growth in property. 
-
 - title: "Understanding of Trade [UPDATED! August 2023]"
   pdflink: "https://socialeconomicslab.org/understanding_trade/"
   book: "NBER Working Paper 30040 [Revise and Resubmit at the Review of Economic Studies]"
@@ -178,6 +163,21 @@ workingpapers:
     This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
 publications:
   #2026
+- title: "Wealth and Property Taxation in the United States"
+  pdflink: "https://stantcheva.scholars.harvard.edu/resource/draylandaisstantchevawealthpropertytaxuspdf"
+  coauthors: "Sacha Dray and Camille Landais"
+  book: "Quarterly Journal of Economics"
+  year: "Forthcoming" 
+  links:
+    - url: "https://socialeconomicslab.org/oa_dray_landais_stantcheva_wealth_property_tax_us/"
+      text: "Online Appendix"
+    - url: "https://stantcheva.scholars.harvard.edu/resource/wealthpropertytaxslidespdf"
+      text: "Slides"
+    - url: "https://x.com/s_stantcheva/status/1674775169313775616?s=46"
+      text: "Summary Twitter Thread"
+  abstract: >
+    We study the history and geography of wealth accumulation in the United States using newly collected historical property tax records from the early 1800s onward. These records come from the administration of the General Property Tax–a tax that aspired to cover all types of property. We construct wealth series at the state, county, and national levels. At the state level, we use annual assessed values of wealth from state-level reports drawn from multiple sources. Because assessed values may differ from market values, we also require assessment ratios, defined as the ratio of assessed to market wealth. We obtain state-level assessment ratios from decadal U.S. Census wealth data (drawn from various Census reports, including those on “Wealth, Debt, and Taxation”), in which the Census carried out detailed valuation work, complemented with information on changes in assessment practices from the state reports, to build higher-frequency series of assessment ratios. The result is long-run annual wealth series for states from 1850 (or earlier, depending on the state) to 1935. We obtain national wealth series by aggregating these state series. At the county level, we use assessed values (or market values where available) from the U.S. Census wealth data for each decade, and apply either state-level or county-level assessment ratios, where available, to obtain market values of wealth for each decade from 1850 to 1930. We use these data to show, first, that the United States experienced extraordinary wealth accumulation after the Civil War and until the Great Depression. Second, spatial inequality in the United States has been large and highly persistent since the mid1800s. We also examine the determinants of long-term wealth growth and find, among other results, that counties with a higher share of enslaved property before the Civil War or with higher wealth inequality experienced lower subsequent long-run wealth growth.
+  
 - title: "How Americans Think About Health Care and Insurance"
   pdflink: "https://socialeconomicslab.org/understanding_health/"
   coauthors: "Beatrice Ferrario" 
