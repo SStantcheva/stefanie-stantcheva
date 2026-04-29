@@ -9,6 +9,8 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2026
+Financial Times *"Rage in the age of X"* [[Article]](https://www.ft.com/content/914d0e31-231c-4663-9b39-c81d80187aef?syn-25a6b1a6=1) [[PDF]](https://socialeconomicslab.org/news/rage-in-the-age-of-x/)
+
 Spiegel *"Interview with Spiegel on Redistribution and Zero-Sum Thinking"* [[Article]](https://www.spiegel.de/wirtschaft/soziales/verteilungsneid-was-mein-nachbar-schon-hat-kann-ich-selbst-nicht-mehr-ergattern-a-3bc397a8-e87f-41da-9cc0-0fe653633f47) [[PDF]](https://socialeconomicslab.org/stefanie_stantcheva_spiegel/)
 
 Die Zeit *"Interview with Die Zeit on Inflation, Social Mobility, and Zero-Sum Thinking"* [[Article]](https://socialeconomicslab.org/stantcheva_inflation_-die_zeit/)
