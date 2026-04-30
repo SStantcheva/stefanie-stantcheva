@@ -28,7 +28,7 @@ NZZ *"Interview on Trade Policy and Zero-Sum Thinking"* [[Article]](https://www.
 American Economic Association *"2026 AEA Awards Ceremony"* [[Video]](https://www.aeaweb.org/webcasts/2026/aea-awards)
 
 ### 2025
-The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
+The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[Article]](https://www.economist.com/by-invitation/2025/07/07/to-understand-america-today-study-the-zero-sum-mindset-writes-stefanie-stantcheva) [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
 
 Financial Times *"The zero-sum mindset is no mystery"* [[Article]](https://on.ft.com/4jdTdP3) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2025/05/The-zero‑sum-mindset-is-no-mystery.pdf)
 
@@ -53,7 +53,7 @@ The Wall Street Journal *"Inflation Has Cooled, but Americans Are Still Seething
 
 Marketplace Morning Report *"Interest rates, inflation and the American consumer"* [[Podcast]](https://www.marketplace.org/shows/make-me-smart/interest-rates-inflation-and-the-american-consumer/)
 
-New York Times *"The Matrix of Consumer Discontent"* [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/07/Opinion-Why-Are-People-Unhappy-About-a-Strong-Economy-The-New-York-Times.pdf)
+New York Times *"The Matrix of Consumer Discontent"* [[Article]](https://www.nytimes.com/2024/07/09/opinion/economy-consumer-sentiment.html) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/07/Opinion-Why-Are-People-Unhappy-About-a-Strong-Economy-The-New-York-Times.pdf)
 
 Financial Times *"How much cash would it take for you to quit your job?"* [[Article]](https://www.ft.com/content/85fa4497-ddbc-4b2f-86ed-6c83ee3c5180) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2024/07/How-much-cash-would-it-take-for-you-to-quit-your-job.pdf)
 
