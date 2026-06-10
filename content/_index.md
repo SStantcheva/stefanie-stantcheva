@@ -26,7 +26,6 @@ Here is an older (2021) [Research Summary](https://stantcheva.scholars.harvard.e
 ## Contact
 
 **Email:** sstantcheva@fas.harvard.edu      
-
 **Address:** 
 Department of Economics  
 Littauer Center 232  
