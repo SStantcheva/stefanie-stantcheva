@@ -9,9 +9,9 @@ weight = 0
 Here is some selected media coverage of my research. 
 
 ### 2026
-Financial Times *"Zero-sum thinking will fuel resentment and scarcity"* [[Article]](https://www.ft.com/content/492134e9-49eb-4f13-b70a-b2b595ed0e2a?syn-25a6b1a6=1) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2026/08/Zero-sum-thinking-will-fuel-resentment-and-scarcity.pdf)
-
 The Economist *"Quantifying anger in American politics"* [[Article]](https://www.economist.com/united-states/2026/08/30/quantifying-anger-in-american-politics) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2026/08/Quantifying-anger-in-American-politics.pdf)
+
+Financial Times *"Zero-sum thinking will fuel resentment and scarcity"* [[Article]](https://www.ft.com/content/492134e9-49eb-4f13-b70a-b2b595ed0e2a?syn-25a6b1a6=1) [[PDF]](https://socialeconomicslab.org/wp-content/uploads/2026/08/Zero-sum-thinking-will-fuel-resentment-and-scarcity.pdf)
 
 Financial Times *"Rage in the age of X"* [[Article]](https://www.ft.com/content/914d0e31-231c-4663-9b39-c81d80187aef?syn-25a6b1a6=1) [[PDF]](https://socialeconomicslab.org/emotions_rage_x_ft/)
 
